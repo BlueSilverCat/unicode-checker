@@ -1,0 +1,287 @@
+[
+  {
+    "short": "AHex",
+    "long": "ASCII_Hex_Digit"
+  },
+  {
+    "short": "ASCII",
+    "long": "ASCII"
+  },
+  {
+    "short": "Alpha",
+    "long": "Alphabetic"
+  },
+  {
+    "short": "Any",
+    "long": "Any"
+  },
+  {
+    "short": "Assigned",
+    "long": "Assigned"
+  },
+  {
+    "short": "Bidi_C",
+    "long": "Bidi_Control"
+  },
+  {
+    "short": "Bidi_M",
+    "long": "Bidi_Mirrored"
+  },
+  {
+    "short": "CE",
+    "long": "Composition_Exclusion"
+  },
+  {
+    "short": "CI",
+    "long": "Case_Ignorable"
+  },
+  {
+    "short": "CWCF",
+    "long": "Changes_When_Casefolded"
+  },
+  {
+    "short": "CWCM",
+    "long": "Changes_When_Casemapped"
+  },
+  {
+    "short": "CWKCF",
+    "long": "Changes_When_NFKC_Casefolded"
+  },
+  {
+    "short": "CWL",
+    "long": "Changes_When_Lowercased"
+  },
+  {
+    "short": "CWT",
+    "long": "Changes_When_Titlecased"
+  },
+  {
+    "short": "CWU",
+    "long": "Changes_When_Uppercased"
+  },
+  {
+    "short": "Cased",
+    "long": "Cased"
+  },
+  {
+    "short": "Comp_Ex",
+    "long": "Full_Composition_Exclusion"
+  },
+  {
+    "short": "DI",
+    "long": "Default_Ignorable_Code_Point"
+  },
+  {
+    "short": "Dash",
+    "long": "Dash"
+  },
+  {
+    "short": "Dep",
+    "long": "Deprecated"
+  },
+  {
+    "short": "Dia",
+    "long": "Diacritic"
+  },
+  {
+    "short": "EBase",
+    "long": "Emoji_Modifier_Base"
+  },
+  {
+    "short": "EComp",
+    "long": "Emoji_Component"
+  },
+  {
+    "short": "EMod",
+    "long": "Emoji_Modifier"
+  },
+  {
+    "short": "EPres",
+    "long": "Emoji_Presentation"
+  },
+  {
+    "short": "Emoji",
+    "long": "Emoji"
+  },
+  {
+    "short": "Ext",
+    "long": "Extender"
+  },
+  {
+    "short": "ExtPict",
+    "long": "Extended_Pictographic"
+  },
+  {
+    "short": "Gr_Base",
+    "long": "Grapheme_Base"
+  },
+  {
+    "short": "Gr_Ext",
+    "long": "Grapheme_Extend"
+  },
+  {
+    "short": "Gr_Link",
+    "long": "Grapheme_Link"
+  },
+  {
+    "short": "Hex",
+    "long": "Hex_Digit"
+  },
+  {
+    "short": "Hyphen",
+    "long": "Hyphen"
+  },
+  {
+    "short": "IDC",
+    "long": "ID_Continue"
+  },
+  {
+    "short": "IDS",
+    "long": "ID_Start"
+  },
+  {
+    "short": "IDSB",
+    "long": "IDS_Binary_Operator"
+  },
+  {
+    "short": "IDST",
+    "long": "IDS_Trinary_Operator"
+  },
+  {
+    "short": "Ideo",
+    "long": "Ideographic"
+  },
+  {
+    "short": "Join_C",
+    "long": "Join_Control"
+  },
+  {
+    "short": "LOE",
+    "long": "Logical_Order_Exception"
+  },
+  {
+    "short": "Lower",
+    "long": "Lowercase"
+  },
+  {
+    "short": "Math",
+    "long": "Math"
+  },
+  {
+    "short": "NChar",
+    "long": "Noncharacter_Code_Point"
+  },
+  {
+    "short": "OAlpha",
+    "long": "Other_Alphabetic"
+  },
+  {
+    "short": "ODI",
+    "long": "Other_Default_Ignorable_Code_Point"
+  },
+  {
+    "short": "OGr_Ext",
+    "long": "Other_Grapheme_Extend"
+  },
+  {
+    "short": "OIDC",
+    "long": "Other_ID_Continue"
+  },
+  {
+    "short": "OIDS",
+    "long": "Other_ID_Start"
+  },
+  {
+    "short": "OLower",
+    "long": "Other_Lowercase"
+  },
+  {
+    "short": "OMath",
+    "long": "Other_Math"
+  },
+  {
+    "short": "OUpper",
+    "long": "Other_Uppercase"
+  },
+  {
+    "short": "PCM",
+    "long": "Prepended_Concatenation_Mark"
+  },
+  {
+    "short": "Pat_Syn",
+    "long": "Pattern_Syntax"
+  },
+  {
+    "short": "Pat_WS",
+    "long": "Pattern_White_Space"
+  },
+  {
+    "short": "QMark",
+    "long": "Quotation_Mark"
+  },
+  {
+    "short": "RI",
+    "long": "Regional_Indicator"
+  },
+  {
+    "short": "Radical",
+    "long": "Radical"
+  },
+  {
+    "short": "SD",
+    "long": "Soft_Dotted"
+  },
+  {
+    "short": "STerm",
+    "long": "Sentence_Terminal"
+  },
+  {
+    "short": "Term",
+    "long": "Terminal_Punctuation"
+  },
+  {
+    "short": "UIdeo",
+    "long": "Unified_Ideograph"
+  },
+  {
+    "short": "Unassigned",
+    "long": "Unassigned"
+  },
+  {
+    "short": "Upper",
+    "long": "Uppercase"
+  },
+  {
+    "short": "VS",
+    "long": "Variation_Selector"
+  },
+  {
+    "short": "WSpace",
+    "long": "White_Space",
+    "alias": "space"
+  },
+  {
+    "short": "XIDC",
+    "long": "XID_Continue"
+  },
+  {
+    "short": "XIDS",
+    "long": "XID_Start"
+  },
+  {
+    "short": "XO_NFC",
+    "long": "Expands_On_NFC"
+  },
+  {
+    "short": "XO_NFD",
+    "long": "Expands_On_NFD"
+  },
+  {
+    "short": "XO_NFKC",
+    "long": "Expands_On_NFKC"
+  },
+  {
+    "short": "XO_NFKD",
+    "long": "Expands_On_NFKD"
+  }
+]

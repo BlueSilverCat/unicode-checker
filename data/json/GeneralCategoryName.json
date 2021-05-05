@@ -1,0 +1,158 @@
+[
+  {
+    "short": "C",
+    "long": "Other"
+  },
+  {
+    "short": "Cc",
+    "long": "Control",
+    "alias": "cntrl"
+  },
+  {
+    "short": "Cf",
+    "long": "Format"
+  },
+  {
+    "short": "Cn",
+    "long": "Unassigned"
+  },
+  {
+    "short": "Co",
+    "long": "Private_Use"
+  },
+  {
+    "short": "Cs",
+    "long": "Surrogate"
+  },
+  {
+    "short": "L",
+    "long": "Letter"
+  },
+  {
+    "short": "LC",
+    "long": "Cased_Letter"
+  },
+  {
+    "short": "Ll",
+    "long": "Lowercase_Letter"
+  },
+  {
+    "short": "Lm",
+    "long": "Modifier_Letter"
+  },
+  {
+    "short": "Lo",
+    "long": "Other_Letter"
+  },
+  {
+    "short": "Lt",
+    "long": "Titlecase_Letter"
+  },
+  {
+    "short": "Lu",
+    "long": "Uppercase_Letter"
+  },
+  {
+    "short": "M",
+    "long": "Mark",
+    "alias": "Combining_Mark"
+  },
+  {
+    "short": "Mc",
+    "long": "Spacing_Mark"
+  },
+  {
+    "short": "Me",
+    "long": "Enclosing_Mark"
+  },
+  {
+    "short": "Mn",
+    "long": "Nonspacing_Mark"
+  },
+  {
+    "short": "N",
+    "long": "Number"
+  },
+  {
+    "short": "Nd",
+    "long": "Decimal_Number",
+    "alias": "digit"
+  },
+  {
+    "short": "Nl",
+    "long": "Letter_Number"
+  },
+  {
+    "short": "No",
+    "long": "Other_Number"
+  },
+  {
+    "short": "P",
+    "long": "Punctuation",
+    "alias": "punct"
+  },
+  {
+    "short": "Pc",
+    "long": "Connector_Punctuation"
+  },
+  {
+    "short": "Pd",
+    "long": "Dash_Punctuation"
+  },
+  {
+    "short": "Pe",
+    "long": "Close_Punctuation"
+  },
+  {
+    "short": "Pf",
+    "long": "Final_Punctuation"
+  },
+  {
+    "short": "Pi",
+    "long": "Initial_Punctuation"
+  },
+  {
+    "short": "Po",
+    "long": "Other_Punctuation"
+  },
+  {
+    "short": "Ps",
+    "long": "Open_Punctuation"
+  },
+  {
+    "short": "S",
+    "long": "Symbol"
+  },
+  {
+    "short": "Sc",
+    "long": "Currency_Symbol"
+  },
+  {
+    "short": "Sk",
+    "long": "Modifier_Symbol"
+  },
+  {
+    "short": "Sm",
+    "long": "Math_Symbol"
+  },
+  {
+    "short": "So",
+    "long": "Other_Symbol"
+  },
+  {
+    "short": "Z",
+    "long": "Separator"
+  },
+  {
+    "short": "Zl",
+    "long": "Line_Separator"
+  },
+  {
+    "short": "Zp",
+    "long": "Paragraph_Separator"
+  },
+  {
+    "short": "Zs",
+    "long": "Space_Separator"
+  }
+]

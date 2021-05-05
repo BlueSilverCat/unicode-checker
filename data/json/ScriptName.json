@@ -1,0 +1,636 @@
+[
+  {
+    "short": "Adlm",
+    "long": "Adlam"
+  },
+  {
+    "short": "Aghb",
+    "long": "Caucasian_Albanian"
+  },
+  {
+    "short": "Ahom",
+    "long": "Ahom"
+  },
+  {
+    "short": "Arab",
+    "long": "Arabic"
+  },
+  {
+    "short": "Armi",
+    "long": "Imperial_Aramaic"
+  },
+  {
+    "short": "Armn",
+    "long": "Armenian"
+  },
+  {
+    "short": "Avst",
+    "long": "Avestan"
+  },
+  {
+    "short": "Bali",
+    "long": "Balinese"
+  },
+  {
+    "short": "Bamu",
+    "long": "Bamum"
+  },
+  {
+    "short": "Bass",
+    "long": "Bassa_Vah"
+  },
+  {
+    "short": "Batk",
+    "long": "Batak"
+  },
+  {
+    "short": "Beng",
+    "long": "Bengali"
+  },
+  {
+    "short": "Bhks",
+    "long": "Bhaiksuki"
+  },
+  {
+    "short": "Bopo",
+    "long": "Bopomofo"
+  },
+  {
+    "short": "Brah",
+    "long": "Brahmi"
+  },
+  {
+    "short": "Brai",
+    "long": "Braille"
+  },
+  {
+    "short": "Bugi",
+    "long": "Buginese"
+  },
+  {
+    "short": "Buhd",
+    "long": "Buhid"
+  },
+  {
+    "short": "Cakm",
+    "long": "Chakma"
+  },
+  {
+    "short": "Cans",
+    "long": "Canadian_Aboriginal"
+  },
+  {
+    "short": "Cari",
+    "long": "Carian"
+  },
+  {
+    "short": "Cham",
+    "long": "Cham"
+  },
+  {
+    "short": "Cher",
+    "long": "Cherokee"
+  },
+  {
+    "short": "Chrs",
+    "long": "Chorasmian"
+  },
+  {
+    "short": "Copt",
+    "long": "Coptic",
+    "alias": "Qaac"
+  },
+  {
+    "short": "Cprt",
+    "long": "Cypriot"
+  },
+  {
+    "short": "Cyrl",
+    "long": "Cyrillic"
+  },
+  {
+    "short": "Deva",
+    "long": "Devanagari"
+  },
+  {
+    "short": "Diak",
+    "long": "Dives_Akuru"
+  },
+  {
+    "short": "Dogr",
+    "long": "Dogra"
+  },
+  {
+    "short": "Dsrt",
+    "long": "Deseret"
+  },
+  {
+    "short": "Dupl",
+    "long": "Duployan"
+  },
+  {
+    "short": "Egyp",
+    "long": "Egyptian_Hieroglyphs"
+  },
+  {
+    "short": "Elba",
+    "long": "Elbasan"
+  },
+  {
+    "short": "Elym",
+    "long": "Elymaic"
+  },
+  {
+    "short": "Ethi",
+    "long": "Ethiopic"
+  },
+  {
+    "short": "Geor",
+    "long": "Georgian"
+  },
+  {
+    "short": "Glag",
+    "long": "Glagolitic"
+  },
+  {
+    "short": "Gong",
+    "long": "Gunjala_Gondi"
+  },
+  {
+    "short": "Gonm",
+    "long": "Masaram_Gondi"
+  },
+  {
+    "short": "Goth",
+    "long": "Gothic"
+  },
+  {
+    "short": "Gran",
+    "long": "Grantha"
+  },
+  {
+    "short": "Grek",
+    "long": "Greek"
+  },
+  {
+    "short": "Gujr",
+    "long": "Gujarati"
+  },
+  {
+    "short": "Guru",
+    "long": "Gurmukhi"
+  },
+  {
+    "short": "Hang",
+    "long": "Hangul"
+  },
+  {
+    "short": "Hani",
+    "long": "Han"
+  },
+  {
+    "short": "Hano",
+    "long": "Hanunoo"
+  },
+  {
+    "short": "Hatr",
+    "long": "Hatran"
+  },
+  {
+    "short": "Hebr",
+    "long": "Hebrew"
+  },
+  {
+    "short": "Hira",
+    "long": "Hiragana"
+  },
+  {
+    "short": "Hluw",
+    "long": "Anatolian_Hieroglyphs"
+  },
+  {
+    "short": "Hmng",
+    "long": "Pahawh_Hmong"
+  },
+  {
+    "short": "Hmnp",
+    "long": "Nyiakeng_Puachue_Hmong"
+  },
+  {
+    "short": "Hrkt",
+    "long": "Katakana_Or_Hiragana"
+  },
+  {
+    "short": "Hung",
+    "long": "Old_Hungarian"
+  },
+  {
+    "short": "Ital",
+    "long": "Old_Italic"
+  },
+  {
+    "short": "Java",
+    "long": "Javanese"
+  },
+  {
+    "short": "Kali",
+    "long": "Kayah_Li"
+  },
+  {
+    "short": "Kana",
+    "long": "Katakana"
+  },
+  {
+    "short": "Khar",
+    "long": "Kharoshthi"
+  },
+  {
+    "short": "Khmr",
+    "long": "Khmer"
+  },
+  {
+    "short": "Khoj",
+    "long": "Khojki"
+  },
+  {
+    "short": "Kits",
+    "long": "Khitan_Small_Script"
+  },
+  {
+    "short": "Knda",
+    "long": "Kannada"
+  },
+  {
+    "short": "Kthi",
+    "long": "Kaithi"
+  },
+  {
+    "short": "Lana",
+    "long": "Tai_Tham"
+  },
+  {
+    "short": "Laoo",
+    "long": "Lao"
+  },
+  {
+    "short": "Latn",
+    "long": "Latin"
+  },
+  {
+    "short": "Lepc",
+    "long": "Lepcha"
+  },
+  {
+    "short": "Limb",
+    "long": "Limbu"
+  },
+  {
+    "short": "Lina",
+    "long": "Linear_A"
+  },
+  {
+    "short": "Linb",
+    "long": "Linear_B"
+  },
+  {
+    "short": "Lisu",
+    "long": "Lisu"
+  },
+  {
+    "short": "Lyci",
+    "long": "Lycian"
+  },
+  {
+    "short": "Lydi",
+    "long": "Lydian"
+  },
+  {
+    "short": "Mahj",
+    "long": "Mahajani"
+  },
+  {
+    "short": "Maka",
+    "long": "Makasar"
+  },
+  {
+    "short": "Mand",
+    "long": "Mandaic"
+  },
+  {
+    "short": "Mani",
+    "long": "Manichaean"
+  },
+  {
+    "short": "Marc",
+    "long": "Marchen"
+  },
+  {
+    "short": "Medf",
+    "long": "Medefaidrin"
+  },
+  {
+    "short": "Mend",
+    "long": "Mende_Kikakui"
+  },
+  {
+    "short": "Merc",
+    "long": "Meroitic_Cursive"
+  },
+  {
+    "short": "Mero",
+    "long": "Meroitic_Hieroglyphs"
+  },
+  {
+    "short": "Mlym",
+    "long": "Malayalam"
+  },
+  {
+    "short": "Modi",
+    "long": "Modi"
+  },
+  {
+    "short": "Mong",
+    "long": "Mongolian"
+  },
+  {
+    "short": "Mroo",
+    "long": "Mro"
+  },
+  {
+    "short": "Mtei",
+    "long": "Meetei_Mayek"
+  },
+  {
+    "short": "Mult",
+    "long": "Multani"
+  },
+  {
+    "short": "Mymr",
+    "long": "Myanmar"
+  },
+  {
+    "short": "Nand",
+    "long": "Nandinagari"
+  },
+  {
+    "short": "Narb",
+    "long": "Old_North_Arabian"
+  },
+  {
+    "short": "Nbat",
+    "long": "Nabataean"
+  },
+  {
+    "short": "Newa",
+    "long": "Newa"
+  },
+  {
+    "short": "Nkoo",
+    "long": "Nko"
+  },
+  {
+    "short": "Nshu",
+    "long": "Nushu"
+  },
+  {
+    "short": "Ogam",
+    "long": "Ogham"
+  },
+  {
+    "short": "Olck",
+    "long": "Ol_Chiki"
+  },
+  {
+    "short": "Orkh",
+    "long": "Old_Turkic"
+  },
+  {
+    "short": "Orya",
+    "long": "Oriya"
+  },
+  {
+    "short": "Osge",
+    "long": "Osage"
+  },
+  {
+    "short": "Osma",
+    "long": "Osmanya"
+  },
+  {
+    "short": "Palm",
+    "long": "Palmyrene"
+  },
+  {
+    "short": "Pauc",
+    "long": "Pau_Cin_Hau"
+  },
+  {
+    "short": "Perm",
+    "long": "Old_Permic"
+  },
+  {
+    "short": "Phag",
+    "long": "Phags_Pa"
+  },
+  {
+    "short": "Phli",
+    "long": "Inscriptional_Pahlavi"
+  },
+  {
+    "short": "Phlp",
+    "long": "Psalter_Pahlavi"
+  },
+  {
+    "short": "Phnx",
+    "long": "Phoenician"
+  },
+  {
+    "short": "Plrd",
+    "long": "Miao"
+  },
+  {
+    "short": "Prti",
+    "long": "Inscriptional_Parthian"
+  },
+  {
+    "short": "Rjng",
+    "long": "Rejang"
+  },
+  {
+    "short": "Rohg",
+    "long": "Hanifi_Rohingya"
+  },
+  {
+    "short": "Runr",
+    "long": "Runic"
+  },
+  {
+    "short": "Samr",
+    "long": "Samaritan"
+  },
+  {
+    "short": "Sarb",
+    "long": "Old_South_Arabian"
+  },
+  {
+    "short": "Saur",
+    "long": "Saurashtra"
+  },
+  {
+    "short": "Sgnw",
+    "long": "SignWriting"
+  },
+  {
+    "short": "Shaw",
+    "long": "Shavian"
+  },
+  {
+    "short": "Shrd",
+    "long": "Sharada"
+  },
+  {
+    "short": "Sidd",
+    "long": "Siddham"
+  },
+  {
+    "short": "Sind",
+    "long": "Khudawadi"
+  },
+  {
+    "short": "Sinh",
+    "long": "Sinhala"
+  },
+  {
+    "short": "Sogd",
+    "long": "Sogdian"
+  },
+  {
+    "short": "Sogo",
+    "long": "Old_Sogdian"
+  },
+  {
+    "short": "Sora",
+    "long": "Sora_Sompeng"
+  },
+  {
+    "short": "Soyo",
+    "long": "Soyombo"
+  },
+  {
+    "short": "Sund",
+    "long": "Sundanese"
+  },
+  {
+    "short": "Sylo",
+    "long": "Syloti_Nagri"
+  },
+  {
+    "short": "Syrc",
+    "long": "Syriac"
+  },
+  {
+    "short": "Tagb",
+    "long": "Tagbanwa"
+  },
+  {
+    "short": "Takr",
+    "long": "Takri"
+  },
+  {
+    "short": "Tale",
+    "long": "Tai_Le"
+  },
+  {
+    "short": "Talu",
+    "long": "New_Tai_Lue"
+  },
+  {
+    "short": "Taml",
+    "long": "Tamil"
+  },
+  {
+    "short": "Tang",
+    "long": "Tangut"
+  },
+  {
+    "short": "Tavt",
+    "long": "Tai_Viet"
+  },
+  {
+    "short": "Telu",
+    "long": "Telugu"
+  },
+  {
+    "short": "Tfng",
+    "long": "Tifinagh"
+  },
+  {
+    "short": "Tglg",
+    "long": "Tagalog"
+  },
+  {
+    "short": "Thaa",
+    "long": "Thaana"
+  },
+  {
+    "short": "Thai",
+    "long": "Thai"
+  },
+  {
+    "short": "Tibt",
+    "long": "Tibetan"
+  },
+  {
+    "short": "Tirh",
+    "long": "Tirhuta"
+  },
+  {
+    "short": "Ugar",
+    "long": "Ugaritic"
+  },
+  {
+    "short": "Vaii",
+    "long": "Vai"
+  },
+  {
+    "short": "Wara",
+    "long": "Warang_Citi"
+  },
+  {
+    "short": "Wcho",
+    "long": "Wancho"
+  },
+  {
+    "short": "Xpeo",
+    "long": "Old_Persian"
+  },
+  {
+    "short": "Xsux",
+    "long": "Cuneiform"
+  },
+  {
+    "short": "Yezi",
+    "long": "Yezidi"
+  },
+  {
+    "short": "Yiii",
+    "long": "Yi"
+  },
+  {
+    "short": "Zanb",
+    "long": "Zanabazar_Square"
+  },
+  {
+    "short": "Zinh",
+    "long": "Inherited",
+    "alias": "Qaai"
+  },
+  {
+    "short": "Zyyy",
+    "long": "Common"
+  },
+  {
+    "short": "Zzzz",
+    "long": "Unknown"
+  }
+]

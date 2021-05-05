@@ -1,0 +1,15 @@
+[
+  {
+    "start": "0000",
+    "end": "007F",
+    "short": "ASCII",
+    "long": "Basic_Latin"
+  },
+  {
+    "start": "0080",
+    "end": "00FF",
+    "short": "Latin_1_Sup",
+    "long": "Latin_1_Supplement",
+    "alias": "Latin_1"
+  }
+]
