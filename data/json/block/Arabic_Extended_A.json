@@ -1,0 +1,1922 @@
+[
+  {
+    "codePoint": "08A0",
+    "name": [
+      "ARABIC LETTER BEH WITH SMALL V BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A1",
+    "name": [
+      "ARABIC LETTER BEH WITH HAMZA ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A2",
+    "name": [
+      "ARABIC LETTER JEEM WITH TWO DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A3",
+    "name": [
+      "ARABIC LETTER TAH WITH TWO DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A4",
+    "name": [
+      "ARABIC LETTER FEH WITH DOT BELOW AND THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A5",
+    "name": [
+      "ARABIC LETTER QAF WITH DOT BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A6",
+    "name": [
+      "ARABIC LETTER LAM WITH DOUBLE BAR"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A7",
+    "name": [
+      "ARABIC LETTER MEEM WITH THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A8",
+    "name": [
+      "ARABIC LETTER YEH WITH TWO DOTS BELOW AND HAMZA ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08A9",
+    "name": [
+      "ARABIC LETTER YEH WITH TWO DOTS BELOW AND DOT ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AA",
+    "name": [
+      "ARABIC LETTER REH WITH LOOP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AB",
+    "name": [
+      "ARABIC LETTER WAW WITH DOT WITHIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AC",
+    "name": [
+      "ARABIC LETTER ROHINGYA YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AD",
+    "name": [
+      "ARABIC LETTER LOW ALEF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AE",
+    "name": [
+      "ARABIC LETTER DAL WITH THREE DOTS BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08AF",
+    "name": [
+      "ARABIC LETTER SAD WITH THREE DOTS BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B0",
+    "name": [
+      "ARABIC LETTER GAF WITH INVERTED STROKE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B1",
+    "name": [
+      "ARABIC LETTER STRAIGHT WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B2",
+    "name": [
+      "ARABIC LETTER ZAIN WITH INVERTED V ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B3",
+    "name": [
+      "ARABIC LETTER AIN WITH THREE DOTS BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B4",
+    "name": [
+      "ARABIC LETTER KAF WITH DOT BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B6",
+    "name": [
+      "ARABIC LETTER BEH WITH SMALL MEEM ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B7",
+    "name": [
+      "ARABIC LETTER PEH WITH SMALL MEEM ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B8",
+    "name": [
+      "ARABIC LETTER TEH WITH SMALL TEH ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08B9",
+    "name": [
+      "ARABIC LETTER REH WITH SMALL NOON ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BA",
+    "name": [
+      "ARABIC LETTER YEH WITH TWO DOTS BELOW AND SMALL NOON ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BB",
+    "name": [
+      "ARABIC LETTER AFRICAN FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BC",
+    "name": [
+      "ARABIC LETTER AFRICAN QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BD",
+    "name": [
+      "ARABIC LETTER AFRICAN NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BE",
+    "name": [
+      "ARABIC LETTER PEH WITH SMALL V"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08BF",
+    "name": [
+      "ARABIC LETTER TEH WITH SMALL V"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C0",
+    "name": [
+      "ARABIC LETTER TTEH WITH SMALL V"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C1",
+    "name": [
+      "ARABIC LETTER TCHEH WITH SMALL V"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C2",
+    "name": [
+      "ARABIC LETTER KEHEH WITH SMALL V"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C3",
+    "name": [
+      "ARABIC LETTER GHAIN WITH THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C4",
+    "name": [
+      "ARABIC LETTER AFRICAN QAF WITH THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C5",
+    "name": [
+      "ARABIC LETTER JEEM WITH THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C6",
+    "name": [
+      "ARABIC LETTER JEEM WITH THREE DOTS BELOW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C7",
+    "name": [
+      "ARABIC LETTER LAM WITH SMALL ARABIC LETTER TAH ABOVE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08C9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08CF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D3",
+    "name": [
+      "ARABIC SMALL LOW WAW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D4",
+    "name": [
+      "ARABIC SMALL HIGH WORD AR-RUB"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D5",
+    "name": [
+      "ARABIC SMALL HIGH SAD"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D6",
+    "name": [
+      "ARABIC SMALL HIGH AIN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D7",
+    "name": [
+      "ARABIC SMALL HIGH QAF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D8",
+    "name": [
+      "ARABIC SMALL HIGH NOON WITH KASRA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08D9",
+    "name": [
+      "ARABIC SMALL LOW NOON WITH KASRA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DA",
+    "name": [
+      "ARABIC SMALL HIGH WORD ATH-THALATHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DB",
+    "name": [
+      "ARABIC SMALL HIGH WORD AS-SAJDA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DC",
+    "name": [
+      "ARABIC SMALL HIGH WORD AN-NISF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DD",
+    "name": [
+      "ARABIC SMALL HIGH WORD SAKTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DE",
+    "name": [
+      "ARABIC SMALL HIGH WORD QIF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08DF",
+    "name": [
+      "ARABIC SMALL HIGH WORD WAQFA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E0",
+    "name": [
+      "ARABIC SMALL HIGH FOOTNOTE MARKER"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E1",
+    "name": [
+      "ARABIC SMALL HIGH SIGN SAFHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E2",
+    "name": [
+      "ARABIC DISPUTED END OF AYAH"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E3",
+    "name": [
+      "ARABIC TURNED DAMMA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E4",
+    "name": [
+      "ARABIC CURLY FATHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E5",
+    "name": [
+      "ARABIC CURLY DAMMA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E6",
+    "name": [
+      "ARABIC CURLY KASRA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E7",
+    "name": [
+      "ARABIC CURLY FATHATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E8",
+    "name": [
+      "ARABIC CURLY DAMMATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08E9",
+    "name": [
+      "ARABIC CURLY KASRATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08EA",
+    "name": [
+      "ARABIC TONE ONE DOT ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08EB",
+    "name": [
+      "ARABIC TONE TWO DOTS ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08EC",
+    "name": [
+      "ARABIC TONE LOOP ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08ED",
+    "name": [
+      "ARABIC TONE ONE DOT BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08EE",
+    "name": [
+      "ARABIC TONE TWO DOTS BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08EF",
+    "name": [
+      "ARABIC TONE LOOP BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F0",
+    "name": [
+      "ARABIC OPEN FATHATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "27",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F1",
+    "name": [
+      "ARABIC OPEN DAMMATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "28",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F2",
+    "name": [
+      "ARABIC OPEN KASRATAN"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "29",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F3",
+    "name": [
+      "ARABIC SMALL HIGH WAW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F4",
+    "name": [
+      "ARABIC FATHA WITH RING"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F5",
+    "name": [
+      "ARABIC FATHA WITH DOT ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F6",
+    "name": [
+      "ARABIC KASRA WITH DOT BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F7",
+    "name": [
+      "ARABIC LEFT ARROWHEAD ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F8",
+    "name": [
+      "ARABIC RIGHT ARROWHEAD ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08F9",
+    "name": [
+      "ARABIC LEFT ARROWHEAD BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FA",
+    "name": [
+      "ARABIC RIGHT ARROWHEAD BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FB",
+    "name": [
+      "ARABIC DOUBLE RIGHT ARROWHEAD ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FC",
+    "name": [
+      "ARABIC DOUBLE RIGHT ARROWHEAD ABOVE WITH DOT"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FD",
+    "name": [
+      "ARABIC RIGHT ARROWHEAD ABOVE WITH DOT"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FE",
+    "name": [
+      "ARABIC DAMMA WITH DOT"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  },
+  {
+    "codePoint": "08FF",
+    "name": [
+      "ARABIC MARK SIDEWAYS NOON GHUNNA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Extended_A"
+  }
+]

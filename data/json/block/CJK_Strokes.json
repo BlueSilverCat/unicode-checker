@@ -1,0 +1,962 @@
+[
+  {
+    "codePoint": "31C0",
+    "name": [
+      "CJK STROKE T"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C1",
+    "name": [
+      "CJK STROKE WG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C2",
+    "name": [
+      "CJK STROKE XG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C3",
+    "name": [
+      "CJK STROKE BXG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C4",
+    "name": [
+      "CJK STROKE SW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C5",
+    "name": [
+      "CJK STROKE HZZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C6",
+    "name": [
+      "CJK STROKE HZG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C7",
+    "name": [
+      "CJK STROKE HP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C8",
+    "name": [
+      "CJK STROKE HZWG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31C9",
+    "name": [
+      "CJK STROKE SZWG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CA",
+    "name": [
+      "CJK STROKE HZT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CB",
+    "name": [
+      "CJK STROKE HZZP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CC",
+    "name": [
+      "CJK STROKE HPWG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CD",
+    "name": [
+      "CJK STROKE HZW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CE",
+    "name": [
+      "CJK STROKE HZZZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31CF",
+    "name": [
+      "CJK STROKE N"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D0",
+    "name": [
+      "CJK STROKE H"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D1",
+    "name": [
+      "CJK STROKE S"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D2",
+    "name": [
+      "CJK STROKE P"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D3",
+    "name": [
+      "CJK STROKE SP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D4",
+    "name": [
+      "CJK STROKE D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D5",
+    "name": [
+      "CJK STROKE HZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D6",
+    "name": [
+      "CJK STROKE HG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D7",
+    "name": [
+      "CJK STROKE SZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D8",
+    "name": [
+      "CJK STROKE SWZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31D9",
+    "name": [
+      "CJK STROKE ST"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DA",
+    "name": [
+      "CJK STROKE SG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DB",
+    "name": [
+      "CJK STROKE PD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DC",
+    "name": [
+      "CJK STROKE PZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DD",
+    "name": [
+      "CJK STROKE TN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DE",
+    "name": [
+      "CJK STROKE SZZ"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31DF",
+    "name": [
+      "CJK STROKE SWG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E0",
+    "name": [
+      "CJK STROKE HXWG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E1",
+    "name": [
+      "CJK STROKE HZZZG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E2",
+    "name": [
+      "CJK STROKE PG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E3",
+    "name": [
+      "CJK STROKE Q"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31E9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31EA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31EB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31EC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31ED",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31EE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  },
+  {
+    "codePoint": "31EF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "CJK_Strokes"
+  }
+]

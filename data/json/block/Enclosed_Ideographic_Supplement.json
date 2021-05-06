@@ -1,0 +1,5122 @@
+[
+  {
+    "codePoint": "1F200",
+    "name": [
+      "SQUARE HIRAGANA HOKA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 307B 304B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hiragana",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F201",
+    "name": [
+      "SQUARED KATAKANA KOKO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 30B3 30B3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F202",
+    "name": [
+      "SQUARED KATAKANA SA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 30B5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F203",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F204",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F205",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F206",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F207",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F208",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F209",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F20F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F210",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-624B"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 624B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F211",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5B57"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5B57",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F212",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-53CC"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 53CC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F213",
+    "name": [
+      "SQUARED KATAKANA DE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 30C7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F214",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-4E8C"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 4E8C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F215",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-591A"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 591A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F216",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-89E3"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 89E3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F217",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5929"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5929",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F218",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-4EA4"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 4EA4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F219",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6620"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6620",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21A",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-7121"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 7121",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21B",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6599"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6599",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21C",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-524D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 524D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21D",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5F8C"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5F8C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21E",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-518D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 518D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F21F",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-65B0"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 65B0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F220",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-521D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 521D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F221",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-7D42"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 7D42",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F222",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-751F"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 751F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F223",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-8CA9"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 8CA9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F224",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-58F0"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 58F0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F225",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5439"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5439",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F226",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6F14"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6F14",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F227",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6295"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6295",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F228",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6355"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6355",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F229",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-4E00"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 4E00",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22A",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-4E09"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 4E09",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22B",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-904A"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 904A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22C",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5DE6"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5DE6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22D",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-4E2D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 4E2D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22E",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-53F3"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 53F3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F22F",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6307"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6307",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F230",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-8D70"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 8D70",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F231",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6253"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6253",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F232",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-7981"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 7981",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F233",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-7A7A"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 7A7A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F234",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5408"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5408",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F235",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6E80"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6E80",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F236",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6709"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6709",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F237",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-6708"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 6708",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F238",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-7533"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 7533",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F239",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-5272"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 5272",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23A",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-55B6"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 55B6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23B",
+    "name": [
+      "SQUARED CJK UNIFIED IDEOGRAPH-914D"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<square> 914D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F23F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F240",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 672C 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F241",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 4E09 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F242",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E8C"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 4E8C 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F243",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-5B89"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 5B89 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F244",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-70B9"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 70B9 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F245",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6253"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 6253 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F246",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 76D7 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F247",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 52DD 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F248",
+    "name": [
+      "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 3014 6557 3015",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F249",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F24F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F250",
+    "name": [
+      "CIRCLED IDEOGRAPH ADVANTAGE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<circle> 5F97",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F251",
+    "name": [
+      "CIRCLED IDEOGRAPH ACCEPT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<circle> 53EF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F252",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F253",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F254",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F255",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F256",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F257",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F258",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F259",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F25F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F260",
+    "name": [
+      "ROUNDED SYMBOL FOR FU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F261",
+    "name": [
+      "ROUNDED SYMBOL FOR LU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F262",
+    "name": [
+      "ROUNDED SYMBOL FOR SHOU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F263",
+    "name": [
+      "ROUNDED SYMBOL FOR XI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F264",
+    "name": [
+      "ROUNDED SYMBOL FOR SHUANGXI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F265",
+    "name": [
+      "ROUNDED SYMBOL FOR CAI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F266",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F267",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F268",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F269",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F26F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F270",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F271",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F272",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F273",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F274",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F275",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F276",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F277",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F278",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F279",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F27F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F280",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F281",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F282",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F283",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F284",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F285",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F286",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F287",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F288",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F289",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F28F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F290",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F291",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F292",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F293",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F294",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F295",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F296",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F297",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F298",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F299",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F29F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2A9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2AF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2B9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2BF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2C9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2CF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2D9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2DF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2E9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2EA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2EB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2EC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2ED",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2EE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2EF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2F9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  },
+  {
+    "codePoint": "1F2FF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Enclosed_Ideographic_Supplement"
+  }
+]

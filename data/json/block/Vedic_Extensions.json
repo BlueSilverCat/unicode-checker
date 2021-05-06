@@ -1,0 +1,962 @@
+[
+  {
+    "codePoint": "1CD0",
+    "name": [
+      "VEDIC TONE KARSHANA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD1",
+    "name": [
+      "VEDIC TONE SHARA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD2",
+    "name": [
+      "VEDIC TONE PRENKHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD3",
+    "name": [
+      "VEDIC SIGN NIHSHVASA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD4",
+    "name": [
+      "VEDIC SIGN YAJURVEDIC MIDLINE SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD5",
+    "name": [
+      "VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD6",
+    "name": [
+      "VEDIC TONE YAJURVEDIC INDEPENDENT SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD7",
+    "name": [
+      "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD8",
+    "name": [
+      "VEDIC TONE CANDRA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CD9",
+    "name": [
+      "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDA",
+    "name": [
+      "VEDIC TONE DOUBLE SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDB",
+    "name": [
+      "VEDIC TONE TRIPLE SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDC",
+    "name": [
+      "VEDIC TONE KATHAKA ANUDATTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDD",
+    "name": [
+      "VEDIC TONE DOT BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDE",
+    "name": [
+      "VEDIC TONE TWO DOTS BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CDF",
+    "name": [
+      "VEDIC TONE THREE DOTS BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE0",
+    "name": [
+      "VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE1",
+    "name": [
+      "VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE2",
+    "name": [
+      "VEDIC SIGN VISARGA SVARITA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE3",
+    "name": [
+      "VEDIC SIGN VISARGA UDATTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE4",
+    "name": [
+      "VEDIC SIGN REVERSED VISARGA UDATTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE5",
+    "name": [
+      "VEDIC SIGN VISARGA ANUDATTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE6",
+    "name": [
+      "VEDIC SIGN REVERSED VISARGA ANUDATTA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE7",
+    "name": [
+      "VEDIC SIGN VISARGA UDATTA WITH TAIL"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE8",
+    "name": [
+      "VEDIC SIGN VISARGA ANUDATTA WITH TAIL"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CE9",
+    "name": [
+      "VEDIC SIGN ANUSVARA ANTARGOMUKHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CEA",
+    "name": [
+      "VEDIC SIGN ANUSVARA BAHIRGOMUKHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CEB",
+    "name": [
+      "VEDIC SIGN ANUSVARA VAMAGOMUKHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CEC",
+    "name": [
+      "VEDIC SIGN ANUSVARA VAMAGOMUKHA WITH TAIL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CED",
+    "name": [
+      "VEDIC SIGN TIRYAK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CEE",
+    "name": [
+      "VEDIC SIGN HEXIFORM LONG ANUSVARA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CEF",
+    "name": [
+      "VEDIC SIGN LONG ANUSVARA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF0",
+    "name": [
+      "VEDIC SIGN RTHANG LONG ANUSVARA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF1",
+    "name": [
+      "VEDIC SIGN ANUSVARA UBHAYATO MUKHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF2",
+    "name": [
+      "VEDIC SIGN ARDHAVISARGA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF3",
+    "name": [
+      "VEDIC SIGN ROTATED ARDHAVISARGA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF4",
+    "name": [
+      "VEDIC TONE CANDRA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF5",
+    "name": [
+      "VEDIC SIGN JIHVAMULIYA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF6",
+    "name": [
+      "VEDIC SIGN UPADHMANIYA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF7",
+    "name": [
+      "VEDIC SIGN ATIKRAMA"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF8",
+    "name": [
+      "VEDIC TONE RING ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CF9",
+    "name": [
+      "VEDIC TONE DOUBLE RING ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFA",
+    "name": [
+      "VEDIC SIGN DOUBLE ANUSVARA ANTARGOMUKHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vedic_Extensions"
+  },
+  {
+    "codePoint": "1CFF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vedic_Extensions"
+  }
+]

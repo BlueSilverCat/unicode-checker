@@ -1,0 +1,962 @@
+[
+  {
+    "codePoint": "AB00",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB01",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB02",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB03",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHAA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB04",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHEE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB05",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB06",
+    "name": [
+      "ETHIOPIC SYLLABLE TTHO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB07",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB08",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB09",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0A",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0B",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHAA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0C",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHEE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0D",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0E",
+    "name": [
+      "ETHIOPIC SYLLABLE DDHO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB0F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB10",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB11",
+    "name": [
+      "ETHIOPIC SYLLABLE DZU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB12",
+    "name": [
+      "ETHIOPIC SYLLABLE DZI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB13",
+    "name": [
+      "ETHIOPIC SYLLABLE DZAA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB14",
+    "name": [
+      "ETHIOPIC SYLLABLE DZEE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB15",
+    "name": [
+      "ETHIOPIC SYLLABLE DZE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB16",
+    "name": [
+      "ETHIOPIC SYLLABLE DZO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB17",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB18",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB19",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB1F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB20",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB21",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB22",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB23",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHAA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB24",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHEE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB25",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB26",
+    "name": [
+      "ETHIOPIC SYLLABLE CCHHO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB27",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB28",
+    "name": [
+      "ETHIOPIC SYLLABLE BBA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB29",
+    "name": [
+      "ETHIOPIC SYLLABLE BBU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2A",
+    "name": [
+      "ETHIOPIC SYLLABLE BBI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2B",
+    "name": [
+      "ETHIOPIC SYLLABLE BBAA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2C",
+    "name": [
+      "ETHIOPIC SYLLABLE BBEE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2D",
+    "name": [
+      "ETHIOPIC SYLLABLE BBE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2E",
+    "name": [
+      "ETHIOPIC SYLLABLE BBO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Ethiopic",
+    "block": "Ethiopic_Extended_A"
+  },
+  {
+    "codePoint": "AB2F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ethiopic_Extended_A"
+  }
+]

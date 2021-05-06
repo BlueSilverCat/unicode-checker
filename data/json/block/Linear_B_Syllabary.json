@@ -1,0 +1,2562 @@
+[
+  {
+    "codePoint": "10000",
+    "name": [
+      "LINEAR B SYLLABLE B008 A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10001",
+    "name": [
+      "LINEAR B SYLLABLE B038 E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10002",
+    "name": [
+      "LINEAR B SYLLABLE B028 I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10003",
+    "name": [
+      "LINEAR B SYLLABLE B061 O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10004",
+    "name": [
+      "LINEAR B SYLLABLE B010 U"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10005",
+    "name": [
+      "LINEAR B SYLLABLE B001 DA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10006",
+    "name": [
+      "LINEAR B SYLLABLE B045 DE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10007",
+    "name": [
+      "LINEAR B SYLLABLE B007 DI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10008",
+    "name": [
+      "LINEAR B SYLLABLE B014 DO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10009",
+    "name": [
+      "LINEAR B SYLLABLE B051 DU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000A",
+    "name": [
+      "LINEAR B SYLLABLE B057 JA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000B",
+    "name": [
+      "LINEAR B SYLLABLE B046 JE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000D",
+    "name": [
+      "LINEAR B SYLLABLE B036 JO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000E",
+    "name": [
+      "LINEAR B SYLLABLE B065 JU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1000F",
+    "name": [
+      "LINEAR B SYLLABLE B077 KA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10010",
+    "name": [
+      "LINEAR B SYLLABLE B044 KE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10011",
+    "name": [
+      "LINEAR B SYLLABLE B067 KI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10012",
+    "name": [
+      "LINEAR B SYLLABLE B070 KO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10013",
+    "name": [
+      "LINEAR B SYLLABLE B081 KU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10014",
+    "name": [
+      "LINEAR B SYLLABLE B080 MA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10015",
+    "name": [
+      "LINEAR B SYLLABLE B013 ME"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10016",
+    "name": [
+      "LINEAR B SYLLABLE B073 MI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10017",
+    "name": [
+      "LINEAR B SYLLABLE B015 MO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10018",
+    "name": [
+      "LINEAR B SYLLABLE B023 MU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10019",
+    "name": [
+      "LINEAR B SYLLABLE B006 NA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001A",
+    "name": [
+      "LINEAR B SYLLABLE B024 NE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001B",
+    "name": [
+      "LINEAR B SYLLABLE B030 NI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001C",
+    "name": [
+      "LINEAR B SYLLABLE B052 NO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001D",
+    "name": [
+      "LINEAR B SYLLABLE B055 NU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001E",
+    "name": [
+      "LINEAR B SYLLABLE B003 PA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1001F",
+    "name": [
+      "LINEAR B SYLLABLE B072 PE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10020",
+    "name": [
+      "LINEAR B SYLLABLE B039 PI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10021",
+    "name": [
+      "LINEAR B SYLLABLE B011 PO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10022",
+    "name": [
+      "LINEAR B SYLLABLE B050 PU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10023",
+    "name": [
+      "LINEAR B SYLLABLE B016 QA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10024",
+    "name": [
+      "LINEAR B SYLLABLE B078 QE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10025",
+    "name": [
+      "LINEAR B SYLLABLE B021 QI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10026",
+    "name": [
+      "LINEAR B SYLLABLE B032 QO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10027",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10028",
+    "name": [
+      "LINEAR B SYLLABLE B060 RA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10029",
+    "name": [
+      "LINEAR B SYLLABLE B027 RE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002A",
+    "name": [
+      "LINEAR B SYLLABLE B053 RI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002B",
+    "name": [
+      "LINEAR B SYLLABLE B002 RO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002C",
+    "name": [
+      "LINEAR B SYLLABLE B026 RU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002D",
+    "name": [
+      "LINEAR B SYLLABLE B031 SA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002E",
+    "name": [
+      "LINEAR B SYLLABLE B009 SE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1002F",
+    "name": [
+      "LINEAR B SYLLABLE B041 SI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10030",
+    "name": [
+      "LINEAR B SYLLABLE B012 SO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10031",
+    "name": [
+      "LINEAR B SYLLABLE B058 SU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10032",
+    "name": [
+      "LINEAR B SYLLABLE B059 TA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10033",
+    "name": [
+      "LINEAR B SYLLABLE B004 TE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10034",
+    "name": [
+      "LINEAR B SYLLABLE B037 TI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10035",
+    "name": [
+      "LINEAR B SYLLABLE B005 TO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10036",
+    "name": [
+      "LINEAR B SYLLABLE B069 TU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10037",
+    "name": [
+      "LINEAR B SYLLABLE B054 WA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10038",
+    "name": [
+      "LINEAR B SYLLABLE B075 WE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10039",
+    "name": [
+      "LINEAR B SYLLABLE B040 WI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003A",
+    "name": [
+      "LINEAR B SYLLABLE B042 WO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003C",
+    "name": [
+      "LINEAR B SYLLABLE B017 ZA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003D",
+    "name": [
+      "LINEAR B SYLLABLE B074 ZE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1003F",
+    "name": [
+      "LINEAR B SYLLABLE B020 ZO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10040",
+    "name": [
+      "LINEAR B SYLLABLE B025 A2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10041",
+    "name": [
+      "LINEAR B SYLLABLE B043 A3"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10042",
+    "name": [
+      "LINEAR B SYLLABLE B085 AU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10043",
+    "name": [
+      "LINEAR B SYLLABLE B071 DWE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10044",
+    "name": [
+      "LINEAR B SYLLABLE B090 DWO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10045",
+    "name": [
+      "LINEAR B SYLLABLE B048 NWA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10046",
+    "name": [
+      "LINEAR B SYLLABLE B029 PU2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10047",
+    "name": [
+      "LINEAR B SYLLABLE B062 PTE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10048",
+    "name": [
+      "LINEAR B SYLLABLE B076 RA2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10049",
+    "name": [
+      "LINEAR B SYLLABLE B033 RA3"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004A",
+    "name": [
+      "LINEAR B SYLLABLE B068 RO2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004B",
+    "name": [
+      "LINEAR B SYLLABLE B066 TA2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004C",
+    "name": [
+      "LINEAR B SYLLABLE B087 TWE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004D",
+    "name": [
+      "LINEAR B SYLLABLE B091 TWO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1004F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10050",
+    "name": [
+      "LINEAR B SYMBOL B018"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10051",
+    "name": [
+      "LINEAR B SYMBOL B019"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10052",
+    "name": [
+      "LINEAR B SYMBOL B022"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10053",
+    "name": [
+      "LINEAR B SYMBOL B034"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10054",
+    "name": [
+      "LINEAR B SYMBOL B047"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10055",
+    "name": [
+      "LINEAR B SYMBOL B049"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10056",
+    "name": [
+      "LINEAR B SYMBOL B056"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10057",
+    "name": [
+      "LINEAR B SYMBOL B063"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10058",
+    "name": [
+      "LINEAR B SYMBOL B064"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10059",
+    "name": [
+      "LINEAR B SYMBOL B079"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005A",
+    "name": [
+      "LINEAR B SYMBOL B082"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005B",
+    "name": [
+      "LINEAR B SYMBOL B083"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005C",
+    "name": [
+      "LINEAR B SYMBOL B086"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005D",
+    "name": [
+      "LINEAR B SYMBOL B089"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Linear_B",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1005F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10060",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10061",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10062",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10063",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10064",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10065",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10066",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10067",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10068",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10069",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1006F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10070",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10071",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10072",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10073",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10074",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10075",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10076",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10077",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10078",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "10079",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  },
+  {
+    "codePoint": "1007F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Linear_B_Syllabary"
+  }
+]

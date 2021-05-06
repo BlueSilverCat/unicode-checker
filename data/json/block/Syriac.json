@@ -1,0 +1,1603 @@
+[
+  {
+    "codePoint": "0700",
+    "name": [
+      "SYRIAC END OF PARAGRAPH"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0701",
+    "name": [
+      "SYRIAC SUPRALINEAR FULL STOP"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0702",
+    "name": [
+      "SYRIAC SUBLINEAR FULL STOP"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0703",
+    "name": [
+      "SYRIAC SUPRALINEAR COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0704",
+    "name": [
+      "SYRIAC SUBLINEAR COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0705",
+    "name": [
+      "SYRIAC HORIZONTAL COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0706",
+    "name": [
+      "SYRIAC COLON SKEWED LEFT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0707",
+    "name": [
+      "SYRIAC COLON SKEWED RIGHT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0708",
+    "name": [
+      "SYRIAC SUPRALINEAR COLON SKEWED LEFT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0709",
+    "name": [
+      "SYRIAC SUBLINEAR COLON SKEWED LEFT",
+      "SYRIAC SUBLINEAR COLON SKEWED RIGHT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070A",
+    "name": [
+      "SYRIAC CONTRACTION"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070B",
+    "name": [
+      "SYRIAC HARKLEAN OBELUS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070C",
+    "name": [
+      "SYRIAC HARKLEAN METOBELUS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070D",
+    "name": [
+      "SYRIAC HARKLEAN ASTERISCUS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "070F",
+    "name": [
+      "SYRIAC ABBREVIATION MARK"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0710",
+    "name": [
+      "SYRIAC LETTER ALAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0711",
+    "name": [
+      "SYRIAC LETTER SUPERSCRIPT ALAPH"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "36",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0712",
+    "name": [
+      "SYRIAC LETTER BETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0713",
+    "name": [
+      "SYRIAC LETTER GAMAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0714",
+    "name": [
+      "SYRIAC LETTER GAMAL GARSHUNI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0715",
+    "name": [
+      "SYRIAC LETTER DALATH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0716",
+    "name": [
+      "SYRIAC LETTER DOTLESS DALATH RISH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0717",
+    "name": [
+      "SYRIAC LETTER HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0718",
+    "name": [
+      "SYRIAC LETTER WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0719",
+    "name": [
+      "SYRIAC LETTER ZAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071A",
+    "name": [
+      "SYRIAC LETTER HETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071B",
+    "name": [
+      "SYRIAC LETTER TETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071C",
+    "name": [
+      "SYRIAC LETTER TETH GARSHUNI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071D",
+    "name": [
+      "SYRIAC LETTER YUDH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071E",
+    "name": [
+      "SYRIAC LETTER YUDH HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "071F",
+    "name": [
+      "SYRIAC LETTER KAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0720",
+    "name": [
+      "SYRIAC LETTER LAMADH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0721",
+    "name": [
+      "SYRIAC LETTER MIM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0722",
+    "name": [
+      "SYRIAC LETTER NUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0723",
+    "name": [
+      "SYRIAC LETTER SEMKATH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0724",
+    "name": [
+      "SYRIAC LETTER FINAL SEMKATH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0725",
+    "name": [
+      "SYRIAC LETTER E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0726",
+    "name": [
+      "SYRIAC LETTER PE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0727",
+    "name": [
+      "SYRIAC LETTER REVERSED PE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0728",
+    "name": [
+      "SYRIAC LETTER SADHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0729",
+    "name": [
+      "SYRIAC LETTER QAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072A",
+    "name": [
+      "SYRIAC LETTER RISH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072B",
+    "name": [
+      "SYRIAC LETTER SHIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072C",
+    "name": [
+      "SYRIAC LETTER TAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072D",
+    "name": [
+      "SYRIAC LETTER PERSIAN BHETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072E",
+    "name": [
+      "SYRIAC LETTER PERSIAN GHAMAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "072F",
+    "name": [
+      "SYRIAC LETTER PERSIAN DHALATH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0730",
+    "name": [
+      "SYRIAC PTHAHA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0731",
+    "name": [
+      "SYRIAC PTHAHA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0732",
+    "name": [
+      "SYRIAC PTHAHA DOTTED"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0733",
+    "name": [
+      "SYRIAC ZQAPHA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0734",
+    "name": [
+      "SYRIAC ZQAPHA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0735",
+    "name": [
+      "SYRIAC ZQAPHA DOTTED"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0736",
+    "name": [
+      "SYRIAC RBASA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0737",
+    "name": [
+      "SYRIAC RBASA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0738",
+    "name": [
+      "SYRIAC DOTTED ZLAMA HORIZONTAL"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0739",
+    "name": [
+      "SYRIAC DOTTED ZLAMA ANGULAR"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073A",
+    "name": [
+      "SYRIAC HBASA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073B",
+    "name": [
+      "SYRIAC HBASA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073C",
+    "name": [
+      "SYRIAC HBASA-ESASA DOTTED"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073D",
+    "name": [
+      "SYRIAC ESASA ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073E",
+    "name": [
+      "SYRIAC ESASA BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "073F",
+    "name": [
+      "SYRIAC RWAHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0740",
+    "name": [
+      "SYRIAC FEMININE DOT"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0741",
+    "name": [
+      "SYRIAC QUSHSHAYA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0742",
+    "name": [
+      "SYRIAC RUKKAKHA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0743",
+    "name": [
+      "SYRIAC TWO VERTICAL DOTS ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0744",
+    "name": [
+      "SYRIAC TWO VERTICAL DOTS BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0745",
+    "name": [
+      "SYRIAC THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0746",
+    "name": [
+      "SYRIAC THREE DOTS BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0747",
+    "name": [
+      "SYRIAC OBLIQUE LINE ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0748",
+    "name": [
+      "SYRIAC OBLIQUE LINE BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "0749",
+    "name": [
+      "SYRIAC MUSIC"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074A",
+    "name": [
+      "SYRIAC BARREKH"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074D",
+    "name": [
+      "SYRIAC LETTER SOGDIAN ZHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074E",
+    "name": [
+      "SYRIAC LETTER SOGDIAN KHAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  },
+  {
+    "codePoint": "074F",
+    "name": [
+      "SYRIAC LETTER SOGDIAN FE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Syriac",
+    "block": "Syriac"
+  }
+]

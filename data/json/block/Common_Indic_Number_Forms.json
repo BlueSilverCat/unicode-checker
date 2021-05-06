@@ -1,0 +1,322 @@
+[
+  {
+    "codePoint": "A830",
+    "name": [
+      "NORTH INDIC FRACTION ONE QUARTER"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A831",
+    "name": [
+      "NORTH INDIC FRACTION ONE HALF"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A832",
+    "name": [
+      "NORTH INDIC FRACTION THREE QUARTERS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A833",
+    "name": [
+      "NORTH INDIC FRACTION ONE SIXTEENTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/16",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A834",
+    "name": [
+      "NORTH INDIC FRACTION ONE EIGHTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A835",
+    "name": [
+      "NORTH INDIC FRACTION THREE SIXTEENTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3/16",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A836",
+    "name": [
+      "NORTH INDIC QUARTER MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A837",
+    "name": [
+      "NORTH INDIC PLACEHOLDER MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A838",
+    "name": [
+      "NORTH INDIC RUPEE MARK"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A839",
+    "name": [
+      "NORTH INDIC QUANTITY MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  },
+  {
+    "codePoint": "A83F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Common_Indic_Number_Forms"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "codePoint": "10840",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER ALEPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10841",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER BETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10842",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER GIMEL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10843",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER DALETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10844",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10845",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10846",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER ZAYIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10847",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER HETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10848",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER TETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10849",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER YODH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084A",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER KAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084B",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER LAMEDH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084C",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER MEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084D",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER NUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084E",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER SAMEKH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1084F",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER AYIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10850",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER PE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10851",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER SADHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10852",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER QOPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10853",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER RESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10854",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER SHIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10855",
+    "name": [
+      "IMPERIAL ARAMAIC LETTER TAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10856",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10857",
+    "name": [
+      "IMPERIAL ARAMAIC SECTION SIGN"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10858",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "10859",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER TWO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085A",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER THREE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085B",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER TEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085C",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER TWENTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "20",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085D",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER ONE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085E",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER ONE THOUSAND"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  },
+  {
+    "codePoint": "1085F",
+    "name": [
+      "IMPERIAL ARAMAIC NUMBER TEN THOUSAND"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Imperial_Aramaic",
+    "block": "Imperial_Aramaic"
+  }
+]

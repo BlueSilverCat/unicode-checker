@@ -1,0 +1,5147 @@
+[
+  {
+    "codePoint": "2300",
+    "name": [
+      "DIAMETER SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2301",
+    "name": [
+      "ELECTRIC ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2302",
+    "name": [
+      "HOUSE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2303",
+    "name": [
+      "UP ARROWHEAD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2304",
+    "name": [
+      "DOWN ARROWHEAD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2305",
+    "name": [
+      "PROJECTIVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2306",
+    "name": [
+      "PERSPECTIVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2307",
+    "name": [
+      "WAVY LINE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2308",
+    "name": [
+      "LEFT CEILING"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2309",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2309",
+    "name": [
+      "RIGHT CEILING"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2308",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230A",
+    "name": [
+      "LEFT FLOOR"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "230B",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230B",
+    "name": [
+      "RIGHT FLOOR"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "230A",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230C",
+    "name": [
+      "BOTTOM RIGHT CROP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230D",
+    "name": [
+      "BOTTOM LEFT CROP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230E",
+    "name": [
+      "TOP RIGHT CROP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "230F",
+    "name": [
+      "TOP LEFT CROP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2310",
+    "name": [
+      "REVERSED NOT SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2311",
+    "name": [
+      "SQUARE LOZENGE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2312",
+    "name": [
+      "ARC"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2313",
+    "name": [
+      "SEGMENT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2314",
+    "name": [
+      "SECTOR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2315",
+    "name": [
+      "TELEPHONE RECORDER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2316",
+    "name": [
+      "POSITION INDICATOR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2317",
+    "name": [
+      "VIEWDATA SQUARE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2318",
+    "name": [
+      "COMMAND KEY",
+      "PLACE OF INTEREST SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2319",
+    "name": [
+      "TURNED NOT SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231A",
+    "name": [
+      "WATCH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231B",
+    "name": [
+      "HOURGLASS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231C",
+    "name": [
+      "TOP LEFT CORNER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231D",
+    "name": [
+      "TOP RIGHT CORNER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231E",
+    "name": [
+      "BOTTOM LEFT CORNER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "231F",
+    "name": [
+      "BOTTOM RIGHT CORNER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2320",
+    "name": [
+      "TOP HALF INTEGRAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2321",
+    "name": [
+      "BOTTOM HALF INTEGRAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2322",
+    "name": [
+      "FROWN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2323",
+    "name": [
+      "SMILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2324",
+    "name": [
+      "ENTER KEY",
+      "UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2325",
+    "name": [
+      "OPTION KEY"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2326",
+    "name": [
+      "DELETE TO THE RIGHT KEY",
+      "ERASE TO THE RIGHT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2327",
+    "name": [
+      "CLEAR KEY",
+      "X IN A RECTANGLE BOX"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2328",
+    "name": [
+      "KEYBOARD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2329",
+    "name": [
+      "BRA",
+      "LEFT-POINTING ANGLE BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "3008",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "232A",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232A",
+    "name": [
+      "KET",
+      "RIGHT-POINTING ANGLE BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "3009",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2329",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232B",
+    "name": [
+      "DELETE TO THE LEFT KEY",
+      "ERASE TO THE LEFT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232C",
+    "name": [
+      "BENZENE RING"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232D",
+    "name": [
+      "CYLINDRICITY"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232E",
+    "name": [
+      "ALL AROUND-PROFILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "232F",
+    "name": [
+      "SYMMETRY"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2330",
+    "name": [
+      "TOTAL RUNOUT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2331",
+    "name": [
+      "DIMENSION ORIGIN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2332",
+    "name": [
+      "CONICAL TAPER"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2333",
+    "name": [
+      "SLOPE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2334",
+    "name": [
+      "COUNTERBORE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2335",
+    "name": [
+      "COUNTERSINK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2336",
+    "name": [
+      "APL FUNCTIONAL SYMBOL I-BEAM"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2337",
+    "name": [
+      "APL FUNCTIONAL SYMBOL SQUISH QUAD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2338",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD EQUAL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2339",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DIVIDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233A",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DIAMOND"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233B",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD JOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233C",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233D",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE STILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233E",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE JOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "233F",
+    "name": [
+      "APL FUNCTIONAL SYMBOL SLASH BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2340",
+    "name": [
+      "APL FUNCTIONAL SYMBOL BACKSLASH BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2341",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD SLASH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2342",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD BACKSLASH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2343",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD LESS-THAN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2344",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD GREATER-THAN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2345",
+    "name": [
+      "APL FUNCTIONAL SYMBOL LEFTWARDS VANE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2346",
+    "name": [
+      "APL FUNCTIONAL SYMBOL RIGHTWARDS VANE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2347",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2348",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2349",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234A",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234B",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DELTA STILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234C",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DOWN CARET"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234D",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DELTA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234E",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DOWN TACK JOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "234F",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UPWARDS VANE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2350",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2351",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UP TACK OVERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2352",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DEL STILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2353",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD UP CARET"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2354",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DEL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2355",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UP TACK JOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2356",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DOWNWARDS VANE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2357",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2358",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUOTE UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2359",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DELTA UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235A",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235B",
+    "name": [
+      "APL FUNCTIONAL SYMBOL JOT UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235C",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235D",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UP SHOE JOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235E",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUOTE QUAD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "235F",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE STAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2360",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD COLON"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2361",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UP TACK DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2362",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DEL DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2363",
+    "name": [
+      "APL FUNCTIONAL SYMBOL STAR DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2364",
+    "name": [
+      "APL FUNCTIONAL SYMBOL JOT DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2365",
+    "name": [
+      "APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2366",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DOWN SHOE STILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2367",
+    "name": [
+      "APL FUNCTIONAL SYMBOL LEFT SHOE STILE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2368",
+    "name": [
+      "APL FUNCTIONAL SYMBOL TILDE DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2369",
+    "name": [
+      "APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236A",
+    "name": [
+      "APL FUNCTIONAL SYMBOL COMMA BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236B",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DEL TILDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236C",
+    "name": [
+      "APL FUNCTIONAL SYMBOL ZILDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236D",
+    "name": [
+      "APL FUNCTIONAL SYMBOL STILE TILDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236E",
+    "name": [
+      "APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "236F",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD NOT EQUAL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2370",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD QUESTION"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2371",
+    "name": [
+      "APL FUNCTIONAL SYMBOL DOWN CARET TILDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2372",
+    "name": [
+      "APL FUNCTIONAL SYMBOL UP CARET TILDE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2373",
+    "name": [
+      "APL FUNCTIONAL SYMBOL IOTA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2374",
+    "name": [
+      "APL FUNCTIONAL SYMBOL RHO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2375",
+    "name": [
+      "APL FUNCTIONAL SYMBOL OMEGA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2376",
+    "name": [
+      "APL FUNCTIONAL SYMBOL ALPHA UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2377",
+    "name": [
+      "APL FUNCTIONAL SYMBOL EPSILON UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2378",
+    "name": [
+      "APL FUNCTIONAL SYMBOL IOTA UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2379",
+    "name": [
+      "APL FUNCTIONAL SYMBOL OMEGA UNDERBAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237A",
+    "name": [
+      "APL FUNCTIONAL SYMBOL ALPHA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237B",
+    "name": [
+      "NOT CHECK MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237C",
+    "name": [
+      "RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237D",
+    "name": [
+      "SHOULDERED OPEN BOX"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237E",
+    "name": [
+      "BELL SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "237F",
+    "name": [
+      "VERTICAL LINE WITH MIDDLE DOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2380",
+    "name": [
+      "INSERTION SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2381",
+    "name": [
+      "CONTINUOUS UNDERLINE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2382",
+    "name": [
+      "DISCONTINUOUS UNDERLINE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2383",
+    "name": [
+      "EMPHASIS SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2384",
+    "name": [
+      "COMPOSITION SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2385",
+    "name": [
+      "WHITE SQUARE WITH CENTRE VERTICAL LINE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2386",
+    "name": [
+      "ENTER SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2387",
+    "name": [
+      "ALTERNATIVE KEY SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2388",
+    "name": [
+      "HELM SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2389",
+    "name": [
+      "CIRCLED HORIZONTAL BAR WITH NOTCH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238A",
+    "name": [
+      "CIRCLED TRIANGLE DOWN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238B",
+    "name": [
+      "BROKEN CIRCLE WITH NORTHWEST ARROW"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238C",
+    "name": [
+      "UNDO SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238D",
+    "name": [
+      "MONOSTABLE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238E",
+    "name": [
+      "HYSTERESIS SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "238F",
+    "name": [
+      "OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2390",
+    "name": [
+      "OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2391",
+    "name": [
+      "PASSIVE-PULL-DOWN-OUTPUT SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2392",
+    "name": [
+      "PASSIVE-PULL-UP-OUTPUT SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2393",
+    "name": [
+      "DIRECT CURRENT SYMBOL FORM TWO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2394",
+    "name": [
+      "SOFTWARE-FUNCTION SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2395",
+    "name": [
+      "APL FUNCTIONAL SYMBOL QUAD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2396",
+    "name": [
+      "DECIMAL SEPARATOR KEY SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2397",
+    "name": [
+      "PREVIOUS PAGE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2398",
+    "name": [
+      "NEXT PAGE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "2399",
+    "name": [
+      "PRINT SCREEN SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239A",
+    "name": [
+      "CLEAR SCREEN SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239B",
+    "name": [
+      "LEFT PARENTHESIS UPPER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239C",
+    "name": [
+      "LEFT PARENTHESIS EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239D",
+    "name": [
+      "LEFT PARENTHESIS LOWER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239E",
+    "name": [
+      "RIGHT PARENTHESIS UPPER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "239F",
+    "name": [
+      "RIGHT PARENTHESIS EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A0",
+    "name": [
+      "RIGHT PARENTHESIS LOWER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A1",
+    "name": [
+      "LEFT SQUARE BRACKET UPPER CORNER"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A2",
+    "name": [
+      "LEFT SQUARE BRACKET EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A3",
+    "name": [
+      "LEFT SQUARE BRACKET LOWER CORNER"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A4",
+    "name": [
+      "RIGHT SQUARE BRACKET UPPER CORNER"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A5",
+    "name": [
+      "RIGHT SQUARE BRACKET EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A6",
+    "name": [
+      "RIGHT SQUARE BRACKET LOWER CORNER"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A7",
+    "name": [
+      "LEFT CURLY BRACKET UPPER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A8",
+    "name": [
+      "LEFT CURLY BRACKET MIDDLE PIECE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23A9",
+    "name": [
+      "LEFT CURLY BRACKET LOWER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AA",
+    "name": [
+      "CURLY BRACKET EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AB",
+    "name": [
+      "RIGHT CURLY BRACKET UPPER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AC",
+    "name": [
+      "RIGHT CURLY BRACKET MIDDLE PIECE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AD",
+    "name": [
+      "RIGHT CURLY BRACKET LOWER HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AE",
+    "name": [
+      "INTEGRAL EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23AF",
+    "name": [
+      "HORIZONTAL LINE EXTENSION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B0",
+    "name": [
+      "UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B1",
+    "name": [
+      "UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B2",
+    "name": [
+      "SUMMATION TOP"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B3",
+    "name": [
+      "SUMMATION BOTTOM"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B4",
+    "name": [
+      "TOP SQUARE BRACKET"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B5",
+    "name": [
+      "BOTTOM SQUARE BRACKET"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B6",
+    "name": [
+      "BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B7",
+    "name": [
+      "RADICAL SYMBOL BOTTOM"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B8",
+    "name": [
+      "LEFT VERTICAL BOX LINE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23B9",
+    "name": [
+      "RIGHT VERTICAL BOX LINE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BA",
+    "name": [
+      "HORIZONTAL SCAN LINE-1"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BB",
+    "name": [
+      "HORIZONTAL SCAN LINE-3"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BC",
+    "name": [
+      "HORIZONTAL SCAN LINE-7"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BD",
+    "name": [
+      "HORIZONTAL SCAN LINE-9"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BE",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23BF",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C0",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C1",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C2",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C3",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C4",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C5",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C6",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C7",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C8",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23C9",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CA",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CB",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CC",
+    "name": [
+      "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CD",
+    "name": [
+      "SQUARE FOOT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CE",
+    "name": [
+      "RETURN SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23CF",
+    "name": [
+      "EJECT SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D0",
+    "name": [
+      "VERTICAL LINE EXTENSION"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D1",
+    "name": [
+      "METRICAL BREVE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D2",
+    "name": [
+      "METRICAL LONG OVER SHORT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D3",
+    "name": [
+      "METRICAL SHORT OVER LONG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D4",
+    "name": [
+      "METRICAL LONG OVER TWO SHORTS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D5",
+    "name": [
+      "METRICAL TWO SHORTS OVER LONG"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D6",
+    "name": [
+      "METRICAL TWO SHORTS JOINED"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D7",
+    "name": [
+      "METRICAL TRISEME"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D8",
+    "name": [
+      "METRICAL TETRASEME"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23D9",
+    "name": [
+      "METRICAL PENTASEME"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DA",
+    "name": [
+      "EARTH GROUND"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DB",
+    "name": [
+      "FUSE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DC",
+    "name": [
+      "TOP PARENTHESIS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DD",
+    "name": [
+      "BOTTOM PARENTHESIS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DE",
+    "name": [
+      "TOP CURLY BRACKET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23DF",
+    "name": [
+      "BOTTOM CURLY BRACKET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E0",
+    "name": [
+      "TOP TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E1",
+    "name": [
+      "BOTTOM TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E2",
+    "name": [
+      "WHITE TRAPEZIUM"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E3",
+    "name": [
+      "BENZENE RING WITH CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E4",
+    "name": [
+      "STRAIGHTNESS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E5",
+    "name": [
+      "FLATNESS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E6",
+    "name": [
+      "AC CURRENT"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E7",
+    "name": [
+      "ELECTRICAL INTERSECTION"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E8",
+    "name": [
+      "DECIMAL EXPONENT SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23E9",
+    "name": [
+      "BLACK RIGHT-POINTING DOUBLE TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23EA",
+    "name": [
+      "BLACK LEFT-POINTING DOUBLE TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23EB",
+    "name": [
+      "BLACK UP-POINTING DOUBLE TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23EC",
+    "name": [
+      "BLACK DOWN-POINTING DOUBLE TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23ED",
+    "name": [
+      "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23EE",
+    "name": [
+      "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23EF",
+    "name": [
+      "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F0",
+    "name": [
+      "ALARM CLOCK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F1",
+    "name": [
+      "STOPWATCH"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F2",
+    "name": [
+      "TIMER CLOCK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F3",
+    "name": [
+      "HOURGLASS WITH FLOWING SAND"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F4",
+    "name": [
+      "BLACK MEDIUM LEFT-POINTING TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F5",
+    "name": [
+      "BLACK MEDIUM RIGHT-POINTING TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F6",
+    "name": [
+      "BLACK MEDIUM UP-POINTING TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F7",
+    "name": [
+      "BLACK MEDIUM DOWN-POINTING TRIANGLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F8",
+    "name": [
+      "DOUBLE VERTICAL BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23F9",
+    "name": [
+      "BLACK SQUARE FOR STOP"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FA",
+    "name": [
+      "BLACK CIRCLE FOR RECORD"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FB",
+    "name": [
+      "POWER SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FC",
+    "name": [
+      "POWER ON-OFF SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FD",
+    "name": [
+      "POWER ON SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FE",
+    "name": [
+      "POWER SLEEP SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  },
+  {
+    "codePoint": "23FF",
+    "name": [
+      "OBSERVER EYE SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Miscellaneous_Technical"
+  }
+]

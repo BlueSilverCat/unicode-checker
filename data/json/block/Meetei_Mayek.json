@@ -1,0 +1,1282 @@
+[
+  {
+    "codePoint": "ABC0",
+    "name": [
+      "MEETEI MAYEK LETTER KOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC1",
+    "name": [
+      "MEETEI MAYEK LETTER SAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC2",
+    "name": [
+      "MEETEI MAYEK LETTER LAI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC3",
+    "name": [
+      "MEETEI MAYEK LETTER MIT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC4",
+    "name": [
+      "MEETEI MAYEK LETTER PA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC5",
+    "name": [
+      "MEETEI MAYEK LETTER NA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC6",
+    "name": [
+      "MEETEI MAYEK LETTER CHIL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC7",
+    "name": [
+      "MEETEI MAYEK LETTER TIL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC8",
+    "name": [
+      "MEETEI MAYEK LETTER KHOU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABC9",
+    "name": [
+      "MEETEI MAYEK LETTER NGOU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCA",
+    "name": [
+      "MEETEI MAYEK LETTER THOU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCB",
+    "name": [
+      "MEETEI MAYEK LETTER WAI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCC",
+    "name": [
+      "MEETEI MAYEK LETTER YANG"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCD",
+    "name": [
+      "MEETEI MAYEK LETTER HUK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCE",
+    "name": [
+      "MEETEI MAYEK LETTER UN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABCF",
+    "name": [
+      "MEETEI MAYEK LETTER I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD0",
+    "name": [
+      "MEETEI MAYEK LETTER PHAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD1",
+    "name": [
+      "MEETEI MAYEK LETTER ATIYA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD2",
+    "name": [
+      "MEETEI MAYEK LETTER GOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD3",
+    "name": [
+      "MEETEI MAYEK LETTER JHAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD4",
+    "name": [
+      "MEETEI MAYEK LETTER RAI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD5",
+    "name": [
+      "MEETEI MAYEK LETTER BA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD6",
+    "name": [
+      "MEETEI MAYEK LETTER JIL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD7",
+    "name": [
+      "MEETEI MAYEK LETTER DIL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD8",
+    "name": [
+      "MEETEI MAYEK LETTER GHOU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABD9",
+    "name": [
+      "MEETEI MAYEK LETTER DHOU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDA",
+    "name": [
+      "MEETEI MAYEK LETTER BHAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDB",
+    "name": [
+      "MEETEI MAYEK LETTER KOK LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDC",
+    "name": [
+      "MEETEI MAYEK LETTER LAI LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDD",
+    "name": [
+      "MEETEI MAYEK LETTER MIT LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDE",
+    "name": [
+      "MEETEI MAYEK LETTER PA LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABDF",
+    "name": [
+      "MEETEI MAYEK LETTER NA LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE0",
+    "name": [
+      "MEETEI MAYEK LETTER TIL LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE1",
+    "name": [
+      "MEETEI MAYEK LETTER NGOU LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE2",
+    "name": [
+      "MEETEI MAYEK LETTER I LONSUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE3",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN ONAP"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE4",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN INAP"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE5",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN ANAP"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE6",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN YENAP"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE7",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN SOUNAP"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE8",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN UNAP"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABE9",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN CHEINAP"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABEA",
+    "name": [
+      "MEETEI MAYEK VOWEL SIGN NUNG"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABEB",
+    "name": [
+      "MEETEI MAYEK CHEIKHEI"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABEC",
+    "name": [
+      "MEETEI MAYEK LUM IYEK"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABED",
+    "name": [
+      "MEETEI MAYEK APUN IYEK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "9",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABEE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABEF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF0",
+    "name": [
+      "MEETEI MAYEK DIGIT ZERO"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "0",
+    "numericType2": "0",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF1",
+    "name": [
+      "MEETEI MAYEK DIGIT ONE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "1",
+    "numericType2": "1",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF2",
+    "name": [
+      "MEETEI MAYEK DIGIT TWO"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "2",
+    "numericType2": "2",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF3",
+    "name": [
+      "MEETEI MAYEK DIGIT THREE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "3",
+    "numericType2": "3",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF4",
+    "name": [
+      "MEETEI MAYEK DIGIT FOUR"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "4",
+    "numericType2": "4",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF5",
+    "name": [
+      "MEETEI MAYEK DIGIT FIVE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "5",
+    "numericType2": "5",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF6",
+    "name": [
+      "MEETEI MAYEK DIGIT SIX"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "6",
+    "numericType2": "6",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF7",
+    "name": [
+      "MEETEI MAYEK DIGIT SEVEN"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "7",
+    "numericType2": "7",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF8",
+    "name": [
+      "MEETEI MAYEK DIGIT EIGHT"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "8",
+    "numericType2": "8",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABF9",
+    "name": [
+      "MEETEI MAYEK DIGIT NINE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "9",
+    "numericType2": "9",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meetei_Mayek",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  },
+  {
+    "codePoint": "ABFF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Meetei_Mayek"
+  }
+]

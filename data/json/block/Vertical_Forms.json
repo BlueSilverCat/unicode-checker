@@ -1,0 +1,323 @@
+[
+  {
+    "codePoint": "FE10",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 002C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE11",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 3001",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE12",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 3002",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE13",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 003A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE14",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL SEMICOLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 003B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE15",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 0021",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE16",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL QUESTION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 003F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE17",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 3016",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE18",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRACKET",
+      "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 3017",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE19",
+    "name": [
+      "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<vertical> 2026",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  },
+  {
+    "codePoint": "FE1F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Vertical_Forms"
+  }
+]

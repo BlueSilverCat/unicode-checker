@@ -1,0 +1,322 @@
+[
+  {
+    "codePoint": "FE20",
+    "name": [
+      "COMBINING LIGATURE LEFT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE21",
+    "name": [
+      "COMBINING LIGATURE RIGHT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE22",
+    "name": [
+      "COMBINING DOUBLE TILDE LEFT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE23",
+    "name": [
+      "COMBINING DOUBLE TILDE RIGHT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE24",
+    "name": [
+      "COMBINING MACRON LEFT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE25",
+    "name": [
+      "COMBINING MACRON RIGHT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE26",
+    "name": [
+      "COMBINING CONJOINING MACRON"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE27",
+    "name": [
+      "COMBINING LIGATURE LEFT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE28",
+    "name": [
+      "COMBINING LIGATURE RIGHT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE29",
+    "name": [
+      "COMBINING TILDE LEFT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2A",
+    "name": [
+      "COMBINING TILDE RIGHT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2B",
+    "name": [
+      "COMBINING MACRON LEFT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2C",
+    "name": [
+      "COMBINING MACRON RIGHT HALF BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2D",
+    "name": [
+      "COMBINING CONJOINING MACRON BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2E",
+    "name": [
+      "COMBINING CYRILLIC TITLO LEFT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cyrillic",
+    "block": "Combining_Half_Marks"
+  },
+  {
+    "codePoint": "FE2F",
+    "name": [
+      "COMBINING CYRILLIC TITLO RIGHT HALF"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cyrillic",
+    "block": "Combining_Half_Marks"
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "codePoint": "27F0",
+    "name": [
+      "UPWARDS QUADRUPLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F1",
+    "name": [
+      "DOWNWARDS QUADRUPLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F2",
+    "name": [
+      "ANTICLOCKWISE GAPPED CIRCLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F3",
+    "name": [
+      "CLOCKWISE GAPPED CIRCLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F4",
+    "name": [
+      "RIGHT ARROW WITH CIRCLED PLUS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F5",
+    "name": [
+      "LONG LEFTWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F6",
+    "name": [
+      "LONG RIGHTWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F7",
+    "name": [
+      "LONG LEFT RIGHT ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F8",
+    "name": [
+      "LONG LEFTWARDS DOUBLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27F9",
+    "name": [
+      "LONG RIGHTWARDS DOUBLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FA",
+    "name": [
+      "LONG LEFT RIGHT DOUBLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FB",
+    "name": [
+      "LONG LEFTWARDS ARROW FROM BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FC",
+    "name": [
+      "LONG RIGHTWARDS ARROW FROM BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FD",
+    "name": [
+      "LONG LEFTWARDS DOUBLE ARROW FROM BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FE",
+    "name": [
+      "LONG RIGHTWARDS DOUBLE ARROW FROM BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  },
+  {
+    "codePoint": "27FF",
+    "name": [
+      "LONG RIGHTWARDS SQUIGGLE ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Arrows_A"
+  }
+]

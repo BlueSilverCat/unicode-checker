@@ -1,0 +1,642 @@
+[
+  {
+    "codePoint": "2C60",
+    "name": [
+      "LATIN CAPITAL LETTER L WITH DOUBLE BAR"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C61",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C61",
+    "name": [
+      "LATIN SMALL LETTER L WITH DOUBLE BAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C60",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C60",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C62",
+    "name": [
+      "LATIN CAPITAL LETTER L WITH MIDDLE TILDE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "026B",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C63",
+    "name": [
+      "LATIN CAPITAL LETTER P WITH STROKE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1D7D",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C64",
+    "name": [
+      "LATIN CAPITAL LETTER R WITH TAIL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "027D",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C65",
+    "name": [
+      "LATIN SMALL LETTER A WITH STROKE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "023A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "023A",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C66",
+    "name": [
+      "LATIN SMALL LETTER T WITH DIAGONAL STROKE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "023E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "023E",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C67",
+    "name": [
+      "LATIN CAPITAL LETTER H WITH DESCENDER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C68",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C68",
+    "name": [
+      "LATIN SMALL LETTER H WITH DESCENDER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C67",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C67",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C69",
+    "name": [
+      "LATIN CAPITAL LETTER K WITH DESCENDER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C6A",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6A",
+    "name": [
+      "LATIN SMALL LETTER K WITH DESCENDER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C69",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C69",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6B",
+    "name": [
+      "LATIN CAPITAL LETTER Z WITH DESCENDER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C6C",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6C",
+    "name": [
+      "LATIN SMALL LETTER Z WITH DESCENDER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C6B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C6B",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6D",
+    "name": [
+      "LATIN CAPITAL LETTER ALPHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0251",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6E",
+    "name": [
+      "LATIN CAPITAL LETTER M WITH HOOK"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0271",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C6F",
+    "name": [
+      "LATIN CAPITAL LETTER TURNED A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0250",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C70",
+    "name": [
+      "LATIN CAPITAL LETTER TURNED ALPHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0252",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C71",
+    "name": [
+      "LATIN SMALL LETTER V WITH RIGHT HOOK"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C72",
+    "name": [
+      "LATIN CAPITAL LETTER W WITH HOOK"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C73",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C73",
+    "name": [
+      "LATIN SMALL LETTER W WITH HOOK"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C72",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C72",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C74",
+    "name": [
+      "LATIN SMALL LETTER V WITH CURL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C75",
+    "name": [
+      "LATIN CAPITAL LETTER HALF H"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C76",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C76",
+    "name": [
+      "LATIN SMALL LETTER HALF H"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C75",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C75",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C77",
+    "name": [
+      "LATIN SMALL LETTER TAILLESS PHI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C78",
+    "name": [
+      "LATIN SMALL LETTER E WITH NOTCH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C79",
+    "name": [
+      "LATIN SMALL LETTER TURNED R WITH TAIL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7A",
+    "name": [
+      "LATIN SMALL LETTER O WITH LOW RING INSIDE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7B",
+    "name": [
+      "LATIN LETTER SMALL CAPITAL TURNED E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7C",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER J"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7D",
+    "name": [
+      "MODIFIER LETTER CAPITAL V"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0056",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7E",
+    "name": [
+      "LATIN CAPITAL LETTER S WITH SWASH TAIL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "023F",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  },
+  {
+    "codePoint": "2C7F",
+    "name": [
+      "LATIN CAPITAL LETTER Z WITH SWASH TAIL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0240",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Latin_Extended_C"
+  }
+]

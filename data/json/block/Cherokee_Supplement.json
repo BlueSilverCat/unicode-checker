@@ -1,0 +1,1602 @@
+[
+  {
+    "codePoint": "AB70",
+    "name": [
+      "CHEROKEE SMALL LETTER A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A0",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB71",
+    "name": [
+      "CHEROKEE SMALL LETTER E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A1",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB72",
+    "name": [
+      "CHEROKEE SMALL LETTER I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A2",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB73",
+    "name": [
+      "CHEROKEE SMALL LETTER O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A3",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB74",
+    "name": [
+      "CHEROKEE SMALL LETTER U"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A4",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB75",
+    "name": [
+      "CHEROKEE SMALL LETTER V"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A5",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB76",
+    "name": [
+      "CHEROKEE SMALL LETTER GA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A6",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB77",
+    "name": [
+      "CHEROKEE SMALL LETTER KA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A7",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB78",
+    "name": [
+      "CHEROKEE SMALL LETTER GE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A8",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB79",
+    "name": [
+      "CHEROKEE SMALL LETTER GI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13A9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13A9",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7A",
+    "name": [
+      "CHEROKEE SMALL LETTER GO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AA",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7B",
+    "name": [
+      "CHEROKEE SMALL LETTER GU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AB",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7C",
+    "name": [
+      "CHEROKEE SMALL LETTER GV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AC",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7D",
+    "name": [
+      "CHEROKEE SMALL LETTER HA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AD",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7E",
+    "name": [
+      "CHEROKEE SMALL LETTER HE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AE",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB7F",
+    "name": [
+      "CHEROKEE SMALL LETTER HI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13AF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13AF",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB80",
+    "name": [
+      "CHEROKEE SMALL LETTER HO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B0",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB81",
+    "name": [
+      "CHEROKEE SMALL LETTER HU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B1",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB82",
+    "name": [
+      "CHEROKEE SMALL LETTER HV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B2",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB83",
+    "name": [
+      "CHEROKEE SMALL LETTER LA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B3",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB84",
+    "name": [
+      "CHEROKEE SMALL LETTER LE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B4",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB85",
+    "name": [
+      "CHEROKEE SMALL LETTER LI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B5",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB86",
+    "name": [
+      "CHEROKEE SMALL LETTER LO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B6",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB87",
+    "name": [
+      "CHEROKEE SMALL LETTER LU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B7",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB88",
+    "name": [
+      "CHEROKEE SMALL LETTER LV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B8",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB89",
+    "name": [
+      "CHEROKEE SMALL LETTER MA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13B9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13B9",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8A",
+    "name": [
+      "CHEROKEE SMALL LETTER ME"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BA",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8B",
+    "name": [
+      "CHEROKEE SMALL LETTER MI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BB",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8C",
+    "name": [
+      "CHEROKEE SMALL LETTER MO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BC",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8D",
+    "name": [
+      "CHEROKEE SMALL LETTER MU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BD",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8E",
+    "name": [
+      "CHEROKEE SMALL LETTER NA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BE",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB8F",
+    "name": [
+      "CHEROKEE SMALL LETTER HNA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13BF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13BF",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB90",
+    "name": [
+      "CHEROKEE SMALL LETTER NAH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C0",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB91",
+    "name": [
+      "CHEROKEE SMALL LETTER NE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C1",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB92",
+    "name": [
+      "CHEROKEE SMALL LETTER NI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C2",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB93",
+    "name": [
+      "CHEROKEE SMALL LETTER NO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C3",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB94",
+    "name": [
+      "CHEROKEE SMALL LETTER NU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C4",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB95",
+    "name": [
+      "CHEROKEE SMALL LETTER NV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C5",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB96",
+    "name": [
+      "CHEROKEE SMALL LETTER QUA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C6",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB97",
+    "name": [
+      "CHEROKEE SMALL LETTER QUE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C7",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB98",
+    "name": [
+      "CHEROKEE SMALL LETTER QUI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C8",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB99",
+    "name": [
+      "CHEROKEE SMALL LETTER QUO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13C9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13C9",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9A",
+    "name": [
+      "CHEROKEE SMALL LETTER QUU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CA",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9B",
+    "name": [
+      "CHEROKEE SMALL LETTER QUV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CB",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9C",
+    "name": [
+      "CHEROKEE SMALL LETTER SA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CC",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9D",
+    "name": [
+      "CHEROKEE SMALL LETTER S"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CD",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9E",
+    "name": [
+      "CHEROKEE SMALL LETTER SE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CE",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "AB9F",
+    "name": [
+      "CHEROKEE SMALL LETTER SI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13CF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13CF",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA0",
+    "name": [
+      "CHEROKEE SMALL LETTER SO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D0",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA1",
+    "name": [
+      "CHEROKEE SMALL LETTER SU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D1",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA2",
+    "name": [
+      "CHEROKEE SMALL LETTER SV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D2",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA3",
+    "name": [
+      "CHEROKEE SMALL LETTER DA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D3",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA4",
+    "name": [
+      "CHEROKEE SMALL LETTER TA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D4",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA5",
+    "name": [
+      "CHEROKEE SMALL LETTER DE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D5",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA6",
+    "name": [
+      "CHEROKEE SMALL LETTER TE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D6",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA7",
+    "name": [
+      "CHEROKEE SMALL LETTER DI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D7",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA8",
+    "name": [
+      "CHEROKEE SMALL LETTER TI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D8",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABA9",
+    "name": [
+      "CHEROKEE SMALL LETTER DO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13D9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13D9",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAA",
+    "name": [
+      "CHEROKEE SMALL LETTER DU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DA",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAB",
+    "name": [
+      "CHEROKEE SMALL LETTER DV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DB",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAC",
+    "name": [
+      "CHEROKEE SMALL LETTER DLA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DC",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAD",
+    "name": [
+      "CHEROKEE SMALL LETTER TLA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DD",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAE",
+    "name": [
+      "CHEROKEE SMALL LETTER TLE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DE",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABAF",
+    "name": [
+      "CHEROKEE SMALL LETTER TLI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13DF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13DF",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB0",
+    "name": [
+      "CHEROKEE SMALL LETTER TLO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E0",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB1",
+    "name": [
+      "CHEROKEE SMALL LETTER TLU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E1",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB2",
+    "name": [
+      "CHEROKEE SMALL LETTER TLV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E2",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB3",
+    "name": [
+      "CHEROKEE SMALL LETTER TSA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E3",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB4",
+    "name": [
+      "CHEROKEE SMALL LETTER TSE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E4",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB5",
+    "name": [
+      "CHEROKEE SMALL LETTER TSI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E5",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB6",
+    "name": [
+      "CHEROKEE SMALL LETTER TSO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E6",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB7",
+    "name": [
+      "CHEROKEE SMALL LETTER TSU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E7",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB8",
+    "name": [
+      "CHEROKEE SMALL LETTER TSV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E8",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABB9",
+    "name": [
+      "CHEROKEE SMALL LETTER WA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13E9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13E9",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBA",
+    "name": [
+      "CHEROKEE SMALL LETTER WE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13EA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13EA",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBB",
+    "name": [
+      "CHEROKEE SMALL LETTER WI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13EB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13EB",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBC",
+    "name": [
+      "CHEROKEE SMALL LETTER WO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13EC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13EC",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBD",
+    "name": [
+      "CHEROKEE SMALL LETTER WU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13ED",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13ED",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBE",
+    "name": [
+      "CHEROKEE SMALL LETTER WV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13EE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13EE",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  },
+  {
+    "codePoint": "ABBF",
+    "name": [
+      "CHEROKEE SMALL LETTER YA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "13EF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "13EF",
+    "script": "Cherokee",
+    "block": "Cherokee_Supplement"
+  }
+]

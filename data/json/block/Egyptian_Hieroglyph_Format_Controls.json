@@ -1,0 +1,322 @@
+[
+  {
+    "codePoint": "13430",
+    "name": [
+      "EGYPTIAN HIEROGLYPH VERTICAL JOINER"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13431",
+    "name": [
+      "EGYPTIAN HIEROGLYPH HORIZONTAL JOINER"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13432",
+    "name": [
+      "EGYPTIAN HIEROGLYPH INSERT AT TOP START"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13433",
+    "name": [
+      "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM START"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13434",
+    "name": [
+      "EGYPTIAN HIEROGLYPH INSERT AT TOP END"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13435",
+    "name": [
+      "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM END"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13436",
+    "name": [
+      "EGYPTIAN HIEROGLYPH OVERLAY MIDDLE"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13437",
+    "name": [
+      "EGYPTIAN HIEROGLYPH BEGIN SEGMENT"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13438",
+    "name": [
+      "EGYPTIAN HIEROGLYPH END SEGMENT"
+    ],
+    "generalCategory": "Cf",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Egyptian_Hieroglyphs",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "13439",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  },
+  {
+    "codePoint": "1343F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Egyptian_Hieroglyph_Format_Controls"
+  }
+]

@@ -1,0 +1,1926 @@
+[
+  {
+    "codePoint": "0530",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0531",
+    "name": [
+      "ARMENIAN CAPITAL LETTER AYB"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0561",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0532",
+    "name": [
+      "ARMENIAN CAPITAL LETTER BEN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0562",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0533",
+    "name": [
+      "ARMENIAN CAPITAL LETTER GIM"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0563",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0534",
+    "name": [
+      "ARMENIAN CAPITAL LETTER DA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0564",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0535",
+    "name": [
+      "ARMENIAN CAPITAL LETTER ECH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0565",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0536",
+    "name": [
+      "ARMENIAN CAPITAL LETTER ZA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0566",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0537",
+    "name": [
+      "ARMENIAN CAPITAL LETTER EH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0567",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0538",
+    "name": [
+      "ARMENIAN CAPITAL LETTER ET"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0568",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0539",
+    "name": [
+      "ARMENIAN CAPITAL LETTER TO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0569",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053A",
+    "name": [
+      "ARMENIAN CAPITAL LETTER ZHE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056A",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053B",
+    "name": [
+      "ARMENIAN CAPITAL LETTER INI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056B",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053C",
+    "name": [
+      "ARMENIAN CAPITAL LETTER LIWN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056C",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053D",
+    "name": [
+      "ARMENIAN CAPITAL LETTER XEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056D",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053E",
+    "name": [
+      "ARMENIAN CAPITAL LETTER CA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056E",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "053F",
+    "name": [
+      "ARMENIAN CAPITAL LETTER KEN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "056F",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0540",
+    "name": [
+      "ARMENIAN CAPITAL LETTER HO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0570",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0541",
+    "name": [
+      "ARMENIAN CAPITAL LETTER JA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0571",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0542",
+    "name": [
+      "ARMENIAN CAPITAL LETTER GHAD",
+      "ARMENIAN CAPITAL LETTER LAD"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0572",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0543",
+    "name": [
+      "ARMENIAN CAPITAL LETTER CHEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0573",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0544",
+    "name": [
+      "ARMENIAN CAPITAL LETTER MEN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0574",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0545",
+    "name": [
+      "ARMENIAN CAPITAL LETTER YI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0575",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0546",
+    "name": [
+      "ARMENIAN CAPITAL LETTER NOW"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0576",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0547",
+    "name": [
+      "ARMENIAN CAPITAL LETTER SHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0577",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0548",
+    "name": [
+      "ARMENIAN CAPITAL LETTER VO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0578",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0549",
+    "name": [
+      "ARMENIAN CAPITAL LETTER CHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0579",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054A",
+    "name": [
+      "ARMENIAN CAPITAL LETTER PEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057A",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054B",
+    "name": [
+      "ARMENIAN CAPITAL LETTER JHEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057B",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054C",
+    "name": [
+      "ARMENIAN CAPITAL LETTER RA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057C",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054D",
+    "name": [
+      "ARMENIAN CAPITAL LETTER SEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057D",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054E",
+    "name": [
+      "ARMENIAN CAPITAL LETTER VEW"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057E",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "054F",
+    "name": [
+      "ARMENIAN CAPITAL LETTER TIWN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "057F",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0550",
+    "name": [
+      "ARMENIAN CAPITAL LETTER REH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0580",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0551",
+    "name": [
+      "ARMENIAN CAPITAL LETTER CO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0581",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0552",
+    "name": [
+      "ARMENIAN CAPITAL LETTER YIWN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0582",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0553",
+    "name": [
+      "ARMENIAN CAPITAL LETTER PIWR"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0583",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0554",
+    "name": [
+      "ARMENIAN CAPITAL LETTER KEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0584",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0555",
+    "name": [
+      "ARMENIAN CAPITAL LETTER OH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0585",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0556",
+    "name": [
+      "ARMENIAN CAPITAL LETTER FEH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "0586",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0557",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0558",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0559",
+    "name": [
+      "ARMENIAN MODIFIER LETTER LEFT HALF RING"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055A",
+    "name": [
+      "ARMENIAN APOSTROPHE",
+      "ARMENIAN MODIFIER LETTER RIGHT HALF RING"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055B",
+    "name": [
+      "ARMENIAN EMPHASIS MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055C",
+    "name": [
+      "ARMENIAN EXCLAMATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055D",
+    "name": [
+      "ARMENIAN COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055E",
+    "name": [
+      "ARMENIAN QUESTION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "055F",
+    "name": [
+      "ARMENIAN ABBREVIATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0560",
+    "name": [
+      "ARMENIAN SMALL LETTER TURNED AYB"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0561",
+    "name": [
+      "ARMENIAN SMALL LETTER AYB"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0531",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0531",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0562",
+    "name": [
+      "ARMENIAN SMALL LETTER BEN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0532",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0532",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0563",
+    "name": [
+      "ARMENIAN SMALL LETTER GIM"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0533",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0533",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0564",
+    "name": [
+      "ARMENIAN SMALL LETTER DA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0534",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0534",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0565",
+    "name": [
+      "ARMENIAN SMALL LETTER ECH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0535",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0535",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0566",
+    "name": [
+      "ARMENIAN SMALL LETTER ZA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0536",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0536",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0567",
+    "name": [
+      "ARMENIAN SMALL LETTER EH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0537",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0537",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0568",
+    "name": [
+      "ARMENIAN SMALL LETTER ET"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0538",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0538",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0569",
+    "name": [
+      "ARMENIAN SMALL LETTER TO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0539",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0539",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056A",
+    "name": [
+      "ARMENIAN SMALL LETTER ZHE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053A",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056B",
+    "name": [
+      "ARMENIAN SMALL LETTER INI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053B",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056C",
+    "name": [
+      "ARMENIAN SMALL LETTER LIWN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053C",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056D",
+    "name": [
+      "ARMENIAN SMALL LETTER XEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053D",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056E",
+    "name": [
+      "ARMENIAN SMALL LETTER CA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053E",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "056F",
+    "name": [
+      "ARMENIAN SMALL LETTER KEN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "053F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "053F",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0570",
+    "name": [
+      "ARMENIAN SMALL LETTER HO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0540",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0540",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0571",
+    "name": [
+      "ARMENIAN SMALL LETTER JA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0541",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0541",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0572",
+    "name": [
+      "ARMENIAN SMALL LETTER GHAD",
+      "ARMENIAN SMALL LETTER LAD"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0542",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0542",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0573",
+    "name": [
+      "ARMENIAN SMALL LETTER CHEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0543",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0543",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0574",
+    "name": [
+      "ARMENIAN SMALL LETTER MEN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0544",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0544",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0575",
+    "name": [
+      "ARMENIAN SMALL LETTER YI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0545",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0545",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0576",
+    "name": [
+      "ARMENIAN SMALL LETTER NOW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0546",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0546",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0577",
+    "name": [
+      "ARMENIAN SMALL LETTER SHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0547",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0547",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0578",
+    "name": [
+      "ARMENIAN SMALL LETTER VO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0548",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0548",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0579",
+    "name": [
+      "ARMENIAN SMALL LETTER CHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0549",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0549",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057A",
+    "name": [
+      "ARMENIAN SMALL LETTER PEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054A",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057B",
+    "name": [
+      "ARMENIAN SMALL LETTER JHEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054B",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057C",
+    "name": [
+      "ARMENIAN SMALL LETTER RA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054C",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057D",
+    "name": [
+      "ARMENIAN SMALL LETTER SEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054D",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057E",
+    "name": [
+      "ARMENIAN SMALL LETTER VEW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054E",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "057F",
+    "name": [
+      "ARMENIAN SMALL LETTER TIWN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "054F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "054F",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0580",
+    "name": [
+      "ARMENIAN SMALL LETTER REH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0550",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0550",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0581",
+    "name": [
+      "ARMENIAN SMALL LETTER CO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0551",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0551",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0582",
+    "name": [
+      "ARMENIAN SMALL LETTER YIWN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0552",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0552",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0583",
+    "name": [
+      "ARMENIAN SMALL LETTER PIWR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0553",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0553",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0584",
+    "name": [
+      "ARMENIAN SMALL LETTER KEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0554",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0554",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0585",
+    "name": [
+      "ARMENIAN SMALL LETTER OH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0555",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0555",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0586",
+    "name": [
+      "ARMENIAN SMALL LETTER FEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0556",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0556",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0587",
+    "name": [
+      "ARMENIAN SMALL LIGATURE ECH YIWN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0565 0582",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0588",
+    "name": [
+      "ARMENIAN SMALL LETTER YI WITH STROKE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "0589",
+    "name": [
+      "ARMENIAN FULL STOP",
+      "ARMENIAN PERIOD"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058A",
+    "name": [
+      "ARMENIAN HYPHEN"
+    ],
+    "generalCategory": "Pd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058D",
+    "name": [
+      "RIGHT-FACING ARMENIAN ETERNITY SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058E",
+    "name": [
+      "LEFT-FACING ARMENIAN ETERNITY SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  },
+  {
+    "codePoint": "058F",
+    "name": [
+      "ARMENIAN DRAM SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Armenian"
+  }
+]

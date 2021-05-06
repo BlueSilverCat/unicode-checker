@@ -1,0 +1,338 @@
+[
+  {
+    "codePoint": "3190",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION LINKING MARK",
+      "KANBUN TATETEN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3191",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION REVERSE MARK",
+      "KAERITEN RE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3192",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION ONE MARK",
+      "KAERITEN ITI"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E00",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3193",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION TWO MARK",
+      "KAERITEN NI"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E8C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3194",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION THREE MARK",
+      "KAERITEN SAN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E09",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3195",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION FOUR MARK",
+      "KAERITEN SI"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 56DB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3196",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION TOP MARK",
+      "KAERITEN ZYOU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E0A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3197",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION MIDDLE MARK",
+      "KAERITEN TYUU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E2D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3198",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION BOTTOM MARK",
+      "KAERITEN GE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E0B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "3199",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION FIRST MARK",
+      "KAERITEN KOU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 7532",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319A",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION SECOND MARK",
+      "KAERITEN OTU"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E59",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319B",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION THIRD MARK",
+      "KAERITEN HEI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E19",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319C",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION FOURTH MARK",
+      "KAERITEN TEI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4E01",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319D",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION HEAVEN MARK",
+      "KAERITEN TEN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 5929",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319E",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION EARTH MARK",
+      "KAERITEN TI"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 5730",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  },
+  {
+    "codePoint": "319F",
+    "name": [
+      "IDEOGRAPHIC ANNOTATION MAN MARK",
+      "KAERITEN ZIN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 4EBA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Kanbun"
+  }
+]

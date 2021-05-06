@@ -1,0 +1,962 @@
+[
+  {
+    "codePoint": "20A0",
+    "name": [
+      "EURO-CURRENCY SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A1",
+    "name": [
+      "COLON SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A2",
+    "name": [
+      "CRUZEIRO SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A3",
+    "name": [
+      "FRENCH FRANC SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A4",
+    "name": [
+      "LIRA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A5",
+    "name": [
+      "MILL SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A6",
+    "name": [
+      "NAIRA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A7",
+    "name": [
+      "PESETA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A8",
+    "name": [
+      "RUPEE SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<compat> 0052 0073",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20A9",
+    "name": [
+      "WON SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AA",
+    "name": [
+      "NEW SHEQEL SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AB",
+    "name": [
+      "DONG SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AC",
+    "name": [
+      "EURO SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AD",
+    "name": [
+      "KIP SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AE",
+    "name": [
+      "TUGRIK SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20AF",
+    "name": [
+      "DRACHMA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B0",
+    "name": [
+      "GERMAN PENNY SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B1",
+    "name": [
+      "PESO SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B2",
+    "name": [
+      "GUARANI SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B3",
+    "name": [
+      "AUSTRAL SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B4",
+    "name": [
+      "HRYVNIA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B5",
+    "name": [
+      "CEDI SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B6",
+    "name": [
+      "LIVRE TOURNOIS SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B7",
+    "name": [
+      "SPESMILO SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B8",
+    "name": [
+      "TENGE SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20B9",
+    "name": [
+      "INDIAN RUPEE SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BA",
+    "name": [
+      "TURKISH LIRA SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BB",
+    "name": [
+      "NORDIC MARK SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BC",
+    "name": [
+      "MANAT SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BD",
+    "name": [
+      "RUBLE SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BE",
+    "name": [
+      "LARI SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20BF",
+    "name": [
+      "BITCOIN SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20C9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  },
+  {
+    "codePoint": "20CF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Currency_Symbols"
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "codePoint": "10980",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10981",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10982",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10983",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10984",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER YA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10985",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER WA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10986",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER BA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10987",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER BA-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10988",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER PA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10989",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER MA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098A",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER NA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098B",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER NA-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098C",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER NE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098D",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER NE-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098E",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER RA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1098F",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER RA-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10990",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER LA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10991",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER KHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10992",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER HHA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10993",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER SA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10994",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER SA-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10995",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER SE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10996",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER KA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10997",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER QA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10998",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER TA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "10999",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER TA-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099A",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER TE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099B",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER TE-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099C",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER TO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099D",
+    "name": [
+      "MEROITIC HIEROGLYPHIC LETTER DA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099E",
+    "name": [
+      "MEROITIC HIEROGLYPHIC SYMBOL VIDJ"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  },
+  {
+    "codePoint": "1099F",
+    "name": [
+      "MEROITIC HIEROGLYPHIC SYMBOL VIDJ-2"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Meroitic_Hieroglyphs",
+    "block": "Meroitic_Hieroglyphs"
+  }
+]

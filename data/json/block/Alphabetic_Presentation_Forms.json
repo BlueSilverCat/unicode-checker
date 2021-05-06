@@ -1,0 +1,1603 @@
+[
+  {
+    "codePoint": "FB00",
+    "name": [
+      "LATIN SMALL LIGATURE FF"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0066 0066",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB01",
+    "name": [
+      "LATIN SMALL LIGATURE FI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0066 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB02",
+    "name": [
+      "LATIN SMALL LIGATURE FL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0066 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB03",
+    "name": [
+      "LATIN SMALL LIGATURE FFI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0066 0066 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB04",
+    "name": [
+      "LATIN SMALL LIGATURE FFL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0066 0066 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB05",
+    "name": [
+      "LATIN SMALL LIGATURE LONG S T"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 017F 0074",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB06",
+    "name": [
+      "LATIN SMALL LIGATURE ST"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0073 0074",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB07",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB08",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB09",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB0F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB10",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB11",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB12",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB13",
+    "name": [
+      "ARMENIAN SMALL LIGATURE MEN NOW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0574 0576",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB14",
+    "name": [
+      "ARMENIAN SMALL LIGATURE MEN ECH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0574 0565",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB15",
+    "name": [
+      "ARMENIAN SMALL LIGATURE MEN INI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0574 056B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB16",
+    "name": [
+      "ARMENIAN SMALL LIGATURE VEW NOW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 057E 0576",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB17",
+    "name": [
+      "ARMENIAN SMALL LIGATURE MEN XEH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0574 056D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Armenian",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB18",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB19",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1D",
+    "name": [
+      "HEBREW LETTER YOD WITH HIRIQ"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D9 05B4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1E",
+    "name": [
+      "HEBREW POINT JUDEO-SPANISH VARIKA",
+      "HEBREW POINT VARIKA"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "26",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB1F",
+    "name": [
+      "HEBREW LIGATURE YIDDISH YOD YOD PATAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05F2 05B7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB20",
+    "name": [
+      "HEBREW LETTER ALTERNATIVE AYIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05E2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB21",
+    "name": [
+      "HEBREW LETTER WIDE ALEF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05D0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB22",
+    "name": [
+      "HEBREW LETTER WIDE DALET"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05D3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB23",
+    "name": [
+      "HEBREW LETTER WIDE HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05D4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB24",
+    "name": [
+      "HEBREW LETTER WIDE KAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05DB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB25",
+    "name": [
+      "HEBREW LETTER WIDE LAMED"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05DC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB26",
+    "name": [
+      "HEBREW LETTER WIDE FINAL MEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05DD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB27",
+    "name": [
+      "HEBREW LETTER WIDE RESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05E8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB28",
+    "name": [
+      "HEBREW LETTER WIDE TAV"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<font> 05EA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB29",
+    "name": [
+      "HEBREW LETTER ALTERNATIVE PLUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<font> 002B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2A",
+    "name": [
+      "HEBREW LETTER SHIN WITH SHIN DOT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E9 05C1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2B",
+    "name": [
+      "HEBREW LETTER SHIN WITH SIN DOT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E9 05C2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2C",
+    "name": [
+      "HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "FB49 05C1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2D",
+    "name": [
+      "HEBREW LETTER SHIN WITH DAGESH AND SIN DOT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "FB49 05C2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2E",
+    "name": [
+      "HEBREW LETTER ALEF WITH PATAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D0 05B7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB2F",
+    "name": [
+      "HEBREW LETTER ALEF WITH QAMATS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D0 05B8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB30",
+    "name": [
+      "HEBREW LETTER ALEF WITH MAPIQ"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D0 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB31",
+    "name": [
+      "HEBREW LETTER BET WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D1 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB32",
+    "name": [
+      "HEBREW LETTER GIMEL WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D2 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB33",
+    "name": [
+      "HEBREW LETTER DALET WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D3 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB34",
+    "name": [
+      "HEBREW LETTER HE WITH MAPIQ"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D4 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB35",
+    "name": [
+      "HEBREW LETTER VAV WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D5 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB36",
+    "name": [
+      "HEBREW LETTER ZAYIN WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D6 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB37",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB38",
+    "name": [
+      "HEBREW LETTER TET WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D8 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB39",
+    "name": [
+      "HEBREW LETTER YOD WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D9 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3A",
+    "name": [
+      "HEBREW LETTER FINAL KAF WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05DA 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3B",
+    "name": [
+      "HEBREW LETTER KAF WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05DB 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3C",
+    "name": [
+      "HEBREW LETTER LAMED WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05DC 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3E",
+    "name": [
+      "HEBREW LETTER MEM WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05DE 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB3F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB40",
+    "name": [
+      "HEBREW LETTER NUN WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E0 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB41",
+    "name": [
+      "HEBREW LETTER SAMEKH WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E1 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB42",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB43",
+    "name": [
+      "HEBREW LETTER FINAL PE WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E3 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB44",
+    "name": [
+      "HEBREW LETTER PE WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E4 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB45",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB46",
+    "name": [
+      "HEBREW LETTER TSADI WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E6 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB47",
+    "name": [
+      "HEBREW LETTER QOF WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E7 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB48",
+    "name": [
+      "HEBREW LETTER RESH WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E8 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB49",
+    "name": [
+      "HEBREW LETTER SHIN WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E9 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4A",
+    "name": [
+      "HEBREW LETTER TAV WITH DAGESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05EA 05BC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4B",
+    "name": [
+      "HEBREW LETTER VAV WITH HOLAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D5 05B9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4C",
+    "name": [
+      "HEBREW LETTER BET WITH RAFE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05D1 05BF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4D",
+    "name": [
+      "HEBREW LETTER KAF WITH RAFE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05DB 05BF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4E",
+    "name": [
+      "HEBREW LETTER PE WITH RAFE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "05E4 05BF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  },
+  {
+    "codePoint": "FB4F",
+    "name": [
+      "HEBREW LIGATURE ALEF LAMED"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "<compat> 05D0 05DC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hebrew",
+    "block": "Alphabetic_Presentation_Forms"
+  }
+]

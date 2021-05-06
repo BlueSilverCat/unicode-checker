@@ -1,0 +1,5122 @@
+[
+  {
+    "codePoint": "1F00",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F08",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F08",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F01",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F09",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F09",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F02",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F00 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F03",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F01 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F04",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F00 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F05",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F01 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F06",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F00 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F07",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F01 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F0F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F0F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F08",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F00",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F09",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F01",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0A",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F08 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F02",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0B",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F09 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F03",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0C",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F08 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F04",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0D",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F09 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F05",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0E",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F08 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F06",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F0F",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F09 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F07",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F10",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B5 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F18",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F18",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F11",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B5 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F19",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F19",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F12",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F10 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F1A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F1A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F13",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F11 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F1B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F1B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F14",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F10 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F1C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F1C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F15",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F11 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F1D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F1D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F16",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F17",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F18",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0395 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F10",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F19",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0395 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F11",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1A",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F18 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F12",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1B",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F19 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F13",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1C",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F18 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F14",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1D",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F19 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F15",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F1F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F20",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B7 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F28",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F28",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F21",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B7 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F29",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F29",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F22",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F20 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F23",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F21 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F24",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F20 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F25",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F21 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F26",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F20 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F27",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F21 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F2F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F2F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F28",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0397 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F20",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F29",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0397 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F21",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2A",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F28 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F22",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2B",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F29 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F23",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2C",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F28 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F24",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2D",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F29 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F25",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2E",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F28 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F26",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F2F",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F29 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F27",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F30",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F38",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F38",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F31",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F39",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F39",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F32",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F30 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F33",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F31 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F34",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F30 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F35",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F31 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F36",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F30 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F37",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F31 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F3F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F3F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F38",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0399 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F30",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F39",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0399 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F31",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3A",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F38 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F32",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3B",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F39 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F33",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3C",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F38 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F34",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3D",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F39 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F35",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3E",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F38 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F36",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F3F",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F39 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F37",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F40",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03BF 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F48",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F48",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F41",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03BF 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F49",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F49",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F42",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F40 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F4A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F4A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F43",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F41 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F4B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F4B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F44",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F40 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F4C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F4C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F45",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F41 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F4D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F4D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F46",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F47",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F48",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "039F 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F40",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F49",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "039F 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F41",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4A",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F48 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F42",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4B",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F49 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F43",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4C",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F48 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F44",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4D",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F49 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F45",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F4F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F50",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F51",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F59",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F59",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F52",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F50 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F53",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F51 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F5B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F5B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F54",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F50 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F55",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F51 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F5D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F5D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F56",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F50 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F57",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F51 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F5F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F5F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F58",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F59",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A5 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F51",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5B",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F59 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F53",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5D",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F59 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F55",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F5F",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F59 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F57",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F60",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C9 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F68",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F68",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F61",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C9 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F69",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F69",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F62",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F60 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F63",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F61 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F64",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F60 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F65",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F61 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F66",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F60 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F67",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F61 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F6F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F6F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F68",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A9 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F60",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F69",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A9 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F61",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6A",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F68 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F62",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6B",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F69 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F63",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6C",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F68 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F64",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6D",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F69 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F65",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6E",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F68 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F66",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F6F",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F69 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F67",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F70",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FBA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FBA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F71",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FBB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FBB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F72",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B5 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FC8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FC8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F73",
+    "name": [
+      "GREEK SMALL LETTER EPSILON WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FC9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FC9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F74",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B7 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FCA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FCA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F75",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AE",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FCB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FCB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F76",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FDA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FDA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F77",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FDB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FDB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F78",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03BF 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FF8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FF8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F79",
+    "name": [
+      "GREEK SMALL LETTER OMICRON WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FF9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FF9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7A",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FEA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FEA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7B",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FEB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FEB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7C",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C9 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FFA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FFA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7D",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CE",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FFB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FFB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F7F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F80",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F00 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F88",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F88",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F81",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F01 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F89",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F89",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F82",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F02 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F83",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F03 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F84",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F04 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F85",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F05 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F86",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F06 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F87",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F07 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F8F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F8F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F88",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F08 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F80",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F89",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F09 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F81",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8A",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0A 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F82",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8B",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0B 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F83",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8C",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0C 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F84",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8D",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0D 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F85",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8E",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0E 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F86",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F8F",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F0F 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F87",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F90",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F20 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F98",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F98",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F91",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F21 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F99",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F99",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F92",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F22 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9A",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F93",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F23 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9B",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F94",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F24 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9C",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F95",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F25 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9D",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F96",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F26 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9E",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F97",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F27 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1F9F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1F9F",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F98",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F28 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F90",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F99",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F29 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F91",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9A",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2A 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F92",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9B",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2B 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F93",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9C",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2C 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F94",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9D",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2D 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F95",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9E",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2E 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F96",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1F9F",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F2F 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F97",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA0",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F60 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FA8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FA8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA1",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F61 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FA9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FA9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA2",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F62 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAA",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA3",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F63 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAB",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA4",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F64 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAC",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA5",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F65 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAD",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA6",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F66 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAE",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA7",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F67 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FAF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FAF",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA8",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F68 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA0",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FA9",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F69 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA1",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAA",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6A 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA2",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAB",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6B 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA3",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAC",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6C 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA4",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAD",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6D 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA5",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAE",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6E 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA6",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FAF",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F6F 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FA7",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB0",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH VRACHY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FB8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FB8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB1",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH MACRON"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FB9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FB9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB2",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F70 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB3",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FBC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FBC",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB4",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AC 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB6",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B1 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB7",
+    "name": [
+      "GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1FB6 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB8",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH VRACHY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FB0",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FB9",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH MACRON"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FB1",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBA",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F70",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBB",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0386",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F71",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBC",
+    "name": [
+      "GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0391 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FB3",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBD",
+    "name": [
+      "GREEK KORONIS"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBE",
+    "name": [
+      "GREEK PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "0399",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "0399",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FBF",
+    "name": [
+      "GREEK PSILI"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC0",
+    "name": [
+      "GREEK PERISPOMENI"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC1",
+    "name": [
+      "GREEK DIALYTIKA AND PERISPOMENI"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "00A8 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC2",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F74 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC3",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B7 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FCC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FCC",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC4",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03AE 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC6",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B7 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC7",
+    "name": [
+      "GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1FC6 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC8",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0395 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F72",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FC9",
+    "name": [
+      "GREEK CAPITAL LETTER EPSILON WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0388",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F73",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCA",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0397 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F74",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCB",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0389",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F75",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCC",
+    "name": [
+      "GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0397 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FC3",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCD",
+    "name": [
+      "GREEK PSILI AND VARIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FBF 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCE",
+    "name": [
+      "GREEK PSILI AND OXIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FBF 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FCF",
+    "name": [
+      "GREEK PSILI AND PERISPOMENI"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FBF 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD0",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH VRACHY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FD8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FD8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD1",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH MACRON"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FD9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FD9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD2",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CA 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD3",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0390",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD6",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B9 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD7",
+    "name": [
+      "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CA 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD8",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH VRACHY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0399 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FD0",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FD9",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH MACRON"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0399 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FD1",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDA",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "0399 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F76",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDB",
+    "name": [
+      "GREEK CAPITAL LETTER IOTA WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "038A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F77",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDD",
+    "name": [
+      "GREEK DASIA AND VARIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FFE 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDE",
+    "name": [
+      "GREEK DASIA AND OXIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FFE 0301",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FDF",
+    "name": [
+      "GREEK DASIA AND PERISPOMENI"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "1FFE 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE0",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH VRACHY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FE8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FE8",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE1",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH MACRON"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FE9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FE9",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE2",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CB 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE3",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03B0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE4",
+    "name": [
+      "GREEK SMALL LETTER RHO WITH PSILI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C1 0313",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE5",
+    "name": [
+      "GREEK SMALL LETTER RHO WITH DASIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C1 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FEC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FEC",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE6",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C5 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE7",
+    "name": [
+      "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CB 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE8",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH VRACHY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A5 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FE0",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FE9",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH MACRON"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A5 0304",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FE1",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FEA",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A5 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F7A",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FEB",
+    "name": [
+      "GREEK CAPITAL LETTER UPSILON WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "038E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F7B",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FEC",
+    "name": [
+      "GREEK CAPITAL LETTER RHO WITH DASIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A1 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FE5",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FED",
+    "name": [
+      "GREEK DIALYTIKA AND VARIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "00A8 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FEE",
+    "name": [
+      "GREEK DIALYTIKA AND OXIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "0385",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FEF",
+    "name": [
+      "GREEK VARIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "0060",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF2",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1F7C 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF3",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C9 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1FFC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1FFC",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF4",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03CE 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF6",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PERISPOMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03C9 0342",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF7",
+    "name": [
+      "GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "1FF6 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF8",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "039F 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F78",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FF9",
+    "name": [
+      "GREEK CAPITAL LETTER OMICRON WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "038C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F79",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFA",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH VARIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A9 0300",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F7C",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFB",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH OXIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "038F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1F7D",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFC",
+    "name": [
+      "GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI"
+    ],
+    "generalCategory": "Lt",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "03A9 0345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1FF3",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFD",
+    "name": [
+      "GREEK OXIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "00B4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFE",
+    "name": [
+      "GREEK DASIA"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0314",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Greek_Extended"
+  },
+  {
+    "codePoint": "1FFF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Greek_Extended"
+  }
+]

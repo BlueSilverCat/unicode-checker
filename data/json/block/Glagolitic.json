@@ -1,0 +1,1922 @@
+[
+  {
+    "codePoint": "2C00",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER AZU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C30",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C01",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER BUKY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C31",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C02",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER VEDE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C32",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C03",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER GLAGOLI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C33",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C04",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER DOBRO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C34",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C05",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YESTU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C35",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C06",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER ZHIVETE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C36",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C07",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER DZELO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C37",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C08",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER ZEMLJA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C38",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C09",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER IZHE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C39",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0A",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER INITIAL IZHE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3A",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0B",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3B",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0C",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER DJERVI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3C",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0D",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER KAKO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3D",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0E",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER LJUDIJE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3E",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C0F",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER MYSLITE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C3F",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C10",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER NASHI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C40",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C11",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER ONU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C41",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C12",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER POKOJI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C42",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C13",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER RITSI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C43",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C14",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SLOVO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C44",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C15",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER TVRIDO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C45",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C16",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER UKU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C46",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C17",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER FRITU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C47",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C18",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER HERU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C48",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C19",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER OTU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C49",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1A",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER PE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4A",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1B",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SHTA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4B",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1C",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER TSI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4C",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1D",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER CHRIVI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4D",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1E",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4E",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C1F",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YERU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C4F",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C20",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YERI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C50",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C21",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YATI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C51",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C22",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SPIDERY HA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C52",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C23",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C53",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C24",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SMALL YUS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C54",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C25",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SMALL YUS WITH TAIL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C55",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C26",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER YO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C56",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C27",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER IOTATED SMALL YUS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C57",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C28",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER BIG YUS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C58",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C29",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER IOTATED BIG YUS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C59",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2A",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER FITA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C5A",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2B",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER IZHITSA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C5B",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2C",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER SHTAPIC"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C5C",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2D",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER TROKUTASTI A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C5D",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2E",
+    "name": [
+      "GLAGOLITIC CAPITAL LETTER LATINATE MYSLITE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C5E",
+    "_caseFoldingUpper": "",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C2F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C30",
+    "name": [
+      "GLAGOLITIC SMALL LETTER AZU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C00",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C00",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C31",
+    "name": [
+      "GLAGOLITIC SMALL LETTER BUKY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C01",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C01",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C32",
+    "name": [
+      "GLAGOLITIC SMALL LETTER VEDE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C02",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C02",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C33",
+    "name": [
+      "GLAGOLITIC SMALL LETTER GLAGOLI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C03",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C03",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C34",
+    "name": [
+      "GLAGOLITIC SMALL LETTER DOBRO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C04",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C04",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C35",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YESTU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C05",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C05",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C36",
+    "name": [
+      "GLAGOLITIC SMALL LETTER ZHIVETE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C06",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C06",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C37",
+    "name": [
+      "GLAGOLITIC SMALL LETTER DZELO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C07",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C07",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C38",
+    "name": [
+      "GLAGOLITIC SMALL LETTER ZEMLJA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C08",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C08",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C39",
+    "name": [
+      "GLAGOLITIC SMALL LETTER IZHE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C09",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C09",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3A",
+    "name": [
+      "GLAGOLITIC SMALL LETTER INITIAL IZHE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0A",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3B",
+    "name": [
+      "GLAGOLITIC SMALL LETTER I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0B",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3C",
+    "name": [
+      "GLAGOLITIC SMALL LETTER DJERVI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0C",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3D",
+    "name": [
+      "GLAGOLITIC SMALL LETTER KAKO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0D",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3E",
+    "name": [
+      "GLAGOLITIC SMALL LETTER LJUDIJE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0E",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C3F",
+    "name": [
+      "GLAGOLITIC SMALL LETTER MYSLITE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C0F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C0F",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C40",
+    "name": [
+      "GLAGOLITIC SMALL LETTER NASHI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C10",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C10",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C41",
+    "name": [
+      "GLAGOLITIC SMALL LETTER ONU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C11",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C11",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C42",
+    "name": [
+      "GLAGOLITIC SMALL LETTER POKOJI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C12",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C12",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C43",
+    "name": [
+      "GLAGOLITIC SMALL LETTER RITSI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C13",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C13",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C44",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SLOVO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C14",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C14",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C45",
+    "name": [
+      "GLAGOLITIC SMALL LETTER TVRIDO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C15",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C15",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C46",
+    "name": [
+      "GLAGOLITIC SMALL LETTER UKU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C16",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C16",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C47",
+    "name": [
+      "GLAGOLITIC SMALL LETTER FRITU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C17",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C17",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C48",
+    "name": [
+      "GLAGOLITIC SMALL LETTER HERU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C18",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C18",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C49",
+    "name": [
+      "GLAGOLITIC SMALL LETTER OTU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C19",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C19",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4A",
+    "name": [
+      "GLAGOLITIC SMALL LETTER PE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1A",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4B",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SHTA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1B",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4C",
+    "name": [
+      "GLAGOLITIC SMALL LETTER TSI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1C",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4D",
+    "name": [
+      "GLAGOLITIC SMALL LETTER CHRIVI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1D",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4E",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1E",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C4F",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YERU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C1F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C1F",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C50",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YERI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C20",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C20",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C51",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YATI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C21",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C21",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C52",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SPIDERY HA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C22",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C22",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C53",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C23",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C23",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C54",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SMALL YUS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C24",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C24",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C55",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C25",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C25",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C56",
+    "name": [
+      "GLAGOLITIC SMALL LETTER YO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C26",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C26",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C57",
+    "name": [
+      "GLAGOLITIC SMALL LETTER IOTATED SMALL YUS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C27",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C27",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C58",
+    "name": [
+      "GLAGOLITIC SMALL LETTER BIG YUS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C28",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C28",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C59",
+    "name": [
+      "GLAGOLITIC SMALL LETTER IOTATED BIG YUS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C29",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C29",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5A",
+    "name": [
+      "GLAGOLITIC SMALL LETTER FITA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C2A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C2A",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5B",
+    "name": [
+      "GLAGOLITIC SMALL LETTER IZHITSA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C2B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C2B",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5C",
+    "name": [
+      "GLAGOLITIC SMALL LETTER SHTAPIC"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C2C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C2C",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5D",
+    "name": [
+      "GLAGOLITIC SMALL LETTER TROKUTASTI A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C2D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C2D",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5E",
+    "name": [
+      "GLAGOLITIC SMALL LETTER LATINATE MYSLITE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C2E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C2E",
+    "script": "Glagolitic",
+    "block": "Glagolitic"
+  },
+  {
+    "codePoint": "2C5F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Glagolitic"
+  }
+]

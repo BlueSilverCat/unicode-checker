@@ -1,0 +1,997 @@
+[
+  {
+    "codePoint": "2070",
+    "name": [
+      "SUPERSCRIPT DIGIT ZERO",
+      "SUPERSCRIPT ZERO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0030",
+    "numericType1": "",
+    "numericType2": "0",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2071",
+    "name": [
+      "SUPERSCRIPT LATIN SMALL LETTER I"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2072",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2073",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2074",
+    "name": [
+      "SUPERSCRIPT DIGIT FOUR",
+      "SUPERSCRIPT FOUR"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0034",
+    "numericType1": "",
+    "numericType2": "4",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2075",
+    "name": [
+      "SUPERSCRIPT DIGIT FIVE",
+      "SUPERSCRIPT FIVE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0035",
+    "numericType1": "",
+    "numericType2": "5",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2076",
+    "name": [
+      "SUPERSCRIPT DIGIT SIX",
+      "SUPERSCRIPT SIX"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0036",
+    "numericType1": "",
+    "numericType2": "6",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2077",
+    "name": [
+      "SUPERSCRIPT DIGIT SEVEN",
+      "SUPERSCRIPT SEVEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0037",
+    "numericType1": "",
+    "numericType2": "7",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2078",
+    "name": [
+      "SUPERSCRIPT DIGIT EIGHT",
+      "SUPERSCRIPT EIGHT"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0038",
+    "numericType1": "",
+    "numericType2": "8",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2079",
+    "name": [
+      "SUPERSCRIPT DIGIT NINE",
+      "SUPERSCRIPT NINE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<super> 0039",
+    "numericType1": "",
+    "numericType2": "9",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207A",
+    "name": [
+      "SUPERSCRIPT PLUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<super> 002B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207B",
+    "name": [
+      "SUPERSCRIPT HYPHEN-MINUS",
+      "SUPERSCRIPT MINUS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<super> 2212",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207C",
+    "name": [
+      "SUPERSCRIPT EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<super> 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207D",
+    "name": [
+      "SUPERSCRIPT LEFT PARENTHESIS",
+      "SUPERSCRIPT OPENING PARENTHESIS"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<super> 0028",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "207E",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207E",
+    "name": [
+      "SUPERSCRIPT CLOSING PARENTHESIS",
+      "SUPERSCRIPT RIGHT PARENTHESIS"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<super> 0029",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "207D",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "207F",
+    "name": [
+      "SUPERSCRIPT LATIN SMALL LETTER N"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 006E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2080",
+    "name": [
+      "SUBSCRIPT DIGIT ZERO",
+      "SUBSCRIPT ZERO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0030",
+    "numericType1": "",
+    "numericType2": "0",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2081",
+    "name": [
+      "SUBSCRIPT DIGIT ONE",
+      "SUBSCRIPT ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0031",
+    "numericType1": "",
+    "numericType2": "1",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2082",
+    "name": [
+      "SUBSCRIPT DIGIT TWO",
+      "SUBSCRIPT TWO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0032",
+    "numericType1": "",
+    "numericType2": "2",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2083",
+    "name": [
+      "SUBSCRIPT DIGIT THREE",
+      "SUBSCRIPT THREE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0033",
+    "numericType1": "",
+    "numericType2": "3",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2084",
+    "name": [
+      "SUBSCRIPT DIGIT FOUR",
+      "SUBSCRIPT FOUR"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0034",
+    "numericType1": "",
+    "numericType2": "4",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2085",
+    "name": [
+      "SUBSCRIPT DIGIT FIVE",
+      "SUBSCRIPT FIVE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0035",
+    "numericType1": "",
+    "numericType2": "5",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2086",
+    "name": [
+      "SUBSCRIPT DIGIT SIX",
+      "SUBSCRIPT SIX"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0036",
+    "numericType1": "",
+    "numericType2": "6",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2087",
+    "name": [
+      "SUBSCRIPT DIGIT SEVEN",
+      "SUBSCRIPT SEVEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0037",
+    "numericType1": "",
+    "numericType2": "7",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2088",
+    "name": [
+      "SUBSCRIPT DIGIT EIGHT",
+      "SUBSCRIPT EIGHT"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0038",
+    "numericType1": "",
+    "numericType2": "8",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2089",
+    "name": [
+      "SUBSCRIPT DIGIT NINE",
+      "SUBSCRIPT NINE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<sub> 0039",
+    "numericType1": "",
+    "numericType2": "9",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208A",
+    "name": [
+      "SUBSCRIPT PLUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<sub> 002B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208B",
+    "name": [
+      "SUBSCRIPT HYPHEN-MINUS",
+      "SUBSCRIPT MINUS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<sub> 2212",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208C",
+    "name": [
+      "SUBSCRIPT EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<sub> 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208D",
+    "name": [
+      "SUBSCRIPT LEFT PARENTHESIS",
+      "SUBSCRIPT OPENING PARENTHESIS"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<sub> 0028",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "208E",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208E",
+    "name": [
+      "SUBSCRIPT CLOSING PARENTHESIS",
+      "SUBSCRIPT RIGHT PARENTHESIS"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<sub> 0029",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "208D",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "208F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2090",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER A"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0061",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2091",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER E"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0065",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2092",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER O"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2093",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER X"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0078",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2094",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER SCHWA"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0259",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2095",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER H"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0068",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2096",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER K"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2097",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER L"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2098",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER M"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "2099",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER N"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 006E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209A",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER P"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0070",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209B",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER S"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0073",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209C",
+    "name": [
+      "LATIN SUBSCRIPT SMALL LETTER T"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<sub> 0074",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  },
+  {
+    "codePoint": "209F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Superscripts_and_Subscripts"
+  }
+]

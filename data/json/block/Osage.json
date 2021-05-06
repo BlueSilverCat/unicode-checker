@@ -1,0 +1,1602 @@
+[
+  {
+    "codePoint": "104B0",
+    "name": [
+      "OSAGE CAPITAL LETTER A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104D8",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B1",
+    "name": [
+      "OSAGE CAPITAL LETTER AI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104D9",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B2",
+    "name": [
+      "OSAGE CAPITAL LETTER AIN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DA",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B3",
+    "name": [
+      "OSAGE CAPITAL LETTER AH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DB",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B4",
+    "name": [
+      "OSAGE CAPITAL LETTER BRA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DC",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B5",
+    "name": [
+      "OSAGE CAPITAL LETTER CHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DD",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B6",
+    "name": [
+      "OSAGE CAPITAL LETTER EHCHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DE",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B7",
+    "name": [
+      "OSAGE CAPITAL LETTER E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104DF",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B8",
+    "name": [
+      "OSAGE CAPITAL LETTER EIN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E0",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104B9",
+    "name": [
+      "OSAGE CAPITAL LETTER HA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E1",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BA",
+    "name": [
+      "OSAGE CAPITAL LETTER HYA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E2",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BB",
+    "name": [
+      "OSAGE CAPITAL LETTER I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E3",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BC",
+    "name": [
+      "OSAGE CAPITAL LETTER KA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E4",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BD",
+    "name": [
+      "OSAGE CAPITAL LETTER EHKA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E5",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BE",
+    "name": [
+      "OSAGE CAPITAL LETTER KYA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E6",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104BF",
+    "name": [
+      "OSAGE CAPITAL LETTER LA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E7",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C0",
+    "name": [
+      "OSAGE CAPITAL LETTER MA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E8",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C1",
+    "name": [
+      "OSAGE CAPITAL LETTER NA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104E9",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C2",
+    "name": [
+      "OSAGE CAPITAL LETTER O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104EA",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C3",
+    "name": [
+      "OSAGE CAPITAL LETTER OIN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104EB",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C4",
+    "name": [
+      "OSAGE CAPITAL LETTER PA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104EC",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C5",
+    "name": [
+      "OSAGE CAPITAL LETTER EHPA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104ED",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C6",
+    "name": [
+      "OSAGE CAPITAL LETTER SA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104EE",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C7",
+    "name": [
+      "OSAGE CAPITAL LETTER SHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104EF",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C8",
+    "name": [
+      "OSAGE CAPITAL LETTER TA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F0",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104C9",
+    "name": [
+      "OSAGE CAPITAL LETTER EHTA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F1",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CA",
+    "name": [
+      "OSAGE CAPITAL LETTER TSA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F2",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CB",
+    "name": [
+      "OSAGE CAPITAL LETTER EHTSA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F3",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CC",
+    "name": [
+      "OSAGE CAPITAL LETTER TSHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F4",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CD",
+    "name": [
+      "OSAGE CAPITAL LETTER DHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F5",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CE",
+    "name": [
+      "OSAGE CAPITAL LETTER U"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F6",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104CF",
+    "name": [
+      "OSAGE CAPITAL LETTER WA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F7",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D0",
+    "name": [
+      "OSAGE CAPITAL LETTER KHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F8",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D1",
+    "name": [
+      "OSAGE CAPITAL LETTER GHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104F9",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D2",
+    "name": [
+      "OSAGE CAPITAL LETTER ZA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104FA",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D3",
+    "name": [
+      "OSAGE CAPITAL LETTER ZHA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "104FB",
+    "_caseFoldingUpper": "",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D8",
+    "name": [
+      "OSAGE SMALL LETTER A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B0",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104D9",
+    "name": [
+      "OSAGE SMALL LETTER AI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B1",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DA",
+    "name": [
+      "OSAGE SMALL LETTER AIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B2",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DB",
+    "name": [
+      "OSAGE SMALL LETTER AH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B3",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DC",
+    "name": [
+      "OSAGE SMALL LETTER BRA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B4",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DD",
+    "name": [
+      "OSAGE SMALL LETTER CHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B5",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DE",
+    "name": [
+      "OSAGE SMALL LETTER EHCHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B6",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104DF",
+    "name": [
+      "OSAGE SMALL LETTER E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B7",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E0",
+    "name": [
+      "OSAGE SMALL LETTER EIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B8",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E1",
+    "name": [
+      "OSAGE SMALL LETTER HA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104B9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104B9",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E2",
+    "name": [
+      "OSAGE SMALL LETTER HYA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BA",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E3",
+    "name": [
+      "OSAGE SMALL LETTER I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BB",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E4",
+    "name": [
+      "OSAGE SMALL LETTER KA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BC",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E5",
+    "name": [
+      "OSAGE SMALL LETTER EHKA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BD",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E6",
+    "name": [
+      "OSAGE SMALL LETTER KYA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BE",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E7",
+    "name": [
+      "OSAGE SMALL LETTER LA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104BF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104BF",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E8",
+    "name": [
+      "OSAGE SMALL LETTER MA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C0",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104E9",
+    "name": [
+      "OSAGE SMALL LETTER NA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C1",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104EA",
+    "name": [
+      "OSAGE SMALL LETTER O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C2",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104EB",
+    "name": [
+      "OSAGE SMALL LETTER OIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C3",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104EC",
+    "name": [
+      "OSAGE SMALL LETTER PA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C4",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104ED",
+    "name": [
+      "OSAGE SMALL LETTER EHPA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C5",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104EE",
+    "name": [
+      "OSAGE SMALL LETTER SA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C6",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104EF",
+    "name": [
+      "OSAGE SMALL LETTER SHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C7",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F0",
+    "name": [
+      "OSAGE SMALL LETTER TA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C8",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F1",
+    "name": [
+      "OSAGE SMALL LETTER EHTA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104C9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104C9",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F2",
+    "name": [
+      "OSAGE SMALL LETTER TSA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CA",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F3",
+    "name": [
+      "OSAGE SMALL LETTER EHTSA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CB",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F4",
+    "name": [
+      "OSAGE SMALL LETTER TSHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CC",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F5",
+    "name": [
+      "OSAGE SMALL LETTER DHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CD",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F6",
+    "name": [
+      "OSAGE SMALL LETTER U"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CE",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F7",
+    "name": [
+      "OSAGE SMALL LETTER WA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104CF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104CF",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F8",
+    "name": [
+      "OSAGE SMALL LETTER KHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104D0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104D0",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104F9",
+    "name": [
+      "OSAGE SMALL LETTER GHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104D1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104D1",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FA",
+    "name": [
+      "OSAGE SMALL LETTER ZA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104D2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104D2",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FB",
+    "name": [
+      "OSAGE SMALL LETTER ZHA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "104D3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "104D3",
+    "script": "Osage",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  },
+  {
+    "codePoint": "104FF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Osage"
+  }
+]

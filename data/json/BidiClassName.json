@@ -1,0 +1,94 @@
+[
+  {
+    "long": "Arabic_Letter",
+    "short": "AL"
+  },
+  {
+    "long": "Arabic_Number",
+    "short": "AN"
+  },
+  {
+    "long": "Paragraph_Separator",
+    "short": "B"
+  },
+  {
+    "long": "Boundary_Neutral",
+    "short": "BN"
+  },
+  {
+    "long": "Common_Separator",
+    "short": "CS"
+  },
+  {
+    "long": "European_Number",
+    "short": "EN"
+  },
+  {
+    "long": "European_Separator",
+    "short": "ES"
+  },
+  {
+    "long": "European_Terminator",
+    "short": "ET"
+  },
+  {
+    "long": "First_Strong_Isolate",
+    "short": "FSI"
+  },
+  {
+    "long": "Left_To_Right",
+    "short": "L"
+  },
+  {
+    "long": "Left_To_Right_Embedding",
+    "short": "LRE"
+  },
+  {
+    "long": "Left_To_Right_Isolate",
+    "short": "LRI"
+  },
+  {
+    "long": "Left_To_Right_Override",
+    "short": "LRO"
+  },
+  {
+    "long": "Nonspacing_Mark",
+    "short": "NSM"
+  },
+  {
+    "long": "Other_Neutral",
+    "short": "ON"
+  },
+  {
+    "long": "Pop_Directional_Format",
+    "short": "PDF"
+  },
+  {
+    "long": "Pop_Directional_Isolate",
+    "short": "PDI"
+  },
+  {
+    "long": "Right_To_Left",
+    "short": "R"
+  },
+  {
+    "long": "Right_To_Left_Embedding",
+    "short": "RLE"
+  },
+  {
+    "long": "Right_To_Left_Isolate",
+    "short": "RLI"
+  },
+  {
+    "long": "Right_To_Left_Override",
+    "short": "RLO"
+  },
+  {
+    "long": "Segment_Separator",
+    "short": "S"
+  },
+  {
+    "long": "White_Space",
+    "short": "WS"
+  }
+]

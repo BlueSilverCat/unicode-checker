@@ -1,0 +1,642 @@
+[
+  {
+    "codePoint": "10B60",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER ALEPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B61",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER BETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B62",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER GIMEL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B63",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER DALETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B64",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B65",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER WAW-AYIN-RESH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B66",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER ZAYIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B67",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER HETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B68",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER TETH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B69",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER YODH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6A",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER KAPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6B",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER LAMEDH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6C",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER MEM-QOPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6D",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER NUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6E",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER SAMEKH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B6F",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER PE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B70",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER SADHE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B71",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER SHIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B72",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI LETTER TAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B73",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B74",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B75",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B76",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B77",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B78",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B79",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER TWO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7A",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER THREE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7B",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER FOUR"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7C",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER TEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7D",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER TWENTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "20",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7E",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER ONE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  },
+  {
+    "codePoint": "10B7F",
+    "name": [
+      "INSCRIPTIONAL PAHLAVI NUMBER ONE THOUSAND"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inscriptional_Pahlavi",
+    "block": "Inscriptional_Pahlavi"
+  }
+]

@@ -1,0 +1,5455 @@
+[
+  {
+    "codePoint": "2A00",
+    "name": [
+      "N-ARY CIRCLED DOT OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A01",
+    "name": [
+      "N-ARY CIRCLED PLUS OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A02",
+    "name": [
+      "N-ARY CIRCLED TIMES OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A03",
+    "name": [
+      "N-ARY UNION OPERATOR WITH DOT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A04",
+    "name": [
+      "N-ARY UNION OPERATOR WITH PLUS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A05",
+    "name": [
+      "N-ARY SQUARE INTERSECTION OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A06",
+    "name": [
+      "N-ARY SQUARE UNION OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A07",
+    "name": [
+      "TWO LOGICAL AND OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A08",
+    "name": [
+      "TWO LOGICAL OR OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A09",
+    "name": [
+      "N-ARY TIMES OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0A",
+    "name": [
+      "MODULO TWO SUM"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0B",
+    "name": [
+      "SUMMATION WITH INTEGRAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0C",
+    "name": [
+      "QUADRUPLE INTEGRAL OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 222B 222B 222B 222B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0D",
+    "name": [
+      "FINITE PART INTEGRAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0E",
+    "name": [
+      "INTEGRAL WITH DOUBLE STROKE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A0F",
+    "name": [
+      "INTEGRAL AVERAGE WITH SLASH"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A10",
+    "name": [
+      "CIRCULATION FUNCTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A11",
+    "name": [
+      "ANTICLOCKWISE INTEGRATION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A12",
+    "name": [
+      "LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A13",
+    "name": [
+      "LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A14",
+    "name": [
+      "LINE INTEGRATION NOT INCLUDING THE POLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A15",
+    "name": [
+      "INTEGRAL AROUND A POINT OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A16",
+    "name": [
+      "QUATERNION INTEGRAL OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A17",
+    "name": [
+      "INTEGRAL WITH LEFTWARDS ARROW WITH HOOK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A18",
+    "name": [
+      "INTEGRAL WITH TIMES SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A19",
+    "name": [
+      "INTEGRAL WITH INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1A",
+    "name": [
+      "INTEGRAL WITH UNION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1B",
+    "name": [
+      "INTEGRAL WITH OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1C",
+    "name": [
+      "INTEGRAL WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1D",
+    "name": [
+      "JOIN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1E",
+    "name": [
+      "LARGE LEFT TRIANGLE OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A1F",
+    "name": [
+      "Z NOTATION SCHEMA COMPOSITION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A20",
+    "name": [
+      "Z NOTATION SCHEMA PIPING"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A21",
+    "name": [
+      "Z NOTATION SCHEMA PROJECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A22",
+    "name": [
+      "PLUS SIGN WITH SMALL CIRCLE ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A23",
+    "name": [
+      "PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A24",
+    "name": [
+      "PLUS SIGN WITH TILDE ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A25",
+    "name": [
+      "PLUS SIGN WITH DOT BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A26",
+    "name": [
+      "PLUS SIGN WITH TILDE BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A27",
+    "name": [
+      "PLUS SIGN WITH SUBSCRIPT TWO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A28",
+    "name": [
+      "PLUS SIGN WITH BLACK TRIANGLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A29",
+    "name": [
+      "MINUS SIGN WITH COMMA ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2A",
+    "name": [
+      "MINUS SIGN WITH DOT BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2B",
+    "name": [
+      "MINUS SIGN WITH FALLING DOTS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A2C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2C",
+    "name": [
+      "MINUS SIGN WITH RISING DOTS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A2B",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2D",
+    "name": [
+      "PLUS SIGN IN LEFT HALF CIRCLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A2E",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2E",
+    "name": [
+      "PLUS SIGN IN RIGHT HALF CIRCLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A2D",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A2F",
+    "name": [
+      "VECTOR OR CROSS PRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A30",
+    "name": [
+      "MULTIPLICATION SIGN WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A31",
+    "name": [
+      "MULTIPLICATION SIGN WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A32",
+    "name": [
+      "SEMIDIRECT PRODUCT WITH BOTTOM CLOSED"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A33",
+    "name": [
+      "SMASH PRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A34",
+    "name": [
+      "MULTIPLICATION SIGN IN LEFT HALF CIRCLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A35",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A35",
+    "name": [
+      "MULTIPLICATION SIGN IN RIGHT HALF CIRCLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A34",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A36",
+    "name": [
+      "CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A37",
+    "name": [
+      "MULTIPLICATION SIGN IN DOUBLE CIRCLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A38",
+    "name": [
+      "CIRCLED DIVISION SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A39",
+    "name": [
+      "PLUS SIGN IN TRIANGLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3A",
+    "name": [
+      "MINUS SIGN IN TRIANGLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3B",
+    "name": [
+      "MULTIPLICATION SIGN IN TRIANGLE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3C",
+    "name": [
+      "INTERIOR PRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A3D",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3D",
+    "name": [
+      "RIGHTHAND INTERIOR PRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A3C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3E",
+    "name": [
+      "Z NOTATION RELATIONAL COMPOSITION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A3F",
+    "name": [
+      "AMALGAMATION OR COPRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A40",
+    "name": [
+      "INTERSECTION WITH DOT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A41",
+    "name": [
+      "UNION WITH MINUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A42",
+    "name": [
+      "UNION WITH OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A43",
+    "name": [
+      "INTERSECTION WITH OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A44",
+    "name": [
+      "INTERSECTION WITH LOGICAL AND"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A45",
+    "name": [
+      "UNION WITH LOGICAL OR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A46",
+    "name": [
+      "UNION ABOVE INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A47",
+    "name": [
+      "INTERSECTION ABOVE UNION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A48",
+    "name": [
+      "UNION ABOVE BAR ABOVE INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A49",
+    "name": [
+      "INTERSECTION ABOVE BAR ABOVE UNION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4A",
+    "name": [
+      "UNION BESIDE AND JOINED WITH UNION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4B",
+    "name": [
+      "INTERSECTION BESIDE AND JOINED WITH INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4C",
+    "name": [
+      "CLOSED UNION WITH SERIFS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4D",
+    "name": [
+      "CLOSED INTERSECTION WITH SERIFS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4E",
+    "name": [
+      "DOUBLE SQUARE INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A4F",
+    "name": [
+      "DOUBLE SQUARE UNION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A50",
+    "name": [
+      "CLOSED UNION WITH SERIFS AND SMASH PRODUCT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A51",
+    "name": [
+      "LOGICAL AND WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A52",
+    "name": [
+      "LOGICAL OR WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A53",
+    "name": [
+      "DOUBLE LOGICAL AND"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A54",
+    "name": [
+      "DOUBLE LOGICAL OR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A55",
+    "name": [
+      "TWO INTERSECTING LOGICAL AND"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A56",
+    "name": [
+      "TWO INTERSECTING LOGICAL OR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A57",
+    "name": [
+      "SLOPING LARGE OR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A58",
+    "name": [
+      "SLOPING LARGE AND"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A59",
+    "name": [
+      "LOGICAL OR OVERLAPPING LOGICAL AND"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5A",
+    "name": [
+      "LOGICAL AND WITH MIDDLE STEM"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5B",
+    "name": [
+      "LOGICAL OR WITH MIDDLE STEM"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5C",
+    "name": [
+      "LOGICAL AND WITH HORIZONTAL DASH"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5D",
+    "name": [
+      "LOGICAL OR WITH HORIZONTAL DASH"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5E",
+    "name": [
+      "LOGICAL AND WITH DOUBLE OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A5F",
+    "name": [
+      "LOGICAL AND WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A60",
+    "name": [
+      "LOGICAL AND WITH DOUBLE UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A61",
+    "name": [
+      "SMALL VEE WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A62",
+    "name": [
+      "LOGICAL OR WITH DOUBLE OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A63",
+    "name": [
+      "LOGICAL OR WITH DOUBLE UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A64",
+    "name": [
+      "Z NOTATION DOMAIN ANTIRESTRICTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A65",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A65",
+    "name": [
+      "Z NOTATION RANGE ANTIRESTRICTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A64",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A66",
+    "name": [
+      "EQUALS SIGN WITH DOT BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A67",
+    "name": [
+      "IDENTICAL WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A68",
+    "name": [
+      "TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A69",
+    "name": [
+      "TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6A",
+    "name": [
+      "TILDE OPERATOR WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6B",
+    "name": [
+      "TILDE OPERATOR WITH RISING DOTS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6C",
+    "name": [
+      "SIMILAR MINUS SIMILAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6D",
+    "name": [
+      "CONGRUENT WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6E",
+    "name": [
+      "EQUALS WITH ASTERISK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A6F",
+    "name": [
+      "ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A70",
+    "name": [
+      "APPROXIMATELY EQUAL OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A71",
+    "name": [
+      "EQUALS SIGN ABOVE PLUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A72",
+    "name": [
+      "PLUS SIGN ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A73",
+    "name": [
+      "EQUALS SIGN ABOVE TILDE OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A74",
+    "name": [
+      "DOUBLE COLON EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 003A 003A 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A75",
+    "name": [
+      "TWO CONSECUTIVE EQUALS SIGNS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 003D 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A76",
+    "name": [
+      "THREE CONSECUTIVE EQUALS SIGNS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 003D 003D 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A77",
+    "name": [
+      "EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A78",
+    "name": [
+      "EQUIVALENT WITH FOUR DOTS ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A79",
+    "name": [
+      "LESS-THAN WITH CIRCLE INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7A",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7A",
+    "name": [
+      "GREATER-THAN WITH CIRCLE INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A79",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7B",
+    "name": [
+      "LESS-THAN WITH QUESTION MARK ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7C",
+    "name": [
+      "GREATER-THAN WITH QUESTION MARK ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7B",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7D",
+    "name": [
+      "LESS-THAN OR SLANTED EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7E",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7E",
+    "name": [
+      "GREATER-THAN OR SLANTED EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7D",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A7F",
+    "name": [
+      "LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A80",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A80",
+    "name": [
+      "GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A7F",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A81",
+    "name": [
+      "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A82",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A82",
+    "name": [
+      "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A81",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A83",
+    "name": [
+      "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A84",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A84",
+    "name": [
+      "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A83",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A85",
+    "name": [
+      "LESS-THAN OR APPROXIMATE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A86",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A86",
+    "name": [
+      "GREATER-THAN OR APPROXIMATE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A85",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A87",
+    "name": [
+      "LESS-THAN AND SINGLE-LINE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A88",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A88",
+    "name": [
+      "GREATER-THAN AND SINGLE-LINE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A87",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A89",
+    "name": [
+      "LESS-THAN AND NOT APPROXIMATE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8A",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8A",
+    "name": [
+      "GREATER-THAN AND NOT APPROXIMATE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A89",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8B",
+    "name": [
+      "LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8C",
+    "name": [
+      "GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8B",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8D",
+    "name": [
+      "LESS-THAN ABOVE SIMILAR OR EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8E",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8E",
+    "name": [
+      "GREATER-THAN ABOVE SIMILAR OR EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8D",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A8F",
+    "name": [
+      "LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A90",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A90",
+    "name": [
+      "GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A8F",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A91",
+    "name": [
+      "LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A92",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A92",
+    "name": [
+      "GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A91",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A93",
+    "name": [
+      "LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A94",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A94",
+    "name": [
+      "GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A93",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A95",
+    "name": [
+      "SLANTED EQUAL TO OR LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A96",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A96",
+    "name": [
+      "SLANTED EQUAL TO OR GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A95",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A97",
+    "name": [
+      "SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A98",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A98",
+    "name": [
+      "SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A97",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A99",
+    "name": [
+      "DOUBLE-LINE EQUAL TO OR LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9A",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9A",
+    "name": [
+      "DOUBLE-LINE EQUAL TO OR GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A99",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9B",
+    "name": [
+      "DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9C",
+    "name": [
+      "DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9B",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9D",
+    "name": [
+      "SIMILAR OR LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9E",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9E",
+    "name": [
+      "SIMILAR OR GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9D",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2A9F",
+    "name": [
+      "SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA0",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA0",
+    "name": [
+      "SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2A9F",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA1",
+    "name": [
+      "DOUBLE NESTED LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA2",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA2",
+    "name": [
+      "DOUBLE NESTED GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA1",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA3",
+    "name": [
+      "DOUBLE NESTED LESS-THAN WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA4",
+    "name": [
+      "GREATER-THAN OVERLAPPING LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA5",
+    "name": [
+      "GREATER-THAN BESIDE LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA6",
+    "name": [
+      "LESS-THAN CLOSED BY CURVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA7",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA7",
+    "name": [
+      "GREATER-THAN CLOSED BY CURVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA6",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA8",
+    "name": [
+      "LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA9",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AA9",
+    "name": [
+      "GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AA8",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAA",
+    "name": [
+      "SMALLER THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AAB",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAB",
+    "name": [
+      "LARGER THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AAA",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAC",
+    "name": [
+      "SMALLER THAN OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AAD",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAD",
+    "name": [
+      "LARGER THAN OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AAC",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAE",
+    "name": [
+      "EQUALS SIGN WITH BUMPY ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AAF",
+    "name": [
+      "PRECEDES ABOVE SINGLE-LINE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB0",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB0",
+    "name": [
+      "SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AAF",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB1",
+    "name": [
+      "PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB2",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB2",
+    "name": [
+      "SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB1",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB3",
+    "name": [
+      "PRECEDES ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB4",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB4",
+    "name": [
+      "SUCCEEDS ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB3",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB5",
+    "name": [
+      "PRECEDES ABOVE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB6",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB6",
+    "name": [
+      "SUCCEEDS ABOVE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB5",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB7",
+    "name": [
+      "PRECEDES ABOVE ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB8",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB8",
+    "name": [
+      "SUCCEEDS ABOVE ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB7",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AB9",
+    "name": [
+      "PRECEDES ABOVE NOT ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABA",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABA",
+    "name": [
+      "SUCCEEDS ABOVE NOT ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AB9",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABB",
+    "name": [
+      "DOUBLE PRECEDES"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABC",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABC",
+    "name": [
+      "DOUBLE SUCCEEDS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABB",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABD",
+    "name": [
+      "SUBSET WITH DOT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABE",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABE",
+    "name": [
+      "SUPERSET WITH DOT"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABD",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ABF",
+    "name": [
+      "SUBSET WITH PLUS SIGN BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC0",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC0",
+    "name": [
+      "SUPERSET WITH PLUS SIGN BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ABF",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC1",
+    "name": [
+      "SUBSET WITH MULTIPLICATION SIGN BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC2",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC2",
+    "name": [
+      "SUPERSET WITH MULTIPLICATION SIGN BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC1",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC3",
+    "name": [
+      "SUBSET OF OR EQUAL TO WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC4",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC4",
+    "name": [
+      "SUPERSET OF OR EQUAL TO WITH DOT ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC3",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC5",
+    "name": [
+      "SUBSET OF ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC6",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC6",
+    "name": [
+      "SUPERSET OF ABOVE EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC5",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC7",
+    "name": [
+      "SUBSET OF ABOVE TILDE OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC8",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC8",
+    "name": [
+      "SUPERSET OF ABOVE TILDE OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC7",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AC9",
+    "name": [
+      "SUBSET OF ABOVE ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACA",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACA",
+    "name": [
+      "SUPERSET OF ABOVE ALMOST EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AC9",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACB",
+    "name": [
+      "SUBSET OF ABOVE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACC",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACC",
+    "name": [
+      "SUPERSET OF ABOVE NOT EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACB",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACD",
+    "name": [
+      "SQUARE LEFT OPEN BOX OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACE",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACE",
+    "name": [
+      "SQUARE RIGHT OPEN BOX OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACD",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ACF",
+    "name": [
+      "CLOSED SUBSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD0",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD0",
+    "name": [
+      "CLOSED SUPERSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2ACF",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD1",
+    "name": [
+      "CLOSED SUBSET OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD2",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD2",
+    "name": [
+      "CLOSED SUPERSET OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD1",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD3",
+    "name": [
+      "SUBSET ABOVE SUPERSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD4",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD4",
+    "name": [
+      "SUPERSET ABOVE SUBSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD3",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD5",
+    "name": [
+      "SUBSET ABOVE SUBSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD6",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD6",
+    "name": [
+      "SUPERSET ABOVE SUPERSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AD5",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD7",
+    "name": [
+      "SUPERSET BESIDE SUBSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD8",
+    "name": [
+      "SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AD9",
+    "name": [
+      "ELEMENT OF OPENING DOWNWARDS"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADA",
+    "name": [
+      "PITCHFORK WITH TEE TOP"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADB",
+    "name": [
+      "TRANSVERSAL INTERSECTION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADC",
+    "name": [
+      "FORKING"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "2ADD 0338",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADD",
+    "name": [
+      "NONFORKING"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADE",
+    "name": [
+      "SHORT LEFT TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "22A6",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2ADF",
+    "name": [
+      "SHORT DOWN TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE0",
+    "name": [
+      "SHORT UP TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE1",
+    "name": [
+      "PERPENDICULAR WITH S"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE2",
+    "name": [
+      "VERTICAL BAR TRIPLE RIGHT TURNSTILE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE3",
+    "name": [
+      "DOUBLE VERTICAL BAR LEFT TURNSTILE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "22A9",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE4",
+    "name": [
+      "VERTICAL BAR DOUBLE LEFT TURNSTILE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "22A8",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE5",
+    "name": [
+      "DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "22AB",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE6",
+    "name": [
+      "LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE7",
+    "name": [
+      "SHORT DOWN TACK WITH OVERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE8",
+    "name": [
+      "SHORT UP TACK WITH UNDERBAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AE9",
+    "name": [
+      "SHORT UP TACK ABOVE SHORT DOWN TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AEA",
+    "name": [
+      "DOUBLE DOWN TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AEB",
+    "name": [
+      "DOUBLE UP TACK"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AEC",
+    "name": [
+      "DOUBLE STROKE NOT SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AED",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AED",
+    "name": [
+      "REVERSED DOUBLE STROKE NOT SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AEC",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AEE",
+    "name": [
+      "DOES NOT DIVIDE WITH REVERSED NEGATION SLASH"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2224",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AEF",
+    "name": [
+      "VERTICAL LINE WITH CIRCLE ABOVE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF0",
+    "name": [
+      "VERTICAL LINE WITH CIRCLE BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF1",
+    "name": [
+      "DOWN TACK WITH CIRCLE BELOW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF2",
+    "name": [
+      "PARALLEL WITH HORIZONTAL STROKE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF3",
+    "name": [
+      "PARALLEL WITH TILDE OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF4",
+    "name": [
+      "TRIPLE VERTICAL BAR BINARY RELATION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF5",
+    "name": [
+      "TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF6",
+    "name": [
+      "TRIPLE COLON OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF7",
+    "name": [
+      "TRIPLE NESTED LESS-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AF8",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF8",
+    "name": [
+      "TRIPLE NESTED GREATER-THAN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AF7",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AF9",
+    "name": [
+      "DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AFA",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFA",
+    "name": [
+      "DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "2AF9",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFB",
+    "name": [
+      "TRIPLE SOLIDUS BINARY RELATION"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFC",
+    "name": [
+      "LARGE TRIPLE VERTICAL BAR OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFD",
+    "name": [
+      "DOUBLE SOLIDUS OPERATOR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFE",
+    "name": [
+      "WHITE VERTICAL BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  },
+  {
+    "codePoint": "2AFF",
+    "name": [
+      "N-ARY WHITE VERTICAL BAR"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Supplemental_Mathematical_Operators"
+  }
+]

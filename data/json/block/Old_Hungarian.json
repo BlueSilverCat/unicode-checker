@@ -1,0 +1,2562 @@
+[
+  {
+    "codePoint": "10C80",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC0",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C81",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER AA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC1",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C82",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EB"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC2",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C83",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER AMB"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC3",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C84",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EC"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC4",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C85",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ENC"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC5",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C86",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ECS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC6",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C87",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ED"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC7",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C88",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER AND"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC8",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C89",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CC9",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8A",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER CLOSE E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCA",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8B",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCB",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8C",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EF"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCC",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8D",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EG"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCD",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8E",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EGY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCE",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C8F",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CCF",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C90",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD0",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C91",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER II"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD1",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C92",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EJ"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD2",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C93",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EK"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD3",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C94",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER AK"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD4",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C95",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER UNK"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD5",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C96",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD6",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C97",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ELY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD7",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C98",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EM"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD8",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C99",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CD9",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9A",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ENY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDA",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9B",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDB",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9C",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER OO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDC",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9D",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG OE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDD",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9E",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER RUDIMENTA OE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDE",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10C9F",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER OEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CDF",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA0",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EP"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE0",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA1",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EMP"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE1",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA2",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE2",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA3",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER SHORT ER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE3",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA4",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ES"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE4",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA5",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ESZ"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE5",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA6",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ET"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE6",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA7",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ENT"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE7",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA8",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ETY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE8",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CA9",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ECH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CE9",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAA",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER U"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CEA",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAB",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER UU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CEB",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAC",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG UE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CEC",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAD",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER RUDIMENTA UE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CED",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAE",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EV"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CEE",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CAF",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EZ"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CEF",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB0",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER EZS"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CF0",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB1",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER ENT-SHAPED SIGN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CF1",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB2",
+    "name": [
+      "OLD HUNGARIAN CAPITAL LETTER US"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10CF2",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CB9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CBF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC0",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C80",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C80",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC1",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER AA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C81",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C81",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC2",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EB"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C82",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C82",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC3",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER AMB"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C83",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C83",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC4",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EC"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C84",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C84",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC5",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ENC"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C85",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C85",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC6",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ECS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C86",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C86",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC7",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ED"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C87",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C87",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC8",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER AND"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C88",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C88",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CC9",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C89",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C89",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCA",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER CLOSE E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8A",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCB",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8B",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCC",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EF"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8C",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCD",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EG"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8D",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCE",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EGY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8E",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CCF",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C8F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C8F",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD0",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C90",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C90",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD1",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER II"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C91",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C91",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD2",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EJ"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C92",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C92",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD3",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EK"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C93",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C93",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD4",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER AK"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C94",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C94",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD5",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER UNK"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C95",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C95",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD6",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C96",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C96",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD7",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ELY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C97",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C97",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD8",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EM"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C98",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C98",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CD9",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C99",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C99",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDA",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ENY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9A",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDB",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9B",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDC",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER OO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9C",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDD",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER NIKOLSBURG OE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9D",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDE",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER RUDIMENTA OE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9E",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CDF",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER OEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C9F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C9F",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE0",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EP"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA0",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE1",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EMP"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA1",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE2",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA2",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE3",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER SHORT ER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA3",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE4",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ES"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA4",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE5",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ESZ"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA5",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE6",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ET"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA6",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE7",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ENT"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA7",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE8",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ETY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA8",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CE9",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ECH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CA9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CA9",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CEA",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER U"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAA",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CEB",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER UU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAB",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CEC",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER NIKOLSBURG UE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAC",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CED",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER RUDIMENTA UE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAD",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CEE",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EV"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAE",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CEF",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EZ"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CAF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CAF",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF0",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER EZS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CB0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CB0",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF1",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER ENT-SHAPED SIGN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CB1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CB1",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF2",
+    "name": [
+      "OLD HUNGARIAN SMALL LETTER US"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CB2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CB2",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CF9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFA",
+    "name": [
+      "OLD HUNGARIAN NUMBER ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFB",
+    "name": [
+      "OLD HUNGARIAN NUMBER FIVE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFC",
+    "name": [
+      "OLD HUNGARIAN NUMBER TEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFD",
+    "name": [
+      "OLD HUNGARIAN NUMBER FIFTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFE",
+    "name": [
+      "OLD HUNGARIAN NUMBER ONE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  },
+  {
+    "codePoint": "10CFF",
+    "name": [
+      "OLD HUNGARIAN NUMBER ONE THOUSAND"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "R",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Old_Hungarian",
+    "block": "Old_Hungarian"
+  }
+]

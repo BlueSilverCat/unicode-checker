@@ -1,0 +1,1618 @@
+[
+  {
+    "codePoint": "02B0",
+    "name": [
+      "MODIFIER LETTER SMALL H"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0068",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B1",
+    "name": [
+      "MODIFIER LETTER SMALL H HOOK",
+      "MODIFIER LETTER SMALL H WITH HOOK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0266",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B2",
+    "name": [
+      "MODIFIER LETTER SMALL J"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 006A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B3",
+    "name": [
+      "MODIFIER LETTER SMALL R"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0072",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B4",
+    "name": [
+      "MODIFIER LETTER SMALL TURNED R"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0279",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B5",
+    "name": [
+      "MODIFIER LETTER SMALL TURNED R HOOK",
+      "MODIFIER LETTER SMALL TURNED R WITH HOOK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 027B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B6",
+    "name": [
+      "MODIFIER LETTER SMALL CAPITAL INVERTED R"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0281",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B7",
+    "name": [
+      "MODIFIER LETTER SMALL W"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0077",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B8",
+    "name": [
+      "MODIFIER LETTER SMALL Y"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0079",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02B9",
+    "name": [
+      "MODIFIER LETTER PRIME"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BA",
+    "name": [
+      "MODIFIER LETTER DOUBLE PRIME"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BB",
+    "name": [
+      "MODIFIER LETTER TURNED COMMA"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BC",
+    "name": [
+      "MODIFIER LETTER APOSTROPHE"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BD",
+    "name": [
+      "MODIFIER LETTER REVERSED COMMA"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BE",
+    "name": [
+      "MODIFIER LETTER RIGHT HALF RING"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02BF",
+    "name": [
+      "MODIFIER LETTER LEFT HALF RING"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C0",
+    "name": [
+      "MODIFIER LETTER GLOTTAL STOP"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C1",
+    "name": [
+      "MODIFIER LETTER REVERSED GLOTTAL STOP"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C2",
+    "name": [
+      "MODIFIER LETTER LEFT ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C3",
+    "name": [
+      "MODIFIER LETTER RIGHT ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C4",
+    "name": [
+      "MODIFIER LETTER UP ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C5",
+    "name": [
+      "MODIFIER LETTER DOWN ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C6",
+    "name": [
+      "MODIFIER LETTER CIRCUMFLEX",
+      "MODIFIER LETTER CIRCUMFLEX ACCENT"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C7",
+    "name": [
+      "CARON",
+      "MODIFIER LETTER HACEK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C8",
+    "name": [
+      "MODIFIER LETTER VERTICAL LINE"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02C9",
+    "name": [
+      "MODIFIER LETTER MACRON"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CA",
+    "name": [
+      "MODIFIER LETTER ACUTE",
+      "MODIFIER LETTER ACUTE ACCENT"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CB",
+    "name": [
+      "MODIFIER LETTER GRAVE",
+      "MODIFIER LETTER GRAVE ACCENT"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CC",
+    "name": [
+      "MODIFIER LETTER LOW VERTICAL LINE"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CD",
+    "name": [
+      "MODIFIER LETTER LOW MACRON"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CE",
+    "name": [
+      "MODIFIER LETTER LOW GRAVE",
+      "MODIFIER LETTER LOW GRAVE ACCENT"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02CF",
+    "name": [
+      "MODIFIER LETTER LOW ACUTE",
+      "MODIFIER LETTER LOW ACUTE ACCENT"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D0",
+    "name": [
+      "MODIFIER LETTER TRIANGULAR COLON"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D1",
+    "name": [
+      "MODIFIER LETTER HALF TRIANGULAR COLON"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D2",
+    "name": [
+      "MODIFIER LETTER CENTERED RIGHT HALF RING",
+      "MODIFIER LETTER CENTRED RIGHT HALF RING"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D3",
+    "name": [
+      "MODIFIER LETTER CENTERED LEFT HALF RING",
+      "MODIFIER LETTER CENTRED LEFT HALF RING"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D4",
+    "name": [
+      "MODIFIER LETTER UP TACK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D5",
+    "name": [
+      "MODIFIER LETTER DOWN TACK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D6",
+    "name": [
+      "MODIFIER LETTER PLUS SIGN"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D7",
+    "name": [
+      "MODIFIER LETTER MINUS SIGN"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D8",
+    "name": [
+      "BREVE",
+      "SPACING BREVE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0306",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02D9",
+    "name": [
+      "DOT ABOVE",
+      "SPACING DOT ABOVE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0307",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DA",
+    "name": [
+      "RING ABOVE",
+      "SPACING RING ABOVE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 030A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DB",
+    "name": [
+      "OGONEK",
+      "SPACING OGONEK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0328",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DC",
+    "name": [
+      "SMALL TILDE",
+      "SPACING TILDE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 0303",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DD",
+    "name": [
+      "DOUBLE ACUTE ACCENT",
+      "SPACING DOUBLE ACUTE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 0020 030B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DE",
+    "name": [
+      "MODIFIER LETTER RHOTIC HOOK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02DF",
+    "name": [
+      "MODIFIER LETTER CROSS ACCENT"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E0",
+    "name": [
+      "MODIFIER LETTER SMALL GAMMA"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0263",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E1",
+    "name": [
+      "MODIFIER LETTER SMALL L"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E2",
+    "name": [
+      "MODIFIER LETTER SMALL S"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0073",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E3",
+    "name": [
+      "MODIFIER LETTER SMALL X"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0078",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E4",
+    "name": [
+      "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<super> 0295",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E5",
+    "name": [
+      "MODIFIER LETTER EXTRA-HIGH TONE BAR"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E6",
+    "name": [
+      "MODIFIER LETTER HIGH TONE BAR"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E7",
+    "name": [
+      "MODIFIER LETTER MID TONE BAR"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E8",
+    "name": [
+      "MODIFIER LETTER LOW TONE BAR"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02E9",
+    "name": [
+      "MODIFIER LETTER EXTRA-LOW TONE BAR"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02EA",
+    "name": [
+      "MODIFIER LETTER YIN DEPARTING TONE MARK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Bopomofo",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02EB",
+    "name": [
+      "MODIFIER LETTER YANG DEPARTING TONE MARK"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Bopomofo",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02EC",
+    "name": [
+      "MODIFIER LETTER VOICING"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02ED",
+    "name": [
+      "MODIFIER LETTER UNASPIRATED"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02EE",
+    "name": [
+      "MODIFIER LETTER DOUBLE APOSTROPHE"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02EF",
+    "name": [
+      "MODIFIER LETTER LOW DOWN ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F0",
+    "name": [
+      "MODIFIER LETTER LOW UP ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F1",
+    "name": [
+      "MODIFIER LETTER LOW LEFT ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F2",
+    "name": [
+      "MODIFIER LETTER LOW RIGHT ARROWHEAD"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F3",
+    "name": [
+      "MODIFIER LETTER LOW RING"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F4",
+    "name": [
+      "MODIFIER LETTER MIDDLE GRAVE ACCENT"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F5",
+    "name": [
+      "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F6",
+    "name": [
+      "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F7",
+    "name": [
+      "MODIFIER LETTER LOW TILDE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F8",
+    "name": [
+      "MODIFIER LETTER RAISED COLON"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02F9",
+    "name": [
+      "MODIFIER LETTER BEGIN HIGH TONE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FA",
+    "name": [
+      "MODIFIER LETTER END HIGH TONE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FB",
+    "name": [
+      "MODIFIER LETTER BEGIN LOW TONE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FC",
+    "name": [
+      "MODIFIER LETTER END LOW TONE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FD",
+    "name": [
+      "MODIFIER LETTER SHELF"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FE",
+    "name": [
+      "MODIFIER LETTER OPEN SHELF"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  },
+  {
+    "codePoint": "02FF",
+    "name": [
+      "MODIFIER LETTER LOW LEFT ARROW"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Spacing_Modifier_Letters"
+  }
+]

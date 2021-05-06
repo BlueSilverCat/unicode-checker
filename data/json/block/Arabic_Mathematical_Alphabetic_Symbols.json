@@ -1,0 +1,5122 @@
+[
+  {
+    "codePoint": "1EE00",
+    "name": [
+      "ARABIC MATHEMATICAL ALEF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0627",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE01",
+    "name": [
+      "ARABIC MATHEMATICAL BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0628",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE02",
+    "name": [
+      "ARABIC MATHEMATICAL JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE03",
+    "name": [
+      "ARABIC MATHEMATICAL DAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE04",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE05",
+    "name": [
+      "ARABIC MATHEMATICAL WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0648",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE06",
+    "name": [
+      "ARABIC MATHEMATICAL ZAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0632",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE07",
+    "name": [
+      "ARABIC MATHEMATICAL HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE08",
+    "name": [
+      "ARABIC MATHEMATICAL TAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0637",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE09",
+    "name": [
+      "ARABIC MATHEMATICAL YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0A",
+    "name": [
+      "ARABIC MATHEMATICAL KAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0643",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0B",
+    "name": [
+      "ARABIC MATHEMATICAL LAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0644",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0C",
+    "name": [
+      "ARABIC MATHEMATICAL MEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0645",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0D",
+    "name": [
+      "ARABIC MATHEMATICAL NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0E",
+    "name": [
+      "ARABIC MATHEMATICAL SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE0F",
+    "name": [
+      "ARABIC MATHEMATICAL AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE10",
+    "name": [
+      "ARABIC MATHEMATICAL FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0641",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE11",
+    "name": [
+      "ARABIC MATHEMATICAL SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE12",
+    "name": [
+      "ARABIC MATHEMATICAL QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE13",
+    "name": [
+      "ARABIC MATHEMATICAL REH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0631",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE14",
+    "name": [
+      "ARABIC MATHEMATICAL SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE15",
+    "name": [
+      "ARABIC MATHEMATICAL TEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE16",
+    "name": [
+      "ARABIC MATHEMATICAL THEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE17",
+    "name": [
+      "ARABIC MATHEMATICAL KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE18",
+    "name": [
+      "ARABIC MATHEMATICAL THAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0630",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE19",
+    "name": [
+      "ARABIC MATHEMATICAL DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1A",
+    "name": [
+      "ARABIC MATHEMATICAL ZAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0638",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1B",
+    "name": [
+      "ARABIC MATHEMATICAL GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1C",
+    "name": [
+      "ARABIC MATHEMATICAL DOTLESS BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 066E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1D",
+    "name": [
+      "ARABIC MATHEMATICAL DOTLESS NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 06BA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1E",
+    "name": [
+      "ARABIC MATHEMATICAL DOTLESS FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 06A1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE1F",
+    "name": [
+      "ARABIC MATHEMATICAL DOTLESS QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 066F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE20",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE21",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0628",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE22",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE23",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE24",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL HEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0647",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE25",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE26",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE27",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE28",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE29",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2A",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL KAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0643",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2B",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL LAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0644",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2C",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL MEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0645",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2D",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2E",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE2F",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE30",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0641",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE31",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE32",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE33",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE34",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE35",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL TEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE36",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL THEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE37",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE38",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE39",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3B",
+    "name": [
+      "ARABIC MATHEMATICAL INITIAL GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE3F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE40",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE41",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE42",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE43",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE44",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE45",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE46",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE47",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE48",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE49",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4B",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED LAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0644",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4D",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4E",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE4F",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE50",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE51",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE52",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE53",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE54",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE55",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE56",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE57",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE58",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE59",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5B",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5D",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED DOTLESS NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 06BA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE5F",
+    "name": [
+      "ARABIC MATHEMATICAL TAILED DOTLESS QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 066F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE60",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE61",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0628",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE62",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE63",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE64",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED HEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0647",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE65",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE66",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE67",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE68",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED TAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0637",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE69",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6A",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED KAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0643",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6C",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED MEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0645",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6D",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6E",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE6F",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE70",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0641",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE71",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE72",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE73",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE74",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE75",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED TEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE76",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED THEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE77",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE78",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE79",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7A",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED ZAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0638",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7B",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7C",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED DOTLESS BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 066E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7E",
+    "name": [
+      "ARABIC MATHEMATICAL STRETCHED DOTLESS FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 06A1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE7F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE80",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED ALEF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0627",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE81",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0628",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE82",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE83",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED DAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE84",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED HEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0647",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE85",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0648",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE86",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED ZAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0632",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE87",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE88",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED TAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0637",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE89",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8B",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED LAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0644",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8C",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED MEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0645",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8D",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8E",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE8F",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE90",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0641",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE91",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE92",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE93",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED REH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0631",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE94",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE95",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED TEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE96",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED THEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE97",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE98",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED THAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0630",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE99",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9A",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED ZAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0638",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9B",
+    "name": [
+      "ARABIC MATHEMATICAL LOOPED GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EE9F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA1",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK BEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0628",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA2",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK JEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA3",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK DAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA5",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK WAW"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0648",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA6",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0632",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA7",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK HAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA8",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK TAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0637",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEA9",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK YEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 064A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAB",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK LAM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0644",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAC",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK MEEM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0645",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAD",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK NOON"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0646",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAE",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK SEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0633",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEAF",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK AIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0639",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB0",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK FEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0641",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB1",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK SAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0635",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB2",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK QAF"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0642",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB3",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK REH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0631",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB4",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK SHEEN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0634",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB5",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK TEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB6",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK THEH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB7",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK KHAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 062E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB8",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK THAL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0630",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEB9",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK DAD"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0636",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBA",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 0638",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBB",
+    "name": [
+      "ARABIC MATHEMATICAL DOUBLE-STRUCK GHAIN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AL",
+    "decompositionType": "<font> 063A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEBF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEC9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EECF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EED9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEDF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEE9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEEA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEEB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEEC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEED",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEEE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEEF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF0",
+    "name": [
+      "ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF1",
+    "name": [
+      "ARABIC MATHEMATICAL OPERATOR HAH WITH DAL"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEF9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  },
+  {
+    "codePoint": "1EEFF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Arabic_Mathematical_Alphabetic_Symbols"
+  }
+]

@@ -1,0 +1,2562 @@
+[
+  {
+    "codePoint": "12400",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12401",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12402",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12403",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12404",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12405",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12406",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12407",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12408",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12409",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1240F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12410",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12411",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12412",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12413",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12414",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE U"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12415",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12416",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12417",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12418",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12419",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE GESH2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE GESHU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1241F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO GESHU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12420",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE GESHU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12421",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR GESHU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12422",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE GESHU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12423",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12424",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12425",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE SHAR2 VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12426",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12427",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12428",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12429",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE SHAR2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE SHARU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO SHARU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE SHARU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1242F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE SHARU VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12430",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR SHARU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12431",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE SHARU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12432",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SHAR2 TIMES GAL PLUS DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "216000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12433",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SHAR2 TIMES GAL PLUS MIN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "432000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12434",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE BURU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12435",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO BURU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12436",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE BURU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12437",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE BURU VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12438",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR BURU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12439",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE BURU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH16"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE VARIANT FORM ESH21"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU4"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU A"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1243F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR VARIANT FORM LIMMU B"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12440",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX VARIANT FORM ASH9"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12441",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN3"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12442",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN A"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12443",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN VARIANT FORM IMIN B"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12444",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12445",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT VARIANT FORM USSU3"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12446",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12447",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU3"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12448",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU4"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12449",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE VARIANT FORM ILIMMU A"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO ASH TENU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE ASH TENU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR ASH TENU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE ASH TENU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX ASH TENU"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1244F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE BAN2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12450",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO BAN2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12451",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN THREE BAN2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12452",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR BAN2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12453",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR BAN2 VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12454",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE BAN2"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12455",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE BAN2 VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12456",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NIGIDAMIN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12457",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NIGIDAESH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12458",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE ESHE3"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12459",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO ESHE3"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE THIRD DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO THIRDS DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE SIXTHS DISH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5/6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE THIRD VARIANT FORM A"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN TWO THIRDS VARIANT FORM A"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1245F",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE EIGHTH ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12460",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE QUARTER ASH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12461",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE SIXTH"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12462",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE QUARTER"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12463",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE QUARTER GUR"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12464",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ONE HALF GUR"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12465",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ELAMITE ONE THIRD"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12466",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ELAMITE TWO THIRDS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12467",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ELAMITE FORTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "40",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12468",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN ELAMITE FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12469",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246A",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246B",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246C",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246D",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246E",
+    "name": [
+      "CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1246F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12470",
+    "name": [
+      "CUNEIFORM PUNCTUATION SIGN OLD ASSYRIAN WORD DIVIDER"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12471",
+    "name": [
+      "CUNEIFORM PUNCTUATION SIGN VERTICAL COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12472",
+    "name": [
+      "CUNEIFORM PUNCTUATION SIGN DIAGONAL COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12473",
+    "name": [
+      "CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12474",
+    "name": [
+      "CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Cuneiform",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12475",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12476",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12477",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12478",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "12479",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  },
+  {
+    "codePoint": "1247F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Cuneiform_Numbers_and_Punctuation"
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "codePoint": "10140",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE QUARTER"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10141",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE HALF"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10142",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE DRACHMA"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10143",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10144",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10145",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10146",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10147",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIFTY THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10148",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10149",
+    "name": [
+      "GREEK ACROPHONIC ATTIC TEN TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014A",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIFTY TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014B",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE HUNDRED TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014C",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE HUNDRED TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014D",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE THOUSAND TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014E",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE THOUSAND TALENTS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1014F",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10150",
+    "name": [
+      "GREEK ACROPHONIC ATTIC TEN STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10151",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIFTY STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10152",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE HUNDRED STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10153",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIVE HUNDRED STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10154",
+    "name": [
+      "GREEK ACROPHONIC ATTIC ONE THOUSAND STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10155",
+    "name": [
+      "GREEK ACROPHONIC ATTIC TEN THOUSAND STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10156",
+    "name": [
+      "GREEK ACROPHONIC ATTIC FIFTY THOUSAND STATERS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10157",
+    "name": [
+      "GREEK ACROPHONIC ATTIC TEN MNAS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10158",
+    "name": [
+      "GREEK ACROPHONIC HERAEUM ONE PLETHRON"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10159",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN ONE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015A",
+    "name": [
+      "GREEK ACROPHONIC HERMIONIAN ONE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015B",
+    "name": [
+      "GREEK ACROPHONIC EPIDAUREAN TWO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015C",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN TWO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015D",
+    "name": [
+      "GREEK ACROPHONIC CYRENAIC TWO DRACHMAS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015E",
+    "name": [
+      "GREEK ACROPHONIC EPIDAUREAN TWO DRACHMAS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1015F",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN FIVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10160",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10161",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN TEN ALTERNATE FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10162",
+    "name": [
+      "GREEK ACROPHONIC HERMIONIAN TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10163",
+    "name": [
+      "GREEK ACROPHONIC MESSENIAN TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10164",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10165",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN THIRTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "30",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10166",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10167",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN FIFTY ALTERNATE FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10168",
+    "name": [
+      "GREEK ACROPHONIC HERMIONIAN FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10169",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016A",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN ONE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016B",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN THREE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "300",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016C",
+    "name": [
+      "GREEK ACROPHONIC EPIDAUREAN FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016D",
+    "name": [
+      "GREEK ACROPHONIC TROEZENIAN FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016E",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1016F",
+    "name": [
+      "GREEK ACROPHONIC CARYSTIAN FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10170",
+    "name": [
+      "GREEK ACROPHONIC NAXIAN FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10171",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN ONE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10172",
+    "name": [
+      "GREEK ACROPHONIC THESPIAN FIVE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10173",
+    "name": [
+      "GREEK ACROPHONIC DELPHIC FIVE MNAS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10174",
+    "name": [
+      "GREEK ACROPHONIC STRATIAN FIFTY MNAS"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10175",
+    "name": [
+      "GREEK ONE HALF SIGN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10176",
+    "name": [
+      "GREEK ONE HALF SIGN ALTERNATE FORM"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10177",
+    "name": [
+      "GREEK TWO THIRDS SIGN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10178",
+    "name": [
+      "GREEK THREE QUARTERS SIGN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10179",
+    "name": [
+      "GREEK YEAR SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017A",
+    "name": [
+      "GREEK TALENT SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017B",
+    "name": [
+      "GREEK DRACHMA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017C",
+    "name": [
+      "GREEK OBOL SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017D",
+    "name": [
+      "GREEK TWO OBOLS SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017E",
+    "name": [
+      "GREEK THREE OBOLS SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1017F",
+    "name": [
+      "GREEK FOUR OBOLS SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10180",
+    "name": [
+      "GREEK FIVE OBOLS SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10181",
+    "name": [
+      "GREEK METRETES SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10182",
+    "name": [
+      "GREEK KYATHOS BASE SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10183",
+    "name": [
+      "GREEK LITRA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10184",
+    "name": [
+      "GREEK OUNKIA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10185",
+    "name": [
+      "GREEK XESTES SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10186",
+    "name": [
+      "GREEK ARTABE SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10187",
+    "name": [
+      "GREEK AROURA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10188",
+    "name": [
+      "GREEK GRAMMA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "10189",
+    "name": [
+      "GREEK TRYBLION BASE SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018A",
+    "name": [
+      "GREEK ZERO SIGN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018B",
+    "name": [
+      "GREEK ONE QUARTER SIGN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018C",
+    "name": [
+      "GREEK SINUSOID SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018D",
+    "name": [
+      "GREEK INDICTION SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018E",
+    "name": [
+      "NOMISMA SIGN"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Greek",
+    "block": "Ancient_Greek_Numbers"
+  },
+  {
+    "codePoint": "1018F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Ancient_Greek_Numbers"
+  }
+]

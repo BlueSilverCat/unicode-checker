@@ -1,0 +1,2562 @@
+[
+  {
+    "codePoint": "2C80",
+    "name": [
+      "COPTIC CAPITAL LETTER ALFA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C81",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C81",
+    "name": [
+      "COPTIC SMALL LETTER ALFA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C80",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C80",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C82",
+    "name": [
+      "COPTIC CAPITAL LETTER VIDA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C83",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C83",
+    "name": [
+      "COPTIC SMALL LETTER VIDA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C82",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C82",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C84",
+    "name": [
+      "COPTIC CAPITAL LETTER GAMMA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C85",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C85",
+    "name": [
+      "COPTIC SMALL LETTER GAMMA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C84",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C84",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C86",
+    "name": [
+      "COPTIC CAPITAL LETTER DALDA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C87",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C87",
+    "name": [
+      "COPTIC SMALL LETTER DALDA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C86",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C86",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C88",
+    "name": [
+      "COPTIC CAPITAL LETTER EIE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C89",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C89",
+    "name": [
+      "COPTIC SMALL LETTER EIE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C88",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C88",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8A",
+    "name": [
+      "COPTIC CAPITAL LETTER SOU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C8B",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8B",
+    "name": [
+      "COPTIC SMALL LETTER SOU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C8A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C8A",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8C",
+    "name": [
+      "COPTIC CAPITAL LETTER ZATA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C8D",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8D",
+    "name": [
+      "COPTIC SMALL LETTER ZATA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C8C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C8C",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8E",
+    "name": [
+      "COPTIC CAPITAL LETTER HATE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C8F",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C8F",
+    "name": [
+      "COPTIC SMALL LETTER HATE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C8E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C8E",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C90",
+    "name": [
+      "COPTIC CAPITAL LETTER THETHE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C91",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C91",
+    "name": [
+      "COPTIC SMALL LETTER THETHE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C90",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C90",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C92",
+    "name": [
+      "COPTIC CAPITAL LETTER IAUDA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C93",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C93",
+    "name": [
+      "COPTIC SMALL LETTER IAUDA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C92",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C92",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C94",
+    "name": [
+      "COPTIC CAPITAL LETTER KAPA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C95",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C95",
+    "name": [
+      "COPTIC SMALL LETTER KAPA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C94",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C94",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C96",
+    "name": [
+      "COPTIC CAPITAL LETTER LAULA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C97",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C97",
+    "name": [
+      "COPTIC SMALL LETTER LAULA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C96",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C96",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C98",
+    "name": [
+      "COPTIC CAPITAL LETTER MI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C99",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C99",
+    "name": [
+      "COPTIC SMALL LETTER MI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C98",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C98",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9A",
+    "name": [
+      "COPTIC CAPITAL LETTER NI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C9B",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9B",
+    "name": [
+      "COPTIC SMALL LETTER NI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C9A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C9A",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9C",
+    "name": [
+      "COPTIC CAPITAL LETTER KSI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C9D",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9D",
+    "name": [
+      "COPTIC SMALL LETTER KSI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C9C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C9C",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9E",
+    "name": [
+      "COPTIC CAPITAL LETTER O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2C9F",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2C9F",
+    "name": [
+      "COPTIC SMALL LETTER O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2C9E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2C9E",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA0",
+    "name": [
+      "COPTIC CAPITAL LETTER PI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CA1",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA1",
+    "name": [
+      "COPTIC SMALL LETTER PI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CA0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CA0",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA2",
+    "name": [
+      "COPTIC CAPITAL LETTER RO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CA3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA3",
+    "name": [
+      "COPTIC SMALL LETTER RO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CA2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CA2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA4",
+    "name": [
+      "COPTIC CAPITAL LETTER SIMA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CA5",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA5",
+    "name": [
+      "COPTIC SMALL LETTER SIMA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CA4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CA4",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA6",
+    "name": [
+      "COPTIC CAPITAL LETTER TAU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CA7",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA7",
+    "name": [
+      "COPTIC SMALL LETTER TAU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CA6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CA6",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA8",
+    "name": [
+      "COPTIC CAPITAL LETTER UA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CA9",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CA9",
+    "name": [
+      "COPTIC SMALL LETTER UA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CA8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CA8",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAA",
+    "name": [
+      "COPTIC CAPITAL LETTER FI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CAB",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAB",
+    "name": [
+      "COPTIC SMALL LETTER FI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CAA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CAA",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAC",
+    "name": [
+      "COPTIC CAPITAL LETTER KHI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CAD",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAD",
+    "name": [
+      "COPTIC SMALL LETTER KHI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CAC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CAC",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAE",
+    "name": [
+      "COPTIC CAPITAL LETTER PSI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CAF",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CAF",
+    "name": [
+      "COPTIC SMALL LETTER PSI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CAE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CAE",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB0",
+    "name": [
+      "COPTIC CAPITAL LETTER OOU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CB1",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB1",
+    "name": [
+      "COPTIC SMALL LETTER OOU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CB0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CB0",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB2",
+    "name": [
+      "COPTIC CAPITAL LETTER DIALECT-P ALEF"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CB3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB3",
+    "name": [
+      "COPTIC SMALL LETTER DIALECT-P ALEF"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CB2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CB2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB4",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC AIN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CB5",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB5",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC AIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CB4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CB4",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB6",
+    "name": [
+      "COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CB7",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB7",
+    "name": [
+      "COPTIC SMALL LETTER CRYPTOGRAMMIC EIE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CB6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CB6",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB8",
+    "name": [
+      "COPTIC CAPITAL LETTER DIALECT-P KAPA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CB9",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CB9",
+    "name": [
+      "COPTIC SMALL LETTER DIALECT-P KAPA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CB8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CB8",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBA",
+    "name": [
+      "COPTIC CAPITAL LETTER DIALECT-P NI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CBB",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBB",
+    "name": [
+      "COPTIC SMALL LETTER DIALECT-P NI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CBA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CBA",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBC",
+    "name": [
+      "COPTIC CAPITAL LETTER CRYPTOGRAMMIC NI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CBD",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBD",
+    "name": [
+      "COPTIC SMALL LETTER CRYPTOGRAMMIC NI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CBC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CBC",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBE",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC OOU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CBF",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CBF",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC OOU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CBE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CBE",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC0",
+    "name": [
+      "COPTIC CAPITAL LETTER SAMPI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CC1",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC1",
+    "name": [
+      "COPTIC SMALL LETTER SAMPI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CC0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CC0",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC2",
+    "name": [
+      "COPTIC CAPITAL LETTER CROSSED SHEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CC3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC3",
+    "name": [
+      "COPTIC SMALL LETTER CROSSED SHEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CC2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CC2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC4",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC SHEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CC5",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC5",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC SHEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CC4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CC4",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC6",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC ESH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CC7",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC7",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC ESH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CC6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CC6",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC8",
+    "name": [
+      "COPTIC CAPITAL LETTER AKHMIMIC KHEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CC9",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CC9",
+    "name": [
+      "COPTIC SMALL LETTER AKHMIMIC KHEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CC8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CC8",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCA",
+    "name": [
+      "COPTIC CAPITAL LETTER DIALECT-P HORI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CCB",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCB",
+    "name": [
+      "COPTIC SMALL LETTER DIALECT-P HORI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CCA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CCA",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCC",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC HORI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CCD",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCD",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC HORI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CCC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CCC",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCE",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC HA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CCF",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CCF",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC HA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CCE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CCE",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD0",
+    "name": [
+      "COPTIC CAPITAL LETTER L-SHAPED HA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CD1",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD1",
+    "name": [
+      "COPTIC SMALL LETTER L-SHAPED HA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CD0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CD0",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD2",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC HEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CD3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD3",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC HEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CD2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CD2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD4",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC HAT"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CD5",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD5",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC HAT"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CD4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CD4",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD6",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC GANGIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CD7",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD7",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC GANGIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CD6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CD6",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD8",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC DJA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CD9",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CD9",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC DJA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CD8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CD8",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDA",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD COPTIC SHIMA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CDB",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDB",
+    "name": [
+      "COPTIC SMALL LETTER OLD COPTIC SHIMA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CDA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CDA",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDC",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD NUBIAN SHIMA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CDD",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDD",
+    "name": [
+      "COPTIC SMALL LETTER OLD NUBIAN SHIMA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CDC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CDC",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDE",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD NUBIAN NGI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CDF",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CDF",
+    "name": [
+      "COPTIC SMALL LETTER OLD NUBIAN NGI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CDE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CDE",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE0",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD NUBIAN NYI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CE1",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE1",
+    "name": [
+      "COPTIC SMALL LETTER OLD NUBIAN NYI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CE0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CE0",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE2",
+    "name": [
+      "COPTIC CAPITAL LETTER OLD NUBIAN WAU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CE3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE3",
+    "name": [
+      "COPTIC SMALL LETTER OLD NUBIAN WAU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CE2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CE2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE4",
+    "name": [
+      "COPTIC SYMBOL KAI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE5",
+    "name": [
+      "COPTIC SYMBOL MI RO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE6",
+    "name": [
+      "COPTIC SYMBOL PI RO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE7",
+    "name": [
+      "COPTIC SYMBOL STAUROS"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE8",
+    "name": [
+      "COPTIC SYMBOL TAU RO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CE9",
+    "name": [
+      "COPTIC SYMBOL KHI RO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CEA",
+    "name": [
+      "COPTIC SYMBOL SHIMA SIMA"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CEB",
+    "name": [
+      "COPTIC CAPITAL LETTER CRYPTOGRAMMIC SHEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CEC",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CEC",
+    "name": [
+      "COPTIC SMALL LETTER CRYPTOGRAMMIC SHEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CEB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CEB",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CED",
+    "name": [
+      "COPTIC CAPITAL LETTER CRYPTOGRAMMIC GANGIA"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CEE",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CEE",
+    "name": [
+      "COPTIC SMALL LETTER CRYPTOGRAMMIC GANGIA"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CED",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CED",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CEF",
+    "name": [
+      "COPTIC COMBINING NI ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF0",
+    "name": [
+      "COPTIC COMBINING SPIRITUS ASPER"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF1",
+    "name": [
+      "COPTIC COMBINING SPIRITUS LENIS"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF2",
+    "name": [
+      "COPTIC CAPITAL LETTER BOHAIRIC KHEI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2CF3",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF3",
+    "name": [
+      "COPTIC SMALL LETTER BOHAIRIC KHEI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2CF2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2CF2",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CF9",
+    "name": [
+      "COPTIC OLD NUBIAN FULL STOP"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFA",
+    "name": [
+      "COPTIC OLD NUBIAN DIRECT QUESTION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFB",
+    "name": [
+      "COPTIC OLD NUBIAN INDIRECT QUESTION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFC",
+    "name": [
+      "COPTIC OLD NUBIAN VERSE DIVIDER"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFD",
+    "name": [
+      "COPTIC FRACTION ONE HALF"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFE",
+    "name": [
+      "COPTIC FULL STOP"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  },
+  {
+    "codePoint": "2CFF",
+    "name": [
+      "COPTIC MORPHOLOGICAL DIVIDER"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Coptic",
+    "block": "Coptic"
+  }
+]

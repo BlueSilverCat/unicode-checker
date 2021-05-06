@@ -1,0 +1,1602 @@
+[
+  {
+    "codePoint": "D7B0",
+    "name": [
+      "HANGUL JUNGSEONG O-YEO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B1",
+    "name": [
+      "HANGUL JUNGSEONG O-O-I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B2",
+    "name": [
+      "HANGUL JUNGSEONG YO-A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B3",
+    "name": [
+      "HANGUL JUNGSEONG YO-AE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B4",
+    "name": [
+      "HANGUL JUNGSEONG YO-EO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B5",
+    "name": [
+      "HANGUL JUNGSEONG U-YEO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B6",
+    "name": [
+      "HANGUL JUNGSEONG U-I-I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B7",
+    "name": [
+      "HANGUL JUNGSEONG YU-AE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B8",
+    "name": [
+      "HANGUL JUNGSEONG YU-O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7B9",
+    "name": [
+      "HANGUL JUNGSEONG EU-A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BA",
+    "name": [
+      "HANGUL JUNGSEONG EU-EO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BB",
+    "name": [
+      "HANGUL JUNGSEONG EU-E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BC",
+    "name": [
+      "HANGUL JUNGSEONG EU-O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BD",
+    "name": [
+      "HANGUL JUNGSEONG I-YA-O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BE",
+    "name": [
+      "HANGUL JUNGSEONG I-YAE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7BF",
+    "name": [
+      "HANGUL JUNGSEONG I-YEO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C0",
+    "name": [
+      "HANGUL JUNGSEONG I-YE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C1",
+    "name": [
+      "HANGUL JUNGSEONG I-O-I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C2",
+    "name": [
+      "HANGUL JUNGSEONG I-YO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C3",
+    "name": [
+      "HANGUL JUNGSEONG I-YU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C4",
+    "name": [
+      "HANGUL JUNGSEONG I-I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C5",
+    "name": [
+      "HANGUL JUNGSEONG ARAEA-A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C6",
+    "name": [
+      "HANGUL JUNGSEONG ARAEA-E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7C9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CB",
+    "name": [
+      "HANGUL JONGSEONG NIEUN-RIEUL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CC",
+    "name": [
+      "HANGUL JONGSEONG NIEUN-CHIEUCH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CD",
+    "name": [
+      "HANGUL JONGSEONG SSANGTIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CE",
+    "name": [
+      "HANGUL JONGSEONG SSANGTIKEUT-PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7CF",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D0",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D1",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-SIOS-KIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D2",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D3",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-CHIEUCH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D4",
+    "name": [
+      "HANGUL JONGSEONG TIKEUT-THIEUTH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D5",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-SSANGKIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D6",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-KIYEOK-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D7",
+    "name": [
+      "HANGUL JONGSEONG SSANGRIEUL-KHIEUKH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D8",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-MIEUM-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7D9",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-PIEUP-TIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DA",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-PIEUP-PHIEUPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DB",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-YESIEUNG"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DC",
+    "name": [
+      "HANGUL JONGSEONG RIEUL-YEORINHIEUH-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DD",
+    "name": [
+      "HANGUL JONGSEONG KAPYEOUNRIEUL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DE",
+    "name": [
+      "HANGUL JONGSEONG MIEUM-NIEUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7DF",
+    "name": [
+      "HANGUL JONGSEONG MIEUM-SSANGNIEUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E0",
+    "name": [
+      "HANGUL JONGSEONG SSANGMIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E1",
+    "name": [
+      "HANGUL JONGSEONG MIEUM-PIEUP-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E2",
+    "name": [
+      "HANGUL JONGSEONG MIEUM-CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E3",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-TIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E4",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-RIEUL-PHIEUPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E5",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-MIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E6",
+    "name": [
+      "HANGUL JONGSEONG SSANGPIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E7",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-SIOS-TIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E8",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7E9",
+    "name": [
+      "HANGUL JONGSEONG PIEUP-CHIEUCH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7EA",
+    "name": [
+      "HANGUL JONGSEONG SIOS-MIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7EB",
+    "name": [
+      "HANGUL JONGSEONG SIOS-KAPYEOUNPIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7EC",
+    "name": [
+      "HANGUL JONGSEONG SSANGSIOS-KIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7ED",
+    "name": [
+      "HANGUL JONGSEONG SSANGSIOS-TIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7EE",
+    "name": [
+      "HANGUL JONGSEONG SIOS-PANSIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7EF",
+    "name": [
+      "HANGUL JONGSEONG SIOS-CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F0",
+    "name": [
+      "HANGUL JONGSEONG SIOS-CHIEUCH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F1",
+    "name": [
+      "HANGUL JONGSEONG SIOS-THIEUTH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F2",
+    "name": [
+      "HANGUL JONGSEONG SIOS-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F3",
+    "name": [
+      "HANGUL JONGSEONG PANSIOS-PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F4",
+    "name": [
+      "HANGUL JONGSEONG PANSIOS-KAPYEOUNPIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F5",
+    "name": [
+      "HANGUL JONGSEONG YESIEUNG-MIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F6",
+    "name": [
+      "HANGUL JONGSEONG YESIEUNG-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F7",
+    "name": [
+      "HANGUL JONGSEONG CIEUC-PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F8",
+    "name": [
+      "HANGUL JONGSEONG CIEUC-SSANGPIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7F9",
+    "name": [
+      "HANGUL JONGSEONG SSANGCIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FA",
+    "name": [
+      "HANGUL JONGSEONG PHIEUPH-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FB",
+    "name": [
+      "HANGUL JONGSEONG PHIEUPH-THIEUTH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  },
+  {
+    "codePoint": "D7FF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Hangul_Jamo_Extended_B"
+  }
+]

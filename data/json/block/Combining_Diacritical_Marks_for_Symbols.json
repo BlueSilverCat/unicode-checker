@@ -1,0 +1,980 @@
+[
+  {
+    "codePoint": "20D0",
+    "name": [
+      "COMBINING LEFT HARPOON ABOVE",
+      "NON-SPACING LEFT HARPOON ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D1",
+    "name": [
+      "COMBINING RIGHT HARPOON ABOVE",
+      "NON-SPACING RIGHT HARPOON ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D2",
+    "name": [
+      "COMBINING LONG VERTICAL LINE OVERLAY",
+      "NON-SPACING LONG VERTICAL BAR OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D3",
+    "name": [
+      "COMBINING SHORT VERTICAL LINE OVERLAY",
+      "NON-SPACING SHORT VERTICAL BAR OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D4",
+    "name": [
+      "COMBINING ANTICLOCKWISE ARROW ABOVE",
+      "NON-SPACING ANTICLOCKWISE ARROW ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D5",
+    "name": [
+      "COMBINING CLOCKWISE ARROW ABOVE",
+      "NON-SPACING CLOCKWISE ARROW ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D6",
+    "name": [
+      "COMBINING LEFT ARROW ABOVE",
+      "NON-SPACING LEFT ARROW ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D7",
+    "name": [
+      "COMBINING RIGHT ARROW ABOVE",
+      "NON-SPACING RIGHT ARROW ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D8",
+    "name": [
+      "COMBINING RING OVERLAY",
+      "NON-SPACING RING OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20D9",
+    "name": [
+      "COMBINING CLOCKWISE RING OVERLAY",
+      "NON-SPACING CLOCKWISE RING OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DA",
+    "name": [
+      "COMBINING ANTICLOCKWISE RING OVERLAY",
+      "NON-SPACING ANTICLOCKWISE RING OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DB",
+    "name": [
+      "COMBINING THREE DOTS ABOVE",
+      "NON-SPACING THREE DOTS ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DC",
+    "name": [
+      "COMBINING FOUR DOTS ABOVE",
+      "NON-SPACING FOUR DOTS ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DD",
+    "name": [
+      "COMBINING ENCLOSING CIRCLE",
+      "ENCLOSING CIRCLE"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DE",
+    "name": [
+      "COMBINING ENCLOSING SQUARE",
+      "ENCLOSING SQUARE"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20DF",
+    "name": [
+      "COMBINING ENCLOSING DIAMOND",
+      "ENCLOSING DIAMOND"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E0",
+    "name": [
+      "COMBINING ENCLOSING CIRCLE BACKSLASH",
+      "ENCLOSING CIRCLE SLASH"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E1",
+    "name": [
+      "COMBINING LEFT RIGHT ARROW ABOVE",
+      "NON-SPACING LEFT RIGHT ARROW ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E2",
+    "name": [
+      "COMBINING ENCLOSING SCREEN"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E3",
+    "name": [
+      "COMBINING ENCLOSING KEYCAP"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E4",
+    "name": [
+      "COMBINING ENCLOSING UPWARD POINTING TRIANGLE"
+    ],
+    "generalCategory": "Me",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E5",
+    "name": [
+      "COMBINING REVERSE SOLIDUS OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E6",
+    "name": [
+      "COMBINING DOUBLE VERTICAL STROKE OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E7",
+    "name": [
+      "COMBINING ANNUITY SYMBOL"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E8",
+    "name": [
+      "COMBINING TRIPLE UNDERDOT"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20E9",
+    "name": [
+      "COMBINING WIDE BRIDGE ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20EA",
+    "name": [
+      "COMBINING LEFTWARDS ARROW OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20EB",
+    "name": [
+      "COMBINING LONG DOUBLE SOLIDUS OVERLAY"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "1",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20EC",
+    "name": [
+      "COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20ED",
+    "name": [
+      "COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20EE",
+    "name": [
+      "COMBINING LEFT ARROW BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20EF",
+    "name": [
+      "COMBINING RIGHT ARROW BELOW"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "220",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F0",
+    "name": [
+      "COMBINING ASTERISK ABOVE"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "230",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F2",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F3",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F4",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F5",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F6",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20F9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FA",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FB",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FC",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  },
+  {
+    "codePoint": "20FF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Combining_Diacritical_Marks_for_Symbols"
+  }
+]

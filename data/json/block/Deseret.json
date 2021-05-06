@@ -1,0 +1,1602 @@
+[
+  {
+    "codePoint": "10400",
+    "name": [
+      "DESERET CAPITAL LETTER LONG I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10428",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10401",
+    "name": [
+      "DESERET CAPITAL LETTER LONG E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10429",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10402",
+    "name": [
+      "DESERET CAPITAL LETTER LONG A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042A",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10403",
+    "name": [
+      "DESERET CAPITAL LETTER LONG AH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042B",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10404",
+    "name": [
+      "DESERET CAPITAL LETTER LONG O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042C",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10405",
+    "name": [
+      "DESERET CAPITAL LETTER LONG OO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042D",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10406",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042E",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10407",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1042F",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10408",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10430",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10409",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT AH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10431",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040A",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10432",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040B",
+    "name": [
+      "DESERET CAPITAL LETTER SHORT OO"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10433",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040C",
+    "name": [
+      "DESERET CAPITAL LETTER AY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10434",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040D",
+    "name": [
+      "DESERET CAPITAL LETTER OW"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10435",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040E",
+    "name": [
+      "DESERET CAPITAL LETTER WU"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10436",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1040F",
+    "name": [
+      "DESERET CAPITAL LETTER YEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10437",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10410",
+    "name": [
+      "DESERET CAPITAL LETTER H"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10438",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10411",
+    "name": [
+      "DESERET CAPITAL LETTER PEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10439",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10412",
+    "name": [
+      "DESERET CAPITAL LETTER BEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043A",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10413",
+    "name": [
+      "DESERET CAPITAL LETTER TEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043B",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10414",
+    "name": [
+      "DESERET CAPITAL LETTER DEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043C",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10415",
+    "name": [
+      "DESERET CAPITAL LETTER CHEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043D",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10416",
+    "name": [
+      "DESERET CAPITAL LETTER JEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043E",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10417",
+    "name": [
+      "DESERET CAPITAL LETTER KAY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1043F",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10418",
+    "name": [
+      "DESERET CAPITAL LETTER GAY"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10440",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10419",
+    "name": [
+      "DESERET CAPITAL LETTER EF"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10441",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041A",
+    "name": [
+      "DESERET CAPITAL LETTER VEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10442",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041B",
+    "name": [
+      "DESERET CAPITAL LETTER ETH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10443",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041C",
+    "name": [
+      "DESERET CAPITAL LETTER THEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10444",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041D",
+    "name": [
+      "DESERET CAPITAL LETTER ES"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10445",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041E",
+    "name": [
+      "DESERET CAPITAL LETTER ZEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10446",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1041F",
+    "name": [
+      "DESERET CAPITAL LETTER ESH"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10447",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10420",
+    "name": [
+      "DESERET CAPITAL LETTER ZHEE"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10448",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10421",
+    "name": [
+      "DESERET CAPITAL LETTER ER"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "10449",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10422",
+    "name": [
+      "DESERET CAPITAL LETTER EL"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044A",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10423",
+    "name": [
+      "DESERET CAPITAL LETTER EM"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044B",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10424",
+    "name": [
+      "DESERET CAPITAL LETTER EN"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044C",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10425",
+    "name": [
+      "DESERET CAPITAL LETTER ENG"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044D",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10426",
+    "name": [
+      "DESERET CAPITAL LETTER OI"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044E",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10427",
+    "name": [
+      "DESERET CAPITAL LETTER EW"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "1044F",
+    "_caseFoldingUpper": "",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10428",
+    "name": [
+      "DESERET SMALL LETTER LONG I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10400",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10400",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10429",
+    "name": [
+      "DESERET SMALL LETTER LONG E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10401",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10401",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042A",
+    "name": [
+      "DESERET SMALL LETTER LONG A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10402",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10402",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042B",
+    "name": [
+      "DESERET SMALL LETTER LONG AH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10403",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10403",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042C",
+    "name": [
+      "DESERET SMALL LETTER LONG O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10404",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10404",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042D",
+    "name": [
+      "DESERET SMALL LETTER LONG OO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10405",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10405",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042E",
+    "name": [
+      "DESERET SMALL LETTER SHORT I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10406",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10406",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1042F",
+    "name": [
+      "DESERET SMALL LETTER SHORT E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10407",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10407",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10430",
+    "name": [
+      "DESERET SMALL LETTER SHORT A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10408",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10408",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10431",
+    "name": [
+      "DESERET SMALL LETTER SHORT AH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10409",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10409",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10432",
+    "name": [
+      "DESERET SMALL LETTER SHORT O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040A",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10433",
+    "name": [
+      "DESERET SMALL LETTER SHORT OO"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040B",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10434",
+    "name": [
+      "DESERET SMALL LETTER AY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040C",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10435",
+    "name": [
+      "DESERET SMALL LETTER OW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040D",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10436",
+    "name": [
+      "DESERET SMALL LETTER WU"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040E",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10437",
+    "name": [
+      "DESERET SMALL LETTER YEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1040F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1040F",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10438",
+    "name": [
+      "DESERET SMALL LETTER H"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10410",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10410",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10439",
+    "name": [
+      "DESERET SMALL LETTER PEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10411",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10411",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043A",
+    "name": [
+      "DESERET SMALL LETTER BEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10412",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10412",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043B",
+    "name": [
+      "DESERET SMALL LETTER TEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10413",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10413",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043C",
+    "name": [
+      "DESERET SMALL LETTER DEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10414",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10414",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043D",
+    "name": [
+      "DESERET SMALL LETTER CHEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10415",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10415",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043E",
+    "name": [
+      "DESERET SMALL LETTER JEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10416",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10416",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1043F",
+    "name": [
+      "DESERET SMALL LETTER KAY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10417",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10417",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10440",
+    "name": [
+      "DESERET SMALL LETTER GAY"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10418",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10418",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10441",
+    "name": [
+      "DESERET SMALL LETTER EF"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10419",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10419",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10442",
+    "name": [
+      "DESERET SMALL LETTER VEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041A",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10443",
+    "name": [
+      "DESERET SMALL LETTER ETH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041B",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10444",
+    "name": [
+      "DESERET SMALL LETTER THEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041C",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10445",
+    "name": [
+      "DESERET SMALL LETTER ES"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041D",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10446",
+    "name": [
+      "DESERET SMALL LETTER ZEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041E",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10447",
+    "name": [
+      "DESERET SMALL LETTER ESH"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "1041F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "1041F",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10448",
+    "name": [
+      "DESERET SMALL LETTER ZHEE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10420",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10420",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "10449",
+    "name": [
+      "DESERET SMALL LETTER ER"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10421",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10421",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044A",
+    "name": [
+      "DESERET SMALL LETTER EL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10422",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10422",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044B",
+    "name": [
+      "DESERET SMALL LETTER EM"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10423",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10423",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044C",
+    "name": [
+      "DESERET SMALL LETTER EN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10424",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10424",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044D",
+    "name": [
+      "DESERET SMALL LETTER ENG"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10425",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10425",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044E",
+    "name": [
+      "DESERET SMALL LETTER OI"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10426",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10426",
+    "script": "Deseret",
+    "block": "Deseret"
+  },
+  {
+    "codePoint": "1044F",
+    "name": [
+      "DESERET SMALL LETTER EW"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10427",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10427",
+    "script": "Deseret",
+    "block": "Deseret"
+  }
+]

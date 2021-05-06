@@ -1,0 +1,1355 @@
+[
+  {
+    "codePoint": "3000",
+    "name": [
+      "IDEOGRAPHIC SPACE"
+    ],
+    "generalCategory": "Zs",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "WS",
+    "decompositionType": "<wide> 0020",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3001",
+    "name": [
+      "IDEOGRAPHIC COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3002",
+    "name": [
+      "IDEOGRAPHIC FULL STOP",
+      "IDEOGRAPHIC PERIOD"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3003",
+    "name": [
+      "DITTO MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3004",
+    "name": [
+      "JAPANESE INDUSTRIAL STANDARD SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3005",
+    "name": [
+      "IDEOGRAPHIC ITERATION MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3006",
+    "name": [
+      "IDEOGRAPHIC CLOSING MARK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3007",
+    "name": [
+      "IDEOGRAPHIC NUMBER ZERO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3008",
+    "name": [
+      "LEFT ANGLE BRACKET",
+      "OPENING ANGLE BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3009",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3009",
+    "name": [
+      "CLOSING ANGLE BRACKET",
+      "RIGHT ANGLE BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3008",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300A",
+    "name": [
+      "LEFT DOUBLE ANGLE BRACKET",
+      "OPENING DOUBLE ANGLE BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300B",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300B",
+    "name": [
+      "CLOSING DOUBLE ANGLE BRACKET",
+      "RIGHT DOUBLE ANGLE BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300A",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300C",
+    "name": [
+      "LEFT CORNER BRACKET",
+      "OPENING CORNER BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300D",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300D",
+    "name": [
+      "CLOSING CORNER BRACKET",
+      "RIGHT CORNER BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300C",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300E",
+    "name": [
+      "LEFT WHITE CORNER BRACKET",
+      "OPENING WHITE CORNER BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300F",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "300F",
+    "name": [
+      "CLOSING WHITE CORNER BRACKET",
+      "RIGHT WHITE CORNER BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "300E",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3010",
+    "name": [
+      "LEFT BLACK LENTICULAR BRACKET",
+      "OPENING BLACK LENTICULAR BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3011",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3011",
+    "name": [
+      "CLOSING BLACK LENTICULAR BRACKET",
+      "RIGHT BLACK LENTICULAR BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3010",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3012",
+    "name": [
+      "POSTAL MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3013",
+    "name": [
+      "GETA MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3014",
+    "name": [
+      "LEFT TORTOISE SHELL BRACKET",
+      "OPENING TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3015",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3015",
+    "name": [
+      "CLOSING TORTOISE SHELL BRACKET",
+      "RIGHT TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3014",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3016",
+    "name": [
+      "LEFT WHITE LENTICULAR BRACKET",
+      "OPENING WHITE LENTICULAR BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3017",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3017",
+    "name": [
+      "CLOSING WHITE LENTICULAR BRACKET",
+      "RIGHT WHITE LENTICULAR BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3016",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3018",
+    "name": [
+      "LEFT WHITE TORTOISE SHELL BRACKET",
+      "OPENING WHITE TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3019",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3019",
+    "name": [
+      "CLOSING WHITE TORTOISE SHELL BRACKET",
+      "RIGHT WHITE TORTOISE SHELL BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "3018",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301A",
+    "name": [
+      "LEFT WHITE SQUARE BRACKET",
+      "OPENING WHITE SQUARE BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "301B",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301B",
+    "name": [
+      "CLOSING WHITE SQUARE BRACKET",
+      "RIGHT WHITE SQUARE BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "301A",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301C",
+    "name": [
+      "WAVE DASH"
+    ],
+    "generalCategory": "Pd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301D",
+    "name": [
+      "REVERSED DOUBLE PRIME QUOTATION MARK"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301E",
+    "name": [
+      "DOUBLE PRIME QUOTATION MARK"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "301F",
+    "name": [
+      "LOW DOUBLE PRIME QUOTATION MARK"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3020",
+    "name": [
+      "POSTAL MARK FACE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3021",
+    "name": [
+      "HANGZHOU NUMERAL ONE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3022",
+    "name": [
+      "HANGZHOU NUMERAL TWO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3023",
+    "name": [
+      "HANGZHOU NUMERAL THREE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3024",
+    "name": [
+      "HANGZHOU NUMERAL FOUR"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3025",
+    "name": [
+      "HANGZHOU NUMERAL FIVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3026",
+    "name": [
+      "HANGZHOU NUMERAL SIX"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3027",
+    "name": [
+      "HANGZHOU NUMERAL SEVEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3028",
+    "name": [
+      "HANGZHOU NUMERAL EIGHT"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3029",
+    "name": [
+      "HANGZHOU NUMERAL NINE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302A",
+    "name": [
+      "IDEOGRAPHIC LEVEL TONE MARK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "218",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302B",
+    "name": [
+      "IDEOGRAPHIC RISING TONE MARK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "228",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302C",
+    "name": [
+      "IDEOGRAPHIC DEPARTING TONE MARK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "232",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302D",
+    "name": [
+      "IDEOGRAPHIC ENTERING TONE MARK"
+    ],
+    "generalCategory": "Mn",
+    "canonicalCombiningClass": "222",
+    "bidiClass": "NSM",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Inherited",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302E",
+    "name": [
+      "HANGUL SINGLE DOT TONE MARK"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "224",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "302F",
+    "name": [
+      "HANGUL DOUBLE DOT TONE MARK"
+    ],
+    "generalCategory": "Mc",
+    "canonicalCombiningClass": "224",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3030",
+    "name": [
+      "WAVY DASH"
+    ],
+    "generalCategory": "Pd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3031",
+    "name": [
+      "VERTICAL KANA REPEAT MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3032",
+    "name": [
+      "VERTICAL KANA REPEAT WITH VOICED SOUND MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3033",
+    "name": [
+      "VERTICAL KANA REPEAT MARK UPPER HALF"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3034",
+    "name": [
+      "VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3035",
+    "name": [
+      "VERTICAL KANA REPEAT MARK LOWER HALF"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3036",
+    "name": [
+      "CIRCLED POSTAL MARK"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<compat> 3012",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3037",
+    "name": [
+      "IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3038",
+    "name": [
+      "HANGZHOU NUMERAL TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 5341",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "3039",
+    "name": [
+      "HANGZHOU NUMERAL TWENTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 5344",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "20",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303A",
+    "name": [
+      "HANGZHOU NUMERAL THIRTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 5345",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "30",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303B",
+    "name": [
+      "VERTICAL IDEOGRAPHIC ITERATION MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Han",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303C",
+    "name": [
+      "MASU MARK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303D",
+    "name": [
+      "PART ALTERNATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303E",
+    "name": [
+      "IDEOGRAPHIC VARIATION INDICATOR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  },
+  {
+    "codePoint": "303F",
+    "name": [
+      "IDEOGRAPHIC HALF FILL SPACE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "CJK_Symbols_and_Punctuation"
+  }
+]

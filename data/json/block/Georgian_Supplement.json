@@ -1,0 +1,962 @@
+[
+  {
+    "codePoint": "2D00",
+    "name": [
+      "GEORGIAN SMALL LETTER AN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A0",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D01",
+    "name": [
+      "GEORGIAN SMALL LETTER BAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A1",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D02",
+    "name": [
+      "GEORGIAN SMALL LETTER GAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A2",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D03",
+    "name": [
+      "GEORGIAN SMALL LETTER DON"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A3",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D04",
+    "name": [
+      "GEORGIAN SMALL LETTER EN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A4",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D05",
+    "name": [
+      "GEORGIAN SMALL LETTER VIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A5",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D06",
+    "name": [
+      "GEORGIAN SMALL LETTER ZEN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A6",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D07",
+    "name": [
+      "GEORGIAN SMALL LETTER TAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A7",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D08",
+    "name": [
+      "GEORGIAN SMALL LETTER IN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A8",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D09",
+    "name": [
+      "GEORGIAN SMALL LETTER KAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10A9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10A9",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0A",
+    "name": [
+      "GEORGIAN SMALL LETTER LAS"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AA",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0B",
+    "name": [
+      "GEORGIAN SMALL LETTER MAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AB",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0C",
+    "name": [
+      "GEORGIAN SMALL LETTER NAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AC",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0D",
+    "name": [
+      "GEORGIAN SMALL LETTER ON"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AD",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0E",
+    "name": [
+      "GEORGIAN SMALL LETTER PAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AE",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D0F",
+    "name": [
+      "GEORGIAN SMALL LETTER ZHAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10AF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10AF",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D10",
+    "name": [
+      "GEORGIAN SMALL LETTER RAE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B0",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D11",
+    "name": [
+      "GEORGIAN SMALL LETTER SAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B1",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D12",
+    "name": [
+      "GEORGIAN SMALL LETTER TAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B2",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D13",
+    "name": [
+      "GEORGIAN SMALL LETTER UN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B3",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D14",
+    "name": [
+      "GEORGIAN SMALL LETTER PHAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B4",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D15",
+    "name": [
+      "GEORGIAN SMALL LETTER KHAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B5",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D16",
+    "name": [
+      "GEORGIAN SMALL LETTER GHAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B6",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B6",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D17",
+    "name": [
+      "GEORGIAN SMALL LETTER QAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B7",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D18",
+    "name": [
+      "GEORGIAN SMALL LETTER SHIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B8",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B8",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D19",
+    "name": [
+      "GEORGIAN SMALL LETTER CHIN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10B9",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10B9",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1A",
+    "name": [
+      "GEORGIAN SMALL LETTER CAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BA",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BA",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1B",
+    "name": [
+      "GEORGIAN SMALL LETTER JIL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BB",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BB",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1C",
+    "name": [
+      "GEORGIAN SMALL LETTER CIL"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BC",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BC",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1D",
+    "name": [
+      "GEORGIAN SMALL LETTER CHAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BD",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1E",
+    "name": [
+      "GEORGIAN SMALL LETTER XAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BE",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BE",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D1F",
+    "name": [
+      "GEORGIAN SMALL LETTER JHAN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10BF",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10BF",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D20",
+    "name": [
+      "GEORGIAN SMALL LETTER HAE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C0",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C0",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D21",
+    "name": [
+      "GEORGIAN SMALL LETTER HE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C1",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C1",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D22",
+    "name": [
+      "GEORGIAN SMALL LETTER HIE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C2",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C2",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D23",
+    "name": [
+      "GEORGIAN SMALL LETTER WE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C3",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C3",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D24",
+    "name": [
+      "GEORGIAN SMALL LETTER HAR"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C4",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C4",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D25",
+    "name": [
+      "GEORGIAN SMALL LETTER HOE"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C5",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C5",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D26",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D27",
+    "name": [
+      "GEORGIAN SMALL LETTER YN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10C7",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10C7",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D28",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D29",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2A",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2B",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2D",
+    "name": [
+      "GEORGIAN SMALL LETTER AEN"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "10CD",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "10CD",
+    "script": "Georgian",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  },
+  {
+    "codePoint": "2D2F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Georgian_Supplement"
+  }
+]

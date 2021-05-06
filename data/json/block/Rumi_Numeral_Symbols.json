@@ -1,0 +1,642 @@
+[
+  {
+    "codePoint": "10E60",
+    "name": [
+      "RUMI DIGIT ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "1",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E61",
+    "name": [
+      "RUMI DIGIT TWO"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "2",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E62",
+    "name": [
+      "RUMI DIGIT THREE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "3",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E63",
+    "name": [
+      "RUMI DIGIT FOUR"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "4",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E64",
+    "name": [
+      "RUMI DIGIT FIVE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "5",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E65",
+    "name": [
+      "RUMI DIGIT SIX"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "6",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E66",
+    "name": [
+      "RUMI DIGIT SEVEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "7",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E67",
+    "name": [
+      "RUMI DIGIT EIGHT"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "8",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E68",
+    "name": [
+      "RUMI DIGIT NINE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "9",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E69",
+    "name": [
+      "RUMI NUMBER TEN"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6A",
+    "name": [
+      "RUMI NUMBER TWENTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "20",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6B",
+    "name": [
+      "RUMI NUMBER THIRTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "30",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6C",
+    "name": [
+      "RUMI NUMBER FORTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "40",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6D",
+    "name": [
+      "RUMI NUMBER FIFTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6E",
+    "name": [
+      "RUMI NUMBER SIXTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "60",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E6F",
+    "name": [
+      "RUMI NUMBER SEVENTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "70",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E70",
+    "name": [
+      "RUMI NUMBER EIGHTY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "80",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E71",
+    "name": [
+      "RUMI NUMBER NINETY"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "90",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E72",
+    "name": [
+      "RUMI NUMBER ONE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E73",
+    "name": [
+      "RUMI NUMBER TWO HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "200",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E74",
+    "name": [
+      "RUMI NUMBER THREE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "300",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E75",
+    "name": [
+      "RUMI NUMBER FOUR HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "400",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E76",
+    "name": [
+      "RUMI NUMBER FIVE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E77",
+    "name": [
+      "RUMI NUMBER SIX HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "600",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E78",
+    "name": [
+      "RUMI NUMBER SEVEN HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "700",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E79",
+    "name": [
+      "RUMI NUMBER EIGHT HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "800",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7A",
+    "name": [
+      "RUMI NUMBER NINE HUNDRED"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "900",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7B",
+    "name": [
+      "RUMI FRACTION ONE HALF"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7C",
+    "name": [
+      "RUMI FRACTION ONE QUARTER"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7D",
+    "name": [
+      "RUMI FRACTION ONE THIRD"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7E",
+    "name": [
+      "RUMI FRACTION TWO THIRDS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "AN",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Arabic",
+    "block": "Rumi_Numeral_Symbols"
+  },
+  {
+    "codePoint": "10E7F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Rumi_Numeral_Symbols"
+  }
+]

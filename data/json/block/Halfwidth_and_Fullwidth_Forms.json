@@ -1,0 +1,4883 @@
+[
+  {
+    "codePoint": "FF00",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF01",
+    "name": [
+      "FULLWIDTH EXCLAMATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0021",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF02",
+    "name": [
+      "FULLWIDTH QUOTATION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0022",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF03",
+    "name": [
+      "FULLWIDTH NUMBER SIGN"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 0023",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF04",
+    "name": [
+      "FULLWIDTH DOLLAR SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 0024",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF05",
+    "name": [
+      "FULLWIDTH PERCENT SIGN"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 0025",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF06",
+    "name": [
+      "FULLWIDTH AMPERSAND"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0026",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF07",
+    "name": [
+      "FULLWIDTH APOSTROPHE"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0027",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF08",
+    "name": [
+      "FULLWIDTH LEFT PARENTHESIS",
+      "FULLWIDTH OPENING PARENTHESIS"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0028",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF09",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF09",
+    "name": [
+      "FULLWIDTH CLOSING PARENTHESIS",
+      "FULLWIDTH RIGHT PARENTHESIS"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0029",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF08",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0A",
+    "name": [
+      "FULLWIDTH ASTERISK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 002A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0B",
+    "name": [
+      "FULLWIDTH PLUS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<wide> 002B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0C",
+    "name": [
+      "FULLWIDTH COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "CS",
+    "decompositionType": "<wide> 002C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0D",
+    "name": [
+      "FULLWIDTH HYPHEN-MINUS"
+    ],
+    "generalCategory": "Pd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ES",
+    "decompositionType": "<wide> 002D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0E",
+    "name": [
+      "FULLWIDTH FULL STOP",
+      "FULLWIDTH PERIOD"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "CS",
+    "decompositionType": "<wide> 002E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF0F",
+    "name": [
+      "FULLWIDTH SLASH",
+      "FULLWIDTH SOLIDUS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "CS",
+    "decompositionType": "<wide> 002F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF10",
+    "name": [
+      "FULLWIDTH DIGIT ZERO"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0030",
+    "numericType1": "0",
+    "numericType2": "0",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF11",
+    "name": [
+      "FULLWIDTH DIGIT ONE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0031",
+    "numericType1": "1",
+    "numericType2": "1",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF12",
+    "name": [
+      "FULLWIDTH DIGIT TWO"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0032",
+    "numericType1": "2",
+    "numericType2": "2",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF13",
+    "name": [
+      "FULLWIDTH DIGIT THREE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0033",
+    "numericType1": "3",
+    "numericType2": "3",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF14",
+    "name": [
+      "FULLWIDTH DIGIT FOUR"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0034",
+    "numericType1": "4",
+    "numericType2": "4",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF15",
+    "name": [
+      "FULLWIDTH DIGIT FIVE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0035",
+    "numericType1": "5",
+    "numericType2": "5",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF16",
+    "name": [
+      "FULLWIDTH DIGIT SIX"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0036",
+    "numericType1": "6",
+    "numericType2": "6",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF17",
+    "name": [
+      "FULLWIDTH DIGIT SEVEN"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0037",
+    "numericType1": "7",
+    "numericType2": "7",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF18",
+    "name": [
+      "FULLWIDTH DIGIT EIGHT"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0038",
+    "numericType1": "8",
+    "numericType2": "8",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF19",
+    "name": [
+      "FULLWIDTH DIGIT NINE"
+    ],
+    "generalCategory": "Nd",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "EN",
+    "decompositionType": "<wide> 0039",
+    "numericType1": "9",
+    "numericType2": "9",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1A",
+    "name": [
+      "FULLWIDTH COLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "CS",
+    "decompositionType": "<wide> 003A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1B",
+    "name": [
+      "FULLWIDTH SEMICOLON"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 003B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1C",
+    "name": [
+      "FULLWIDTH LESS-THAN SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 003C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF1E",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1D",
+    "name": [
+      "FULLWIDTH EQUALS SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 003D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1E",
+    "name": [
+      "FULLWIDTH GREATER-THAN SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 003E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF1C",
+      "type": ""
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF1F",
+    "name": [
+      "FULLWIDTH QUESTION MARK"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 003F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF20",
+    "name": [
+      "FULLWIDTH COMMERCIAL AT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0040",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF21",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER A"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0041",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF41",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF22",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER B"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0042",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF42",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF23",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER C"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0043",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF43",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF24",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER D"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0044",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF44",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF25",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER E"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0045",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF45",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF26",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER F"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0046",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF46",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF27",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER G"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0047",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF47",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF28",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER H"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0048",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF48",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF29",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER I"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF49",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2A",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER J"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4A",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2B",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER K"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4B",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2C",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER L"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4C",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2D",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER M"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4D",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2E",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER N"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4E",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF2F",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER O"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 004F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF4F",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF30",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER P"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0050",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF50",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF31",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER Q"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0051",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF51",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF32",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER R"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0052",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF52",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF33",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER S"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0053",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF53",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF34",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER T"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0054",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF54",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF35",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER U"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0055",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF55",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF36",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER V"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0056",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF56",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF37",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER W"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0057",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF57",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF38",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER X"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0058",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF58",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF39",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER Y"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0059",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF59",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3A",
+    "name": [
+      "FULLWIDTH LATIN CAPITAL LETTER Z"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 005A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "FF5A",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3B",
+    "name": [
+      "FULLWIDTH LEFT SQUARE BRACKET",
+      "FULLWIDTH OPENING SQUARE BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 005B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF3D",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3C",
+    "name": [
+      "FULLWIDTH BACKSLASH",
+      "FULLWIDTH REVERSE SOLIDUS"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 005C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3D",
+    "name": [
+      "FULLWIDTH CLOSING SQUARE BRACKET",
+      "FULLWIDTH RIGHT SQUARE BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 005D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF3B",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3E",
+    "name": [
+      "FULLWIDTH CIRCUMFLEX ACCENT",
+      "FULLWIDTH SPACING CIRCUMFLEX"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 005E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF3F",
+    "name": [
+      "FULLWIDTH LOW LINE",
+      "FULLWIDTH SPACING UNDERSCORE"
+    ],
+    "generalCategory": "Pc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 005F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF40",
+    "name": [
+      "FULLWIDTH GRAVE ACCENT",
+      "FULLWIDTH SPACING GRAVE"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 0060",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF41",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER A"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0061",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF21",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF21",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF42",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER B"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0062",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF22",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF22",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF43",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER C"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0063",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF23",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF23",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF44",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER D"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0064",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF24",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF24",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF45",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER E"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0065",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF25",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF25",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF46",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER F"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0066",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF26",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF26",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF47",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER G"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0067",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF27",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF27",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF48",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER H"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0068",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF28",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF28",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF49",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER I"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF29",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF29",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4A",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER J"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2A",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4B",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER K"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2B",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4C",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER L"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2C",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4D",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER M"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2D",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4E",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER N"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2E",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF4F",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER O"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 006F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF2F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF2F",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF50",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER P"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0070",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF30",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF30",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF51",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER Q"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0071",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF31",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF31",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF52",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER R"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0072",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF32",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF32",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF53",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER S"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0073",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF33",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF33",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF54",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER T"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0074",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF34",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF34",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF55",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER U"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0075",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF35",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF35",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF56",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER V"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0076",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF36",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF36",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF57",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER W"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0077",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF37",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF37",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF58",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER X"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0078",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF38",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF38",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF59",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER Y"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 0079",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF39",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF39",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5A",
+    "name": [
+      "FULLWIDTH LATIN SMALL LETTER Z"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<wide> 007A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "FF3A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "FF3A",
+    "script": "Latin",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5B",
+    "name": [
+      "FULLWIDTH LEFT CURLY BRACKET",
+      "FULLWIDTH OPENING CURLY BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 007B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF5D",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5C",
+    "name": [
+      "FULLWIDTH VERTICAL BAR",
+      "FULLWIDTH VERTICAL LINE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 007C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5D",
+    "name": [
+      "FULLWIDTH CLOSING CURLY BRACKET",
+      "FULLWIDTH RIGHT CURLY BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 007D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF5B",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5E",
+    "name": [
+      "FULLWIDTH SPACING TILDE",
+      "FULLWIDTH TILDE"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 007E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF5F",
+    "name": [
+      "FULLWIDTH LEFT WHITE PARENTHESIS"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 2985",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF60",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF60",
+    "name": [
+      "FULLWIDTH RIGHT WHITE PARENTHESIS"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 2986",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF5F",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF61",
+    "name": [
+      "HALFWIDTH IDEOGRAPHIC FULL STOP",
+      "HALFWIDTH IDEOGRAPHIC PERIOD"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 3002",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF62",
+    "name": [
+      "HALFWIDTH LEFT CORNER BRACKET",
+      "HALFWIDTH OPENING CORNER BRACKET"
+    ],
+    "generalCategory": "Ps",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 300C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF63",
+      "type": "open"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF63",
+    "name": [
+      "HALFWIDTH CLOSING CORNER BRACKET",
+      "HALFWIDTH RIGHT CORNER BRACKET"
+    ],
+    "generalCategory": "Pe",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 300D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {
+      "mirror": "FF62",
+      "type": "close"
+    },
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF64",
+    "name": [
+      "HALFWIDTH IDEOGRAPHIC COMMA"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 3001",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF65",
+    "name": [
+      "HALFWIDTH KATAKANA MIDDLE DOT"
+    ],
+    "generalCategory": "Po",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 30FB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF66",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER WO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30F2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF67",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF68",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF69",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL U"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6A",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6B",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6C",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL YA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6D",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL YU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6E",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL YO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF6F",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SMALL TU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30C3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF70",
+    "name": [
+      "HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30FC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF71",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF72",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF73",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER U"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF74",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30A8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF75",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30AA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF76",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER KA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30AB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF77",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER KI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30AD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF78",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER KU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30AF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF79",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER KE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30B1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7A",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER KO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30B3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7B",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30B5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7C",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30B7",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7D",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30B9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7E",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30BB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF7F",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER SO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30BD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF80",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER TA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30BF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF81",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER TI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30C1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF82",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER TU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30C4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF83",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER TE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30C6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF84",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER TO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30C8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF85",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER NA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF86",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER NI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF87",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER NU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF88",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER NE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CD",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF89",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER NO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CE",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8A",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER HA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30CF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8B",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER HI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30D2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8C",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER HU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30D5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8D",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER HE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30D8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8E",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER HO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30DB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF8F",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER MA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30DE",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF90",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER MI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30DF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF91",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER MU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF92",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER ME"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E1",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF93",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER MO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF94",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER YA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E4",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF95",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER YU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF96",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER YO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E8",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF97",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER RA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30E9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF98",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER RI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30EA",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF99",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER RU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30EB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9A",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER RE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30EC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9B",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER RO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30ED",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9C",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER WA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30EF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9D",
+    "name": [
+      "HALFWIDTH KATAKANA LETTER N"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 30F3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Katakana",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9E",
+    "name": [
+      "HALFWIDTH KATAKANA VOICED SOUND MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3099",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FF9F",
+    "name": [
+      "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK"
+    ],
+    "generalCategory": "Lm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 309A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA0",
+    "name": [
+      "HALFWIDTH HANGUL CAE OM",
+      "HALFWIDTH HANGUL FILLER"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3164",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA1",
+    "name": [
+      "HALFWIDTH HANGUL LETTER GIYEOG",
+      "HALFWIDTH HANGUL LETTER KIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3131",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA2",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SSANG GIYEOG",
+      "HALFWIDTH HANGUL LETTER SSANGKIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3132",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA3",
+    "name": [
+      "HALFWIDTH HANGUL LETTER GIYEOG SIOS",
+      "HALFWIDTH HANGUL LETTER KIYEOK-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3133",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA4",
+    "name": [
+      "HALFWIDTH HANGUL LETTER NIEUN"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3134",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA5",
+    "name": [
+      "HALFWIDTH HANGUL LETTER NIEUN JIEUJ",
+      "HALFWIDTH HANGUL LETTER NIEUN-CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3135",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA6",
+    "name": [
+      "HALFWIDTH HANGUL LETTER NIEUN HIEUH",
+      "HALFWIDTH HANGUL LETTER NIEUN-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3136",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA7",
+    "name": [
+      "HALFWIDTH HANGUL LETTER DIGEUD",
+      "HALFWIDTH HANGUL LETTER TIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3137",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA8",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SSANG DIGEUD",
+      "HALFWIDTH HANGUL LETTER SSANGTIKEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3138",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFA9",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL",
+      "HALFWIDTH HANGUL LETTER RIEUL"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3139",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAA",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL GIYEOG",
+      "HALFWIDTH HANGUL LETTER RIEUL-KIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAB",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL MIEUM",
+      "HALFWIDTH HANGUL LETTER RIEUL-MIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAC",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL BIEUB",
+      "HALFWIDTH HANGUL LETTER RIEUL-PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAD",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL SIOS",
+      "HALFWIDTH HANGUL LETTER RIEUL-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAE",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL TIEUT",
+      "HALFWIDTH HANGUL LETTER RIEUL-THIEUTH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFAF",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL PIEUP",
+      "HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 313F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB0",
+    "name": [
+      "HALFWIDTH HANGUL LETTER LIEUL HIEUH",
+      "HALFWIDTH HANGUL LETTER RIEUL-HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3140",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB1",
+    "name": [
+      "HALFWIDTH HANGUL LETTER MIEUM"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3141",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB2",
+    "name": [
+      "HALFWIDTH HANGUL LETTER BIEUB",
+      "HALFWIDTH HANGUL LETTER PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3142",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB3",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SSANG BIEUB",
+      "HALFWIDTH HANGUL LETTER SSANGPIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3143",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB4",
+    "name": [
+      "HALFWIDTH HANGUL LETTER BIEUB SIOS",
+      "HALFWIDTH HANGUL LETTER PIEUP-SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3144",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB5",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3145",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB6",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SSANG SIOS",
+      "HALFWIDTH HANGUL LETTER SSANGSIOS"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3146",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB7",
+    "name": [
+      "HALFWIDTH HANGUL LETTER IEUNG"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3147",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB8",
+    "name": [
+      "HALFWIDTH HANGUL LETTER CIEUC",
+      "HALFWIDTH HANGUL LETTER JIEUJ"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3148",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFB9",
+    "name": [
+      "HALFWIDTH HANGUL LETTER SSANG JIEUJ",
+      "HALFWIDTH HANGUL LETTER SSANGCIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3149",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBA",
+    "name": [
+      "HALFWIDTH HANGUL LETTER CHIEUCH",
+      "HALFWIDTH HANGUL LETTER CIEUC"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBB",
+    "name": [
+      "HALFWIDTH HANGUL LETTER KHIEUKH",
+      "HALFWIDTH HANGUL LETTER KIYEOK"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBC",
+    "name": [
+      "HALFWIDTH HANGUL LETTER THIEUTH",
+      "HALFWIDTH HANGUL LETTER TIEUT"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBD",
+    "name": [
+      "HALFWIDTH HANGUL LETTER PHIEUPH",
+      "HALFWIDTH HANGUL LETTER PIEUP"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBE",
+    "name": [
+      "HALFWIDTH HANGUL LETTER HIEUH"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFBF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC2",
+    "name": [
+      "HALFWIDTH HANGUL LETTER A"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 314F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC3",
+    "name": [
+      "HALFWIDTH HANGUL LETTER AE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3150",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC4",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3151",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC5",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YAE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3152",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC6",
+    "name": [
+      "HALFWIDTH HANGUL LETTER EO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3153",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC7",
+    "name": [
+      "HALFWIDTH HANGUL LETTER E"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3154",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFC9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCA",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YEO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3155",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCB",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3156",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCC",
+    "name": [
+      "HALFWIDTH HANGUL LETTER O"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3157",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCD",
+    "name": [
+      "HALFWIDTH HANGUL LETTER WA"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3158",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCE",
+    "name": [
+      "HALFWIDTH HANGUL LETTER WAE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3159",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFCF",
+    "name": [
+      "HALFWIDTH HANGUL LETTER OE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315A",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD0",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD1",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD2",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315B",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD3",
+    "name": [
+      "HALFWIDTH HANGUL LETTER U"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD4",
+    "name": [
+      "HALFWIDTH HANGUL LETTER WEO"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD5",
+    "name": [
+      "HALFWIDTH HANGUL LETTER WE"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315E",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD6",
+    "name": [
+      "HALFWIDTH HANGUL LETTER WI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 315F",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD7",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3160",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD8",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFD9",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDA",
+    "name": [
+      "HALFWIDTH HANGUL LETTER EU"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3161",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDB",
+    "name": [
+      "HALFWIDTH HANGUL LETTER YI"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3162",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDC",
+    "name": [
+      "HALFWIDTH HANGUL LETTER I"
+    ],
+    "generalCategory": "Lo",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<narrow> 3163",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Hangul",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDD",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDE",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFDF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE0",
+    "name": [
+      "FULLWIDTH CENT SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 00A2",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE1",
+    "name": [
+      "FULLWIDTH POUND SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 00A3",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE2",
+    "name": [
+      "FULLWIDTH NOT SIGN"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 00AC",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE3",
+    "name": [
+      "FULLWIDTH MACRON",
+      "FULLWIDTH SPACING MACRON"
+    ],
+    "generalCategory": "Sk",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 00AF",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE4",
+    "name": [
+      "FULLWIDTH BROKEN BAR",
+      "FULLWIDTH BROKEN VERTICAL BAR"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<wide> 00A6",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE5",
+    "name": [
+      "FULLWIDTH YEN SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 00A5",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE6",
+    "name": [
+      "FULLWIDTH WON SIGN"
+    ],
+    "generalCategory": "Sc",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ET",
+    "decompositionType": "<wide> 20A9",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE7",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE8",
+    "name": [
+      "HALFWIDTH FORMS LIGHT VERTICAL"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 2502",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFE9",
+    "name": [
+      "HALFWIDTH LEFTWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 2190",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFEA",
+    "name": [
+      "HALFWIDTH UPWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 2191",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFEB",
+    "name": [
+      "HALFWIDTH RIGHTWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 2192",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFEC",
+    "name": [
+      "HALFWIDTH DOWNWARDS ARROW"
+    ],
+    "generalCategory": "Sm",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 2193",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFED",
+    "name": [
+      "HALFWIDTH BLACK SQUARE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 25A0",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFEE",
+    "name": [
+      "HALFWIDTH WHITE CIRCLE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<narrow> 25CB",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  },
+  {
+    "codePoint": "FFEF",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Halfwidth_and_Fullwidth_Forms"
+  }
+]

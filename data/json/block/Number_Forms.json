@@ -1,0 +1,1294 @@
+[
+  {
+    "codePoint": "2150",
+    "name": [
+      "VULGAR FRACTION ONE SEVENTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0037",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2151",
+    "name": [
+      "VULGAR FRACTION ONE NINTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0039",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2152",
+    "name": [
+      "VULGAR FRACTION ONE TENTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0031 0030",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2153",
+    "name": [
+      "FRACTION ONE THIRD",
+      "VULGAR FRACTION ONE THIRD"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0033",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2154",
+    "name": [
+      "FRACTION TWO THIRDS",
+      "VULGAR FRACTION TWO THIRDS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0032 2044 0033",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2155",
+    "name": [
+      "FRACTION ONE FIFTH",
+      "VULGAR FRACTION ONE FIFTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0035",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2156",
+    "name": [
+      "FRACTION TWO FIFTHS",
+      "VULGAR FRACTION TWO FIFTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0032 2044 0035",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2/5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2157",
+    "name": [
+      "FRACTION THREE FIFTHS",
+      "VULGAR FRACTION THREE FIFTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0033 2044 0035",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3/5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2158",
+    "name": [
+      "FRACTION FOUR FIFTHS",
+      "VULGAR FRACTION FOUR FIFTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0034 2044 0035",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4/5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2159",
+    "name": [
+      "FRACTION ONE SIXTH",
+      "VULGAR FRACTION ONE SIXTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0036",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215A",
+    "name": [
+      "FRACTION FIVE SIXTHS",
+      "VULGAR FRACTION FIVE SIXTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0035 2044 0036",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5/6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215B",
+    "name": [
+      "FRACTION ONE EIGHTH",
+      "VULGAR FRACTION ONE EIGHTH"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044 0038",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215C",
+    "name": [
+      "FRACTION THREE EIGHTHS",
+      "VULGAR FRACTION THREE EIGHTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0033 2044 0038",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215D",
+    "name": [
+      "FRACTION FIVE EIGHTHS",
+      "VULGAR FRACTION FIVE EIGHTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0035 2044 0038",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215E",
+    "name": [
+      "FRACTION SEVEN EIGHTHS",
+      "VULGAR FRACTION SEVEN EIGHTHS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0037 2044 0038",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7/8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "215F",
+    "name": [
+      "FRACTION NUMERATOR ONE"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0031 2044",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2160",
+    "name": [
+      "ROMAN NUMERAL ONE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2170",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2161",
+    "name": [
+      "ROMAN NUMERAL TWO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0049 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2171",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2162",
+    "name": [
+      "ROMAN NUMERAL THREE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0049 0049 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2172",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2163",
+    "name": [
+      "ROMAN NUMERAL FOUR"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0049 0056",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2173",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2164",
+    "name": [
+      "ROMAN NUMERAL FIVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0056",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2174",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2165",
+    "name": [
+      "ROMAN NUMERAL SIX"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0056 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2175",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2166",
+    "name": [
+      "ROMAN NUMERAL SEVEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0056 0049 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2176",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2167",
+    "name": [
+      "ROMAN NUMERAL EIGHT"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0056 0049 0049 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2177",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2168",
+    "name": [
+      "ROMAN NUMERAL NINE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0049 0058",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2178",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2169",
+    "name": [
+      "ROMAN NUMERAL TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0058",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2179",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216A",
+    "name": [
+      "ROMAN NUMERAL ELEVEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0058 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "11",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217A",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216B",
+    "name": [
+      "ROMAN NUMERAL TWELVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0058 0049 0049",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "12",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217B",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216C",
+    "name": [
+      "ROMAN NUMERAL FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 004C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217C",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216D",
+    "name": [
+      "ROMAN NUMERAL ONE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0043",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217D",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216E",
+    "name": [
+      "ROMAN NUMERAL FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0044",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217E",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "216F",
+    "name": [
+      "ROMAN NUMERAL ONE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 004D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "217F",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2170",
+    "name": [
+      "SMALL ROMAN NUMERAL ONE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2160",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2160",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2171",
+    "name": [
+      "SMALL ROMAN NUMERAL TWO"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0069 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "2",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2161",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2161",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2172",
+    "name": [
+      "SMALL ROMAN NUMERAL THREE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0069 0069 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "3",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2162",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2162",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2173",
+    "name": [
+      "SMALL ROMAN NUMERAL FOUR"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0069 0076",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "4",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2163",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2163",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2174",
+    "name": [
+      "SMALL ROMAN NUMERAL FIVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0076",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2164",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2164",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2175",
+    "name": [
+      "SMALL ROMAN NUMERAL SIX"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0076 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2165",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2165",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2176",
+    "name": [
+      "SMALL ROMAN NUMERAL SEVEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0076 0069 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "7",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2166",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2166",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2177",
+    "name": [
+      "SMALL ROMAN NUMERAL EIGHT"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0076 0069 0069 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "8",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2167",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2167",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2178",
+    "name": [
+      "SMALL ROMAN NUMERAL NINE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0069 0078",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "9",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2168",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2168",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2179",
+    "name": [
+      "SMALL ROMAN NUMERAL TEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0078",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2169",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2169",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217A",
+    "name": [
+      "SMALL ROMAN NUMERAL ELEVEN"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0078 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "11",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216A",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216A",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217B",
+    "name": [
+      "SMALL ROMAN NUMERAL TWELVE"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0078 0069 0069",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "12",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216B",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216B",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217C",
+    "name": [
+      "SMALL ROMAN NUMERAL FIFTY"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 006C",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216C",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216C",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217D",
+    "name": [
+      "SMALL ROMAN NUMERAL ONE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0063",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216D",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216D",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217E",
+    "name": [
+      "SMALL ROMAN NUMERAL FIVE HUNDRED"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 0064",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "500",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216E",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216E",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "217F",
+    "name": [
+      "SMALL ROMAN NUMERAL ONE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "<compat> 006D",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "216F",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "216F",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2180",
+    "name": [
+      "ROMAN NUMERAL ONE THOUSAND C D"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "1000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2181",
+    "name": [
+      "ROMAN NUMERAL FIVE THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "5000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2182",
+    "name": [
+      "ROMAN NUMERAL TEN THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "10000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2183",
+    "name": [
+      "ROMAN NUMERAL REVERSED ONE HUNDRED"
+    ],
+    "generalCategory": "Lu",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "2184",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2184",
+    "name": [
+      "LATIN SMALL LETTER REVERSED C"
+    ],
+    "generalCategory": "Ll",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "2183",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "2183",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2185",
+    "name": [
+      "ROMAN NUMERAL SIX LATE FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "6",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2186",
+    "name": [
+      "ROMAN NUMERAL FIFTY EARLY FORM"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2187",
+    "name": [
+      "ROMAN NUMERAL FIFTY THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "50000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2188",
+    "name": [
+      "ROMAN NUMERAL ONE HUNDRED THOUSAND"
+    ],
+    "generalCategory": "Nl",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "L",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "100000",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Latin",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "2189",
+    "name": [
+      "VULGAR FRACTION ZERO THIRDS"
+    ],
+    "generalCategory": "No",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "<fraction> 0030 2044 0033",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "0",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218A",
+    "name": [
+      "TURNED DIGIT TWO"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218B",
+    "name": [
+      "TURNED DIGIT THREE"
+    ],
+    "generalCategory": "So",
+    "canonicalCombiningClass": "0",
+    "bidiClass": "ON",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Common",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218C",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218D",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218E",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Number_Forms"
+  },
+  {
+    "codePoint": "218F",
+    "name": [
+      "undefined"
+    ],
+    "generalCategory": "",
+    "canonicalCombiningClass": "",
+    "bidiClass": "",
+    "decompositionType": "",
+    "numericType1": "",
+    "numericType2": "",
+    "numericValue": "",
+    "bidiMirrored": {},
+    "_unknown": "",
+    "_capitalLetter": "",
+    "_caseFoldingLower": "",
+    "_caseFoldingUpper": "",
+    "script": "Unknown",
+    "block": "Number_Forms"
+  }
+]

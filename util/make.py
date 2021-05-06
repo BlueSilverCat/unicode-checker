@@ -5,13 +5,17 @@ import pdb
 import os.path
 from operator import itemgetter, attrgetter
 
-# BlocksTxtPath = r".\data\Blocks.txt"
-BlocksTxtPath = r".\data\Blocks copy.txt"
+import regex
+
+BlocksTxtPath = r".\data\Blocks.txt"
 NameTxtPath = r".\data\DerivedName.txt"
 AliasTxtPath = r".\data\NameAliases.txt"
 ScriptsTxtPath = r".\data\Scripts.txt"
 PropertyValueAliasesTxtPath = r".\data\PropertyValueAliases.txt"
 PropertyAliasesTxtPath = r".\data\PropertyAliases.txt"
+BidiBracketsTxtPath = r".\data\BidiBrackets.txt"
+BidiMirroringTxtPath = r".\data\BidiMirroring.txt"
+BidiClassTxtPath = r".\data\DerivedBidiClass.txt"
 UnicodeDataTxtPath = r".\data\UnicodeData.txt"
 
 OutputPath = r".\data\json\block"
@@ -19,6 +23,7 @@ OutputBlockPath = r".\data\json\UnicodeBlocks.json"
 OutputScriptNamePath = r".\data\json\ScriptName.json"
 OutputGeneralCategoryNamePath = r".\data\json\GeneralCategoryName.json"
 OutputBinaryPropertyNamePath = r".\data\json\BinaryPropertyName.json"
+OutputBidiClassNamePath = r".\data\json\BidiClassName.json"
 
 
 def toHexNum(val):
@@ -171,6 +176,29 @@ def readAliases(path):
       line = file.readline()
   return result
 
+def readBidiMirread(path):
+  reObj = re.compile(r"^(?P<codePoint>[0-9a-fA-F]+); (?P<codePointMirred>[0-9a-fA-F]+)")
+  result = {}
+  with open(path, "r", encoding="utf-8") as file:
+    line = file.readline()
+    while line != "":
+      r = reObj.search(line)
+      if r is not None:
+        result[r["codePoint"]] = {"mirror": r["codePointMirred"], "type": ""}
+      line = file.readline()
+  return result
+
+def readBidiBrackets(path, data):
+  reObj = re.compile(r"^(?P<codePoint>[0-9a-fA-F]+); (?P<codePointMirred>[0-9a-fA-F]+); (?P<type>.)")
+  with open(path, "r", encoding="utf-8") as file:
+    line = file.readline()
+    while line != "":
+      r = reObj.search(line)
+      if r is not None:
+        t = "open" if r["type"] == "o" else "close"
+        data[r["codePoint"]] = {"mirror": r["codePointMirred"], "type": t}
+      line = file.readline()
+  return data
 
 def readScripts(path):
   reObj = re.compile(r"^(?P<start>[0-9a-fA-F]+)..?(?P<end>[0-9a-fA-F]+)? +; (?P<name>[^; \n]+)")
@@ -262,6 +290,16 @@ def readBinaryPropertyName(path):
   result.sort(key=itemgetter("short"))
   return result
 
+def readBidiClassName(path):
+  with open(path, "r", encoding="utf-8") as file:
+    data = file.read()
+  result = []
+  reObj = regex.Regex(r"# Bidi_Class=(?P<long>.+)\n\n[0-9a-fA-F]+(\.\.[0-9a-fA-F]+)? *; (?P<short>[^ \n]+)")
+  reObj.search(data)
+  for match in reObj.matches:
+    result.append({"long": match["long"], "short": match["short"]})
+  result.sort(key=itemgetter("short"))
+  return result
 
 def parseName(name, lt):
   reObj = re.compile(r"([^()\n]+)(?:\((.+)\))?")
@@ -299,11 +337,10 @@ def getObject(match, name=None, codePoint=None):
       "numericType2": match["numericType2"],
       "numericValue": match["numericValue"],
       "bidiMirrored": match["bidiMirrored"],
-      # "_alias": match["_alias"],
       "_unknown": match["_unknown"],
       "_capitalLetter": match["_capitalLetter"],
       "_caseFoldingLower": match["_caseFoldingLower"],  # lower
-      "_caseFoldingUpper": match["_caseFoldingUpper"],  # upper caseFolding2, 別のグリフ?がある 大文字小文字
+      "_caseFoldingUpper": match["_caseFoldingUpper"],  # upper
   }
 
 
@@ -357,6 +394,11 @@ def getScript(data, codePoint):
   except:
     return "Unknown"
 
+def getBidiMirroring(data, codePoint):
+  try:
+    return data[toHexStr(codePoint)]
+  except:
+    return {}
 
 def readData(path, blockData):
   result = {}
@@ -395,7 +437,7 @@ def setNames(codePoint, data, names):
   data["name"].sort()
 
 
-def makeInfo(blockData, basicData, nameData, aliasData, scriptData):
+def makeInfo(blockData, basicData, nameData, aliasData, scriptData, bidiData):
   data = []
   for block in blockData:
     start = toHexNum(block["start"])
@@ -403,6 +445,7 @@ def makeInfo(blockData, basicData, nameData, aliasData, scriptData):
     for i in range(start, end + 1):
       info = getInfo(basicData, i)
       setNames(i, info, aliasData)
+      info["bidiMirrored"] = getBidiMirroring(bidiData, i)
       info["script"] = getScript(scriptData, i)
       info["block"] = block["long"]
       data.append(info)
@@ -425,19 +468,23 @@ def dumpUnicodeData(path, data, blockData):
 
 
 if __name__ == "__main__":
-  nameData = readNames(NameTxtPath)
-  blockName = readBlockName(PropertyValueAliasesTxtPath)
-  generalCatetoryName = readGeneralCategoryName(PropertyValueAliasesTxtPath)
-  binaryPropertyName = readBinaryPropertyName(PropertyAliasesTxtPath)
-  blockData = readBlocks(BlocksTxtPath, blockName)
-  aliasData = readAliases(AliasTxtPath)
-  scriptData = readScripts(ScriptsTxtPath)
-  scriptName = readScriptName(PropertyValueAliasesTxtPath)
-  basicData = readData(UnicodeDataTxtPath, blockData)
+  # nameData = readNames(NameTxtPath)
+  # bidiData = readBidiMirread(BidiMirroringTxtPath)
+  # bidiData = readBidiBrackets(BidiBracketsTxtPath, bidiData)
+  # blockName = readBlockName(PropertyValueAliasesTxtPath)
+  # generalCatetoryName = readGeneralCategoryName(PropertyValueAliasesTxtPath)
+  # binaryPropertyName = readBinaryPropertyName(PropertyAliasesTxtPath)
+  # blockData = readBlocks(BlocksTxtPath, blockName)
+  # aliasData = readAliases(AliasTxtPath)
+  # scriptData = readScripts(ScriptsTxtPath)
+  # scriptName = readScriptName(PropertyValueAliasesTxtPath)
+  # basicData = readData(UnicodeDataTxtPath, blockData)
+  bidiName = readBidiClassName(BidiClassTxtPath)
+  dump(OutputBidiClassNamePath, bidiName)
 
-  data = makeInfo(blockData, basicData, nameData, aliasData, scriptData)
-  dumpUnicodeData(OutputPath, data, blockData)
-  dump(OutputBlockPath, blockData)
-  dump(OutputScriptNamePath, scriptName)
-  dump(OutputGeneralCategoryNamePath, generalCatetoryName)
-  dump(OutputBinaryPropertyNamePath, binaryPropertyName)
+  # data = makeInfo(blockData, basicData, nameData, aliasData, scriptData, bidiData)
+  # dumpUnicodeData(OutputPath, data, blockData)
+  # dump(OutputBlockPath, blockData)
+  # dump(OutputScriptNamePath, scriptName)
+  # dump(OutputGeneralCategoryNamePath, generalCatetoryName)
+  # dump(OutputBinaryPropertyNamePath, binaryPropertyName)
